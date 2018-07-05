@@ -1,0 +1,91 @@
+baseURL = "https://khabardaarpodcast.com/"
+languageCode = "en-us"
+title = "Khabardaar Podcast"
+theme = "castanet"
+googleAnalytics = "UA-114529246-1"
+
+[permalinks]
+  # page = "/:filename/"
+  about = "/:filename/"
+  episode = "/:filename/"
+
+# The theme supports menus with up to one submenu per menu item
+# The menu name must be "Main"
+# The menus are sorted based upon their identifier
+[[Menu.Main]]
+    name = "About"
+    identifier = "about"
+    url = "about"
+
+[[Menu.Main]]
+    name = "Hosts"
+    identifier = "hosts"
+    url = "host"
+
+[params]
+site_theme = "orange"
+site_layout = "grid"
+enable_jumbo = "true"
+# truncate = "100"
+about_logo = "/img/kplogowebsite.png"
+copyright_notice = "Copyright &copy; 2018"
+itunes_subscribe = "https://itunes.apple.com/podcast/khabardaar-podcast/id1351517692"
+#android_subscribe = "http://subscribeonandroid.com/feeds.podtrac.com/VGAulpN7MY1U"
+google_play_subscribe = "https://play.google.com/music/m/I2lwp2i7vthox4ztdw2zky6jyiy?t=Khabardaar_Podcast"
+#stitcher_subscribe = "http://www.stitcher.com/podcast/khabardaar-podcast-2/khabardaar-podcast"
+soundcloud_subscribe = "http://feeds.soundcloud.com/users/soundcloud:users:403881909/sounds.rss"
+#pocketcasts_subscribe = "http://pcasts.in/feed/feeds.soundcloud.com/users/soundcloud:users:203144248/sounds.rss"
+mailchimp_subscribe = "http://eepurl.com/dluLDn"
+#rss_subscribe = "http://feed.com/myfeed" #only set this if you don't want to use the built-in feed
+description = "Khabardaar is a weekly Hindi language podcast discussing Bollywood movies. Hosted by lifelong Bollywood fans Aparita Bhandari and Baisakhi Roy, it offers an in-depth look at the Hindi film industry. [Subscribe today](http://eepurl.com/dluLDn)!"
+
+media_prefix = "https://khabardaarpodcast.com/media/"
+  [params.feed]
+    feed_copyright = "Copyright 2018" #do not use markdown in this field; it is used in the feed
+    itunes_subtitle = "Your weekly Bollywood fix" #no markdown or HTML
+    itunes_author = "Khabardaar Podcast" #no markdown or HTML
+    itunes_summary = "Khabardaar is a weekly Hindi language podcast discussing Bollywood movies. Hosted by lifelong Bollywood fans Aparita Bhandari and Baisakhi Roy, it offers an in-depth look at the Hindi film industry." # Limited to 4000 characters or less, plain text, no HTML
+    itunes_owner_name = "Khabardaar Podcast"
+    itunes_owner_email = "writeme@aparita.com" #contains the e-mail address that will be used to contact the owner of the Podcast for communication specifically about their Podcast on iTunes. It will not be publicly displayed on iTunes.
+    itunes_image = "https://khabardaarpodcast.com/img/kplogoitunes.png" #fqdn to the image art for your podcast
+    itunes_top_category = "TV & Film"
+    itunes_first_sub_category = ""
+    itunes_second_sub_category = ""
+
+  [params.social]
+    #github = "khabardaarpodcast"
+    #gitlab = "aparitabhandari"
+    facebook = "khabardaarpodcast"
+    #facebook_admin = "123456789"  # This needs to be a page admin to get domain insights
+    #twitter = "khabardaarpodcast"
+    #twitter_domain = "khabardaarpodcast.com" # This domain shows in twitter cards as "View on `twitter_domain`"
+    #googleplus = "KhabardaarPodcast"
+    #instagram = "khabardaarpodcast"
+    #youtube = "khabardaarpodcast"
+    #linkedin = "aparitabhandari"
+
+  [params.authors]
+    [params.authors.Aparita]
+      name = "Aparita Bhandari"
+      thumbnail = "img/host/aparitabhandari.png"
+      bio = "Aparita Bhandari is an arts/life journalist based out of Toronto. She regularly contributes to a wide range of media outlets, both print and radio; check out her website www.aparita.com for more information. Despite her many distractions (knitting, fountain pens, baking), Bollywood and Toblerone bars have been two constants in her life."
+      [params.authors.Aparita.social]
+        #github = "aparita"
+        facebook = "aparita"
+        twitter = "aparita"
+        #linkedin = "aparitabhandari"
+        homepage = "https://www.aparita.com"
+        #pinterest = "aparitabhandari"
+        instagram = "aparitab"
+        #youtube = "aparitabhandari"
+    [params.authors.Baisakhi]
+      name = "Baisakhi Roy"
+      thumbnail = "/img/host/baisakhiroy.png"
+      bio = ""
+      [params.authors.Baisakhi.social]
+        twitter = "baisakhiroy"
+
+    [params.links]
+      [params.links.ado]
+        name = "Khabardaar Podcast"
+        url = "https://khabardaarpodcast.com"
