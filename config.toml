@@ -39,7 +39,7 @@ mailchimp_subscribe = "http://eepurl.com/dluLDn"
 #rss_subscribe = "http://feed.com/myfeed" #only set this if you don't want to use the built-in feed
 description = "Khabardaar is a weekly Hindi language podcast discussing Bollywood movies. Hosted by lifelong Bollywood fans Aparita Bhandari and Baisakhi Roy, it offers an in-depth look at the Hindi film industry. [Subscribe today](http://eepurl.com/dluLDn)!"
 
-media_prefix = "https://khabardaarpodcast.com/media/"
+media_prefix = "http://static.khabardaarpodcast.com/media/"
   [params.feed]
     feed_copyright = "Copyright 2018" #do not use markdown in this field; it is used in the feed
     itunes_subtitle = "Your weekly Bollywood fix" #no markdown or HTML
