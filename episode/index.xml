@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+     xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Khabardaar Podcast</title>
+    <atom:link href="https://khabardaarpodcast.com/episode/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://khabardaarpodcast.com/</link>
+    <lastBuildDate>Wed, 27 Jun 2018 04:10:07 -0500</lastBuildDate>
+    <sy:updatePeriod>hourly</sy:updatePeriod>
+    <sy:updateFrequency>1</sy:updateFrequency>
+    <language>hi</language>
+    <copyright></copyright>
+    <itunes:subtitle>Your weekly Bollywood fix</itunes:subtitle>
+    <itunes:author>Khabardaar Podcast</itunes:author>
+    <itunes:summary>Khabardaar is a weekly Hindi language podcast discussing Bollywood movies. Hosted by lifelong Bollywood fans Aparita Bhandari and Baisakhi Roy, it offers an in-depth look at the Hindi film industry.</itunes:summary>
+    <description>Khabardaar is a weekly Hindi language podcast discussing Bollywood movies. Hosted by lifelong Bollywood fans Aparita Bhandari and Baisakhi Roy, it offers an in-depth look at the Hindi film industry.</description>
+    <itunes:owner>
+    <itunes:name>Khabardaar Podcast</itunes:name>
+    <itunes:email>writeme@aparita.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://khabardaarpodcast.com/img/kplogoitunes.png" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:category text="TV &amp; Film">
+      </itunes:category>
+        <item>
+          <title>#17 Lust Stories</title>
+          <itunes:author> </itunes:author>
+          <itunes:summary>Episode 17: After Bombay Talkies (2013), four famous Bollywood or Hindi cinema directors - Anurag Kashyap, Zoya Akhtar, Dibakar Banerjee and Karan Johar - come together to make a Netflix special, a four film anthology called Lust Stories.></itunes:summary>
+          <description>Episode 17: After Bombay Talkies (2013), four famous Bollywood or Hindi cinema directors - Anurag Kashyap, Zoya Akhtar, Dibakar Banerjee and Karan Johar - come together to make a Netflix special, a four film anthology called Lust Stories.></description>
+          <enclosure url="http://static.khabardaarpodcast.com/media/khabardaar-20180627-lust-stories.mp3"  type="audio/mpeg" />
+          <guid>http://static.khabardaarpodcast.com/media/khabardaar-20180627-lust-stories.mp3</guid>
+          <link>https://khabardaarpodcast.com/lust-stories/</link>
+          <pubDate>Wed, 27 Jun 2018 04:10:07 -0500 </pubDate><itunes:duration>0:59:45</itunes:duration><itunes:explicit>no</itunes:explicit></item>
+        <item>
+          <title>#16 Veere Di Wedding</title>
+          <itunes:author> </itunes:author>
+          <itunes:summary>Episode 16: Veere Di Wedding shows girls can have fun and make a box-office hit too! Starring Kareena Kapoor Khan, Sonam K. Ahuja, Swara Bhaskar and Shikha Talsania.></itunes:summary>
+          <description>Episode 16: Veere Di Wedding shows girls can have fun and make a box-office hit too! Starring Kareena Kapoor Khan, Sonam K. Ahuja, Swara Bhaskar and Shikha Talsania.></description>
+          <enclosure url="http://static.khabardaarpodcast.com/media/khabardaar-20180620-vdw.mp3"  type="audio/mpeg" />
+          <guid>http://static.khabardaarpodcast.com/media/khabardaar-20180620-vdw.mp3</guid>
+          <link>https://khabardaarpodcast.com/veere-di-wedding/</link>
+          <pubDate>Wed, 20 Jun 2018 04:10:07 -0500 </pubDate><itunes:duration>0:54:48</itunes:duration><itunes:explicit>no</itunes:explicit></item>
+        <item>
+          <title>#15 7 Din Mohabbat In</title>
+          <itunes:author> </itunes:author>
+          <itunes:summary>Episode 15: Pakistani stars Mahira Khan and Sheheryar Munawar Siddiqui talk about their latest film 7 Din Mohabbat In.></itunes:summary>
+          <description>Episode 15: Pakistani stars Mahira Khan and Sheheryar Munawar Siddiqui talk about their latest film 7 Din Mohabbat In.></description>
+          <enclosure url="http://static.khabardaarpodcast.com/media/khabardaar-20180613-7din.mp3"  type="audio/mpeg" />
+          <guid>http://static.khabardaarpodcast.com/media/khabardaar-20180613-7din.mp3</guid>
+          <link>https://khabardaarpodcast.com/7din/</link>
+          <pubDate>Wed, 13 Jun 2018 04:10:07 -0500 </pubDate><itunes:duration>0:32:07</itunes:duration><itunes:explicit>no</itunes:explicit></item>
+        <item>
+          <title>#14 Raazi</title>
+          <itunes:author> </itunes:author>
+          <itunes:summary>Episode 14: Starring Alia Bhatt, Raazi shines a spotlight on the true story of an unlikely female spy.></itunes:summary>
+          <description>Episode 14: Starring Alia Bhatt, Raazi shines a spotlight on the true story of an unlikely female spy.></description>
+          <enclosure url="http://static.khabardaarpodcast.com/media/khabardaar-20180523-raazi.mp3"  type="audio/mpeg" />
+          <guid>http://static.khabardaarpodcast.com/media/khabardaar-20180523-raazi.mp3</guid>
+          <link>https://khabardaarpodcast.com/raazi/</link>
+          <pubDate>Wed, 23 May 2018 04:10:07 -0500 </pubDate><itunes:duration>0:41:02</itunes:duration><itunes:explicit>no</itunes:explicit></item>
+        <item>
+          <title>#13 Sonu Ke Titu Ki Sweety</title>
+          <itunes:author> </itunes:author>
+          <itunes:summary>Episode 13: Are Luv Ranjan films such as Pyaar Ka Punchnama and Sonu Ke Titu Ki Sweety misogynistic? Aparita and Baisakhi debate in two episodes.></itunes:summary>
+          <description>Episode 13: Are Luv Ranjan films such as Pyaar Ka Punchnama and Sonu Ke Titu Ki Sweety misogynistic? Aparita and Baisakhi debate in two episodes.></description>
+          <enclosure url="http://static.khabardaarpodcast.com/media/khabardaar-20180516-sktks.mp3"  type="audio/mpeg" />
+          <guid>http://static.khabardaarpodcast.com/media/khabardaar-20180516-sktks.mp3</guid>
+          <link>https://khabardaarpodcast.com/sktks/</link>
+          <pubDate>Wed, 16 May 2018 04:10:07 -0500 </pubDate><itunes:duration>0:41:02</itunes:duration><itunes:explicit>no</itunes:explicit></item>
+        <item>
+          <title>#12 Pyaar Ka Punchnama</title>
+          <itunes:author> </itunes:author>
+          <itunes:summary>Episode 12: Are Luv Ranjan films such as Pyaar Ka Punchnama and Sonu Ke Titu Ki Sweety misogynistic? Aparita and Baisakhi debate in two episodes.></itunes:summary>
+          <description>Episode 12: Are Luv Ranjan films such as Pyaar Ka Punchnama and Sonu Ke Titu Ki Sweety misogynistic? Aparita and Baisakhi debate in two episodes.></description>
+          <enclosure url="http://static.khabardaarpodcast.com/media/khabardaar-20180509-pkp.mp3"  type="audio/mpeg" />
+          <guid>http://static.khabardaarpodcast.com/media/khabardaar-20180509-pkp.mp3</guid>
+          <link>https://khabardaarpodcast.com/punchnama/</link>
+          <pubDate>Wed, 09 May 2018 04:10:07 -0500 </pubDate><itunes:duration>1:00:05</itunes:duration><itunes:explicit>no</itunes:explicit></item>
+        <item>
+          <title>#11 Shakespeare Wallah</title>
+          <itunes:author> </itunes:author>
+          <itunes:summary>Episode 11: A look at Tungrus, a contemporary Indian documentary, and Shakespeare Wallah, the Merchant Ivory classic starring Shashi Kapoor, Felicity Kendal and Madhur Jaffray.></itunes:summary>
+          <description>Episode 11: A look at Tungrus, a contemporary Indian documentary, and Shakespeare Wallah, the Merchant Ivory classic starring Shashi Kapoor, Felicity Kendal and Madhur Jaffray.></description>
+          <enclosure url="http://static.khabardaarpodcast.com/media/khabardaar-20180502-shakespearewallah.mp3"  type="audio/mpeg" />
+          <guid>http://static.khabardaarpodcast.com/media/khabardaar-20180502-shakespearewallah.mp3</guid>
+          <link>https://khabardaarpodcast.com/shakespearewallah/</link>
+          <pubDate>Wed, 02 May 2018 04:10:07 -0500 </pubDate><itunes:duration>0:51:25</itunes:duration><itunes:explicit>no</itunes:explicit></item>
+        <item>
+          <title>#10 October</title>
+          <itunes:author> </itunes:author>
+          <itunes:summary>Episode 10: Shoojit Sircar’s latest film October contemplates the journey of Dan (Varun Dhawan) as he comes to appreciate his life while facing his colleague Shiuli’s (Banita Sandhu) brush with death.></itunes:summary>
+          <description>Episode 10: Shoojit Sircar’s latest film October contemplates the journey of Dan (Varun Dhawan) as he comes to appreciate his life while facing his colleague Shiuli’s (Banita Sandhu) brush with death.></description>
+          <enclosure url="http://static.khabardaarpodcast.com/media/khabardaar-20180425-october.mp3"  type="audio/mpeg" />
+          <guid>http://static.khabardaarpodcast.com/media/khabardaar-20180425-october.mp3</guid>
+          <link>https://khabardaarpodcast.com/october/</link>
+          <pubDate>Wed, 25 Apr 2018 04:10:07 -0500 </pubDate><itunes:duration>0:52:40</itunes:duration><itunes:explicit>no</itunes:explicit></item>
+        <item>
+          <title>#9 Cake</title>
+          <itunes:author> </itunes:author>
+          <itunes:summary>Episode 9: Starring Sanam Saeed and Aamina Sheikh in leading roles, Asim Abbasi’s debut film Cake steps away from the traditional formula of Pakistani films.></itunes:summary>
+          <description>Episode 9: Starring Sanam Saeed and Aamina Sheikh in leading roles, Asim Abbasi’s debut film Cake steps away from the traditional formula of Pakistani films.></description>
+          <enclosure url="http://static.khabardaarpodcast.com/media/khabardaar-20180418-cake.mp3"  type="audio/mpeg" />
+          <guid>http://static.khabardaarpodcast.com/media/khabardaar-20180418-cake.mp3</guid>
+          <link>https://khabardaarpodcast.com/cake/</link>
+          <pubDate>Wed, 18 Apr 2018 04:10:07 -0500 </pubDate><itunes:duration>0:59:42</itunes:duration><itunes:explicit>no</itunes:explicit></item>
+        <item>
+          <title>#8 Blackmail</title>
+          <itunes:author> </itunes:author>
+          <itunes:summary>Episode 8: Irrfan Khan’s latest film Blackmail has been billed as a dark comedy. Early reviews also called it a satire on marriage. Aparita and Baisakhi discuss whether the movie truly lives up to the potential of its premise.></itunes:summary>
+          <description>Episode 8: Irrfan Khan’s latest film Blackmail has been billed as a dark comedy. Early reviews also called it a satire on marriage. Aparita and Baisakhi discuss whether the movie truly lives up to the potential of its premise.></description>
+          <enclosure url="http://static.khabardaarpodcast.com/media/khabardaar-20180411-blackmail.mp3"  type="audio/mpeg" />
+          <guid>http://static.khabardaarpodcast.com/media/khabardaar-20180411-blackmail.mp3</guid>
+          <link>https://khabardaarpodcast.com/blackmail/</link>
+          <pubDate>Wed, 11 Apr 2018 04:10:07 -0500 </pubDate><itunes:duration>0:34:25</itunes:duration><itunes:explicit>no</itunes:explicit></item>
+        <item>
+          <title>#7 Farooq Sheikh</title>
+          <itunes:author> </itunes:author>
+          <itunes:summary>Episode 7: A special episode on Farooq Sheikh. With Baisakhi Roy away on vacation, Aparita Bhandari looks at the work of the veteran Bollywood actor, beloved by his fans, who died of a heart attack on 28 December 2013.></itunes:summary>
+          <description>Episode 7: A special episode on Farooq Sheikh. With Baisakhi Roy away on vacation, Aparita Bhandari looks at the work of the veteran Bollywood actor, beloved by his fans, who died of a heart attack on 28 December 2013.></description>
+          <enclosure url="http://static.khabardaarpodcast.com/media/khabardaar-20180404-farooq.mp3"  type="audio/mpeg" />
+          <guid>http://static.khabardaarpodcast.com/media/khabardaar-20180404-farooq.mp3</guid>
+          <link>https://khabardaarpodcast.com/farooq/</link>
+          <pubDate>Wed, 04 Apr 2018 04:10:07 -0500 </pubDate><itunes:duration>0:34:25</itunes:duration><itunes:explicit>no</itunes:explicit></item>
+        <item>
+          <title>#6 Hichki</title>
+          <itunes:author> </itunes:author>
+          <itunes:summary>Episode 6: Hichki marks the return of Rani Mukherji in the role of a teacher with Tourette Syndrome. After a round of Geeton Ka Ghanchakkar and Filmi Khabrein, we discuss how disability has been portrayed in Bollywood films in our main segment Bollywood Behes.></itunes:summary>
+          <description>Episode 6: Hichki marks the return of Rani Mukherji in the role of a teacher with Tourette Syndrome. After a round of Geeton Ka Ghanchakkar and Filmi Khabrein, we discuss how disability has been portrayed in Bollywood films in our main segment Bollywood Behes.></description>
+          <enclosure url="http://static.khabardaarpodcast.com/media/khabardaar-20180328-hichki.mp3"  type="audio/mpeg" />
+          <guid>http://static.khabardaarpodcast.com/media/khabardaar-20180328-hichki.mp3</guid>
+          <link>https://khabardaarpodcast.com/hichki/</link>
+          <pubDate>Wed, 28 Mar 2018 04:10:07 -0500 </pubDate><itunes:duration>0:50:32</itunes:duration><itunes:explicit>no</itunes:explicit></item>
+        <item>
+          <title>#5 Pyaasa</title>
+          <itunes:author> </itunes:author>
+          <itunes:summary>Episode 5: In our fifth episode, we look at Pyaasa, a cult classic Bollywood film. After a round of Geeton Ka Ghanchakkar (The Pyaasa Edition) and Filmi Khabrein, we discuss what makes Pyaasa such an iconic Hindi film as part of our main segment Bollywood Behes.></itunes:summary>
+          <description>Episode 5: In our fifth episode, we look at Pyaasa, a cult classic Bollywood film. After a round of Geeton Ka Ghanchakkar (The Pyaasa Edition) and Filmi Khabrein, we discuss what makes Pyaasa such an iconic Hindi film as part of our main segment Bollywood Behes.></description>
+          <enclosure url="http://static.khabardaarpodcast.com/media/khabardaar-20180321-pyaasa.mp3"  type="audio/mpeg" />
+          <guid>http://static.khabardaarpodcast.com/media/khabardaar-20180321-pyaasa.mp3</guid>
+          <link>https://khabardaarpodcast.com/pyaasa/</link>
+          <pubDate>Wed, 21 Mar 2018 04:10:07 -0500 </pubDate><itunes:duration>0:45:18</itunes:duration><itunes:explicit>no</itunes:explicit></item>
+        <item>
+          <title>#4 Pari</title>
+          <itunes:author> </itunes:author>
+          <itunes:summary>Episode 4: In our fourth episode, we look at Pari and Bollywood’s latest take on the horror film genre. After a round of Geeton Ka Ghanchakkar (The Horror Edition) and Filmi Khabrein, we discuss how Pari fits into the Bollywood horror films tradition as part of our main segment Bollywood Behes.></itunes:summary>
+          <description>Episode 4: In our fourth episode, we look at Pari and Bollywood’s latest take on the horror film genre. After a round of Geeton Ka Ghanchakkar (The Horror Edition) and Filmi Khabrein, we discuss how Pari fits into the Bollywood horror films tradition as part of our main segment Bollywood Behes.></description>
+          <enclosure url="http://static.khabardaarpodcast.com/media/khabardaar-20180314-pari.mp3"  type="audio/mpeg" />
+          <guid>http://static.khabardaarpodcast.com/media/khabardaar-20180314-pari.mp3</guid>
+          <link>https://khabardaarpodcast.com/pari/</link>
+          <pubDate>Wed, 14 Mar 2018 04:10:07 -0500 </pubDate><itunes:duration>0:44:00</itunes:duration><itunes:explicit>no</itunes:explicit></item>
+        <item>
+          <title>#3 Remembering Sridevi</title>
+          <itunes:author> </itunes:author>
+          <itunes:summary>Episode 3: In our third episode, we pay tribute to Bollywood icon Sridevi. After a round of Geeton Ka Ghanchakkar dedicated to famous songs featuring Sridevi and Filmi Khabrein, we discuss the Bollywood star’s legacy as part of our main segment Bollywood Behes.></itunes:summary>
+          <description>Episode 3: In our third episode, we pay tribute to Bollywood icon Sridevi. After a round of Geeton Ka Ghanchakkar dedicated to famous songs featuring Sridevi and Filmi Khabrein, we discuss the Bollywood star’s legacy as part of our main segment Bollywood Behes.></description>
+          <enclosure url="http://static.khabardaarpodcast.com/media/khabardaar-20180307-sridevi.mp3"  type="audio/mpeg" />
+          <guid>http://static.khabardaarpodcast.com/media/khabardaar-20180307-sridevi.mp3</guid>
+          <link>https://khabardaarpodcast.com/sridevi-tribute/</link>
+          <pubDate>Wed, 07 Mar 2018 04:10:07 -0500 </pubDate><itunes:duration>0:45:47</itunes:duration><itunes:explicit>no</itunes:explicit></item>
+        <item>
+          <title>#2 Aiyyary</title>
+          <itunes:author> </itunes:author>
+          <itunes:summary>Episode 2: In our second episode, after a round of Geeton Ka Ghanchakkar (where we discuss Bollywood songs stuck in our heads) and Filmi Khabrein, we discuss Bollywood’s spy films in our main segment Bollywood Behes.></itunes:summary>
+          <description>Episode 2: In our second episode, after a round of Geeton Ka Ghanchakkar (where we discuss Bollywood songs stuck in our heads) and Filmi Khabrein, we discuss Bollywood’s spy films in our main segment Bollywood Behes.></description>
+          <enclosure url="http://static.khabardaarpodcast.com/media/khabardaar-20180228-aiyyary.mp3"  type="audio/mpeg" />
+          <guid>http://static.khabardaarpodcast.com/media/khabardaar-20180228-aiyyary.mp3</guid>
+          <link>https://khabardaarpodcast.com/aiyyary/</link>
+          <pubDate>Wed, 28 Feb 2018 04:10:07 -0500 </pubDate><itunes:duration>0:46:40</itunes:duration><itunes:explicit>no</itunes:explicit></item>
+        <item>
+          <title>#1 Pad Man</title>
+          <itunes:author> </itunes:author>
+          <itunes:summary>Episode 1: In the debut episode, an introduction to Khabardaar podcast, a quick hit of Bollywood news, and then the main segment - discussing Pad Man taking on the theme of menstruation and sanitary pads.></itunes:summary>
+          <description>Episode 1: In the debut episode, an introduction to Khabardaar podcast, a quick hit of Bollywood news, and then the main segment - discussing Pad Man taking on the theme of menstruation and sanitary pads.></description>
+          <enclosure url="http://static.khabardaarpodcast.com/media/khabardaar-20180220-padman.mp3"  type="audio/mpeg" />
+          <guid>http://static.khabardaarpodcast.com/media/khabardaar-20180220-padman.mp3</guid>
+          <link>https://khabardaarpodcast.com/padman/</link>
+          <pubDate>Tue, 20 Feb 2018 04:10:07 -0500 </pubDate><itunes:duration>0:35:11</itunes:duration><itunes:explicit>no</itunes:explicit></item>
+        <item>
+          <title>Introducing Khabardaar!</title>
+          <itunes:author> </itunes:author>
+          <itunes:summary>Teaser: A quick introduction to Khabardaar’s two hosts, Aparita Bhandari and Baisakhi Roy.></itunes:summary>
+          <description>Teaser: A quick introduction to Khabardaar’s two hosts, Aparita Bhandari and Baisakhi Roy.></description>
+          <enclosure url="http://static.khabardaarpodcast.com/media/khabardaar-20180219-teaser.mp3"  type="audio/mpeg" />
+          <guid>http://static.khabardaarpodcast.com/media/khabardaar-20180219-teaser.mp3</guid>
+          <link>https://khabardaarpodcast.com/teaser/</link>
+          <pubDate>Mon, 19 Feb 2018 04:10:04 -0500 </pubDate><itunes:duration>0:02:03</itunes:duration><itunes:explicit>no</itunes:explicit></item></channel>
+</rss>
