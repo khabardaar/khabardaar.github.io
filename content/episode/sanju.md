@@ -1,5 +1,5 @@
 +++
-Description = "Episode 18: Sanju purports to give audiences the true story of Sanjay Dutt, told straight by Sanjay baba himself, warts and all -- no intermediaries or anonymous sources. Why is the film so superficial then?"
+Description = "Episode 18: Sanju purports to give audiences the true story of Sanjay Dutt, told straight by Sanjay baba himself, warts and all - no intermediaries or anonymous sources. Why is the film so superficial then?"
 aliases = ["/18"]
 author = "Aparita"
 categories = []
