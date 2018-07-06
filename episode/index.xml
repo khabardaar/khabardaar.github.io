@@ -12,7 +12,7 @@
     <title>Khabardaar Podcast</title>
     <atom:link href="https://khabardaarpodcast.com/episode/index.xml" rel="self" type="application/rss+xml" />
     <link>https://khabardaarpodcast.com/</link>
-    <lastBuildDate>Wed, 27 Jun 2018 04:10:07 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 4 Jul 2018 04:10:07 -0500</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>hi</language>
@@ -29,6 +29,15 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="TV &amp; Film">
       </itunes:category>
+        <item>
+          <title>#18 Sanju</title>
+          <itunes:author> </itunes:author>
+          <itunes:summary>Episode 18: Sanju purports to give audiences the true story of Sanjay Dutt, told straight by Sanjay baba himself, warts and all &ndash; no intermediaries or anonymous sources. Why is the film so superficial then?></itunes:summary>
+          <description>Episode 18: Sanju purports to give audiences the true story of Sanjay Dutt, told straight by Sanjay baba himself, warts and all &ndash; no intermediaries or anonymous sources. Why is the film so superficial then?></description>
+          <enclosure url="http://static.khabardaarpodcast.com/media/khabardaar-20180704-sanju.mp3"  type="audio/mpeg" />
+          <guid>http://static.khabardaarpodcast.com/media/khabardaar-20180704-sanju.mp3</guid>
+          <link>https://khabardaarpodcast.com/sanju/</link>
+          <pubDate>Wed, 04 Jul 2018 04:10:07 -0500 </pubDate><itunes:duration>0:49:40</itunes:duration><itunes:explicit>no</itunes:explicit></item>
         <item>
           <title>#17 Lust Stories</title>
           <itunes:author> </itunes:author>
