@@ -12,7 +12,7 @@
     <title>Khabardaar Podcast</title>
     <atom:link href="https://khabardaarpodcast.com/episode/index.xml" rel="self" type="application/rss+xml" />
     <link>https://khabardaarpodcast.com/</link>
-    <lastBuildDate>Wed, 4 Jul 2018 04:10:07 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 11 Jul 2018 04:10:07 -0500</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>hi</language>
@@ -29,6 +29,15 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="TV &amp; Film">
       </itunes:category>
+        <item>
+          <title>#19 on Sanjay Dutt</title>
+          <itunes:author> </itunes:author>
+          <itunes:summary>Episode 19: In this special episode, Yasser Usman talks about his unauthorized biography of Sanjay Dutt, and we meet one of the star’s biggest fans in Toronto.></itunes:summary>
+          <description>Episode 19: In this special episode, Yasser Usman talks about his unauthorized biography of Sanjay Dutt, and we meet one of the star’s biggest fans in Toronto.></description>
+          <enclosure url="http://static.khabardaarpodcast.com/media/khabardaar-20180711-sanju2.mp3"  type="audio/mpeg" />
+          <guid>http://static.khabardaarpodcast.com/media/khabardaar-20180711-sanju2.mp3</guid>
+          <link>https://khabardaarpodcast.com/sanjay-dutt/</link>
+          <pubDate>Wed, 11 Jul 2018 04:10:07 -0500 </pubDate><itunes:duration>0:39:49</itunes:duration><itunes:explicit>no</itunes:explicit></item>
         <item>
           <title>#18 Sanju</title>
           <itunes:author> </itunes:author>
