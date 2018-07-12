@@ -1,5 +1,7 @@
 #!/bin/sh
 
+# aws s3 cp TheFile.mp3 s3://static.khabardaarpodcast.com/media/ --acl public-read
+#
 # A domain is tied to only one specific repo in a github account. (accountname.githhub.io).
 # git init
 # git remote add origin git@github.com:khabardaar/khabardaar.github.io.git
