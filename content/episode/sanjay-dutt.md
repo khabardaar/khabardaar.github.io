@@ -20,6 +20,6 @@ youtube = ""
 
 Episode 19: In this special episode, Yasser Usman talks about his unauthorized biography of Sanjay Dutt, and we meet one of the star’s biggest fans in Toronto.
 
-[Yasser Usman](https://www.juggernaut.in/books/sanjay-dutt-the-untold-story-of-bollywoods-bad-boy) grew up watching Hindi films and admiring Sanjay Dutt’s sense of style in movies saa uch as [N And The Amd Andaam](https://www.youtube.com/watch?v=1wn9l91LVpI) and [Saajan](https://www.youtube.com/watch?v=AKtNpEXqyoY). After writing the unauthorized biographies of Rajesh Khanna and Rekha, he wrote his third book on Sanjay Dutt. Listen to a conversation with Yasser about the star and the biopic inspired by his life. Then meet one of Sanjay Dutt’s biggest fans in Toronto, Asadullah Popla.
+[Yasser Usman](https://www.juggernaut.in/books/sanjay-dutt-the-untold-story-of-bollywoods-bad-boy) grew up watching Hindi films and admiring Sanjay Dutt’s sense of style in movies such as [Naam](https://www.youtube.com/watch?v=1wn9l91LVpI) and [Saajan](https://www.youtube.com/watch?v=AKtNpEXqyoY). After writing the unauthorized biographies of Rajesh Khanna and Rekha, he wrote his third book on Sanjay Dutt. Listen to a conversation with Yasser about the star and the biopic inspired by his life. Then meet one of Sanjay Dutt’s biggest fans in Toronto, Asadullah Popla.
 
 Music: Bollywood Blades by Professor Kliq/ Material Breakthrough by Peritune
