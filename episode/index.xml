@@ -15,7 +15,7 @@
     <atom:link href="https://khabardaarpodcast.com/episode/index.xml" rel="self" type="application/rss+xml" />
     <link>https://khabardaarpodcast.com/</link>
     <description>Khabardaar is a weekly Hindi language podcast discussing Bollywood movies. Hosted by lifelong Bollywood fans Aparita Bhandari and Baisakhi Roy, it offers an in-depth look at the Hindi film industry.</description>
-    <lastBuildDate>Wed, 11 Jul 2018 04:10:07 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 18 Jul 2018 00:00:17 -0400</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>hi</language>
@@ -42,6 +42,27 @@
       </itunes:category>
     <generator>Hugo -- gohugo.io</generator>
         <item>
+          <title>#20 Film Critics: Shubhra Gupta and Aseem Chhabra</title>
+          <link>https://khabardaarpodcast.com/shubhra-aseem/</link>
+          <pubDate>Wed, 18 Jul 2018 00:00:17 -0400 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>http://static.khabardaarpodcast.com/media/khabardaar-20180718-aseemshubhra.mp3</guid>
+          <itunes:author>Khabardaar Podcast</itunes:author>
+          
+          <itunes:episode>20</itunes:episode>
+          
+        <itunes:summary>Episode 20: In this special episode, a conversation with Indian Express film critic Shubhra Gupta and Bollywood biographer Aseem Chhabra.</itunes:summary>
+        <description>Episode 20: In this special episode, a conversation with Indian Express film critic Shubhra Gupta and Bollywood biographer Aseem Chhabra.</description>
+        <googleplay:description>Episode 20: In this special episode, a conversation with Indian Express film critic Shubhra Gupta and Bollywood biographer Aseem Chhabra.</googleplay:description>
+        <content:encoded><![CDATA[<p>Episode 20: In this special episode, a conversation with Indian Express film critic Shubhra Gupta and Bollywood biographer Aseem Chhabra.</p>
+
+<p><a href="https://indianexpress.com/profile/columnist/shubhra-gupta/">Shubhra Gupta</a> has been covering Hindi films and other movies for decades. She&rsquo;s the author of <a href="https://indianexpress.com/article/entertainment/bollywood/50-films-that-changed-bollywood-shubhra-gupta-book-takes-you-beyond-reviews-4618539/">50 Films That Changed Bollywood</a>. Besides authoring two biographies - Shashi Kapoor: The Householder, the Star and Priyanka Chopra: The Incredible Story of a Global Bollywood Star - <a href="https://twitter.com/chhabs">Aseem Chhabra</a> also curates several film festivals. While Shubhra talks about her earliest movie-going experiences that saw 16 young women stuffing themselves in an Ambassador car to watch an Amitabh Bachchan film, Aseem tells us how Shyam Benegal films awakened his political sensibilities, among other topics.</p>
+
+<p>Music: Bollywood Blades by Professor Kliq/ Material Breakthrough by Peritune</p>
+]]></content:encoded><itunes:image href="https://khabardaarpodcast.com/img/episode/ep20hq.jpg"></itunes:image>
+          <googleplay:image href="https://khabardaarpodcast.com/img/episode/ep20hq.jpg"></googleplay:image><enclosure url="http://static.khabardaarpodcast.com/media/khabardaar-20180718-aseemshubhra.mp3"  type="audio/mpeg" /><itunes:duration>0:58:08</itunes:duration><itunes:explicit>no</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit></item>
+        <item>
           <title>#19 on Sanjay Dutt</title>
           <link>https://khabardaarpodcast.com/sanjay-dutt/</link>
           <pubDate>Wed, 11 Jul 2018 04:10:07 -0500 </pubDate>
@@ -56,7 +77,7 @@
         <googleplay:description>Episode 19: In this special episode, Yasser Usman talks about his unauthorized biography of Sanjay Dutt, and we meet one of the star’s biggest fans in Toronto.</googleplay:description>
         <content:encoded><![CDATA[<p>Episode 19: In this special episode, Yasser Usman talks about his unauthorized biography of Sanjay Dutt, and we meet one of the star’s biggest fans in Toronto.</p>
 
-<p><a href="https://www.juggernaut.in/books/sanjay-dutt-the-untold-story-of-bollywoods-bad-boy">Yasser Usman</a> grew up watching Hindi films and admiring Sanjay Dutt’s sense of style in movies saa uch as <a href="https://www.youtube.com/watch?v=1wn9l91LVpI">N And The Amd Andaam</a> and <a href="https://www.youtube.com/watch?v=AKtNpEXqyoY">Saajan</a>. After writing the unauthorized biographies of Rajesh Khanna and Rekha, he wrote his third book on Sanjay Dutt. Listen to a conversation with Yasser about the star and the biopic inspired by his life. Then meet one of Sanjay Dutt’s biggest fans in Toronto, Asadullah Popla.</p>
+<p><a href="https://www.juggernaut.in/books/sanjay-dutt-the-untold-story-of-bollywoods-bad-boy">Yasser Usman</a> grew up watching Hindi films and admiring Sanjay Dutt’s sense of style in movies such as <a href="https://www.youtube.com/watch?v=1wn9l91LVpI">Naam</a> and <a href="https://www.youtube.com/watch?v=AKtNpEXqyoY">Saajan</a>. After writing the unauthorized biographies of Rajesh Khanna and Rekha, he wrote his third book on Sanjay Dutt. Listen to a conversation with Yasser about the star and the biopic inspired by his life. Then meet one of Sanjay Dutt’s biggest fans in Toronto, Asadullah Popla.</p>
 
 <p>Music: Bollywood Blades by Professor Kliq/ Material Breakthrough by Peritune</p>
 ]]></content:encoded><itunes:image href="https://khabardaarpodcast.com/img/episode/ep19hq.jpg"></itunes:image>
