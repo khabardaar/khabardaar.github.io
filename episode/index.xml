@@ -15,7 +15,7 @@
     <atom:link href="https://khabardaarpodcast.com/episode/index.xml" rel="self" type="application/rss+xml" />
     <link>https://khabardaarpodcast.com/</link>
     <description>Khabardaar is a weekly Hindi language podcast discussing Bollywood movies. Hosted by lifelong Bollywood fans Aparita Bhandari and Baisakhi Roy, it offers an in-depth look at the Hindi film industry.</description>
-    <lastBuildDate>Wed, 18 Jul 2018 00:00:17 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 1 Aug 2018 00:00:17 -0400</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>hi</language>
@@ -41,6 +41,48 @@
     <itunes:category text="TV &amp; Film">
       </itunes:category>
     <generator>Hugo -- gohugo.io</generator>
+        <item>
+          <title>#22 Sacred Games</title>
+          <link>https://khabardaarpodcast.com/sacred-games/</link>
+          <pubDate>Wed, 01 Aug 2018 00:00:17 -0400 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>http://static.khabardaarpodcast.com/media/khabardaar-20180801-sacred-games.mp3</guid>
+          <itunes:author>Khabardaar Podcast</itunes:author>
+          
+          <itunes:episode>22</itunes:episode>
+          
+        <itunes:summary>Episode 22: Netflix India original series Sacred Games has been getting lots of acclaim from critics and audiences alike. Starring Nawazuddin Siddiqui and Saif Ali Khan in main roles, alongside a stellar supporting cast, it is directed by Hindi cinema heavyweights Vikramaditya Motwane and Anurag Kashyap.</itunes:summary>
+        <description>Episode 22: Netflix India original series Sacred Games has been getting lots of acclaim from critics and audiences alike. Starring Nawazuddin Siddiqui and Saif Ali Khan in main roles, alongside a stellar supporting cast, it is directed by Hindi cinema heavyweights Vikramaditya Motwane and Anurag Kashyap.</description>
+        <googleplay:description>Episode 22: Netflix India original series Sacred Games has been getting lots of acclaim from critics and audiences alike. Starring Nawazuddin Siddiqui and Saif Ali Khan in main roles, alongside a stellar supporting cast, it is directed by Hindi cinema heavyweights Vikramaditya Motwane and Anurag Kashyap.</googleplay:description>
+        <content:encoded><![CDATA[<p>Episode 22: Netflix India original series <a href="https://www.youtube.com/watch?v=28j8h0RRov4">Sacred Games</a> has been getting lots of acclaim from critics and audiences alike. Starring Nawazuddin Siddiqui and Saif Ali Khan in main roles, alongside a stellar supporting cast, it is directed by Hindi cinema heavyweights Vikramaditya Motwane and Anurag Kashyap.</p>
+
+<p>Sacred Games is adapted from Vikram Chandra&rsquo;s 2006 novel, a 900-page tome. The series stays true to the spirit of the novel, which takes us into the labyrinthine depths of Mumbai, where religion and politics are bigger games than drugs and guns. The central plot revolves around an honest cop Sartaj Singh (Khan) trying to do his bit despite a corrupt system, a fearsome gangster Ganesh Gaitonde (Siddiqui) with something of a God complex, and a sinister plot that threatens to destroy Mumbai.</p>
+
+<p>Music: Bollywood Blades by Professor Kliq/ Material Breakthrough by Peritune</p>
+]]></content:encoded><itunes:image href="https://khabardaarpodcast.com/img/episode/ep22hq.jpg"></itunes:image>
+          <googleplay:image href="https://khabardaarpodcast.com/img/episode/ep22hq.jpg"></googleplay:image><enclosure url="http://static.khabardaarpodcast.com/media/khabardaar-20180801-sacred-games.mp3"  type="audio/mpeg" /><itunes:duration>0:56:57</itunes:duration><itunes:explicit>no</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit></item>
+        <item>
+          <title>#21 Gopal Das Neeraj Songs</title>
+          <link>https://khabardaarpodcast.com/neeraj/</link>
+          <pubDate>Fri, 27 Jul 2018 00:00:17 -0400 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>http://static.khabardaarpodcast.com/media/khabardaar-20180727-neeraj.mp3</guid>
+          <itunes:author>Khabardaar Podcast</itunes:author>
+          
+          <itunes:episode>21</itunes:episode>
+          
+        <itunes:summary>Episode 21: In this special episode, a conversation with documentary filmmaker, writer and critic Paromita Vohra on the Hindi film songs legacy of renowned poet Gopal Das Neeraj.</itunes:summary>
+        <description>Episode 21: In this special episode, a conversation with documentary filmmaker, writer and critic Paromita Vohra on the Hindi film songs legacy of renowned poet Gopal Das Neeraj.</description>
+        <googleplay:description>Episode 21: In this special episode, a conversation with documentary filmmaker, writer and critic Paromita Vohra on the Hindi film songs legacy of renowned poet Gopal Das Neeraj.</googleplay:description>
+        <content:encoded><![CDATA[<p>Episode 21: In this special episode, a conversation with documentary filmmaker, writer and critic Paromita Vohra on the Hindi film songs legacy of renowned poet Gopal Das Neeraj. Often simply referred to as Neeraj, he died on 19 July 2018. He was 93.</p>
+
+<p>Using the songs Neeraj wrote for the Navketan Films&rsquo; production <a href="https://en.wikipedia.org/wiki/Prem_Pujari">Prem Pujari</a>, Paromita tells us what made Neeraj&rsquo;s songs stand apart from his contemporaries.</p>
+
+<p>Music: <a href="https://www.youtube.com/watch?v=GzJCS7IiyJc">Prem Pujari</a> (OST)</p>
+]]></content:encoded><itunes:image href="https://khabardaarpodcast.com/img/episode/ep21hq.jpg"></itunes:image>
+          <googleplay:image href="https://khabardaarpodcast.com/img/episode/ep21hq.jpg"></googleplay:image><enclosure url="http://static.khabardaarpodcast.com/media/khabardaar-20180727-neeraj.mp3"  type="audio/mpeg" /><itunes:duration>0:12:44</itunes:duration><itunes:explicit>no</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit></item>
         <item>
           <title>#20 Film Critics: Shubhra Gupta and Aseem Chhabra</title>
           <link>https://khabardaarpodcast.com/shubhra-aseem/</link>
