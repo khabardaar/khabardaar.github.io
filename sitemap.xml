@@ -3,11 +3,14 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+<<<<<<< HEAD
     <loc>https://khabardaarpodcast.com/sacred-games/</loc>
     <lastmod>2018-08-01T00:00:17-04:00</lastmod>
   </url>
   
   <url>
+=======
+>>>>>>> cf55d14100147e8a4ee533d5ca4a04e7af53377c
     <loc>https://khabardaarpodcast.com/neeraj/</loc>
     <lastmod>2018-07-27T00:00:17-04:00</lastmod>
   </url>
@@ -150,13 +153,21 @@
   
   <url>
     <loc>https://khabardaarpodcast.com/episode/</loc>
+<<<<<<< HEAD
     <lastmod>2018-08-01T00:00:17-04:00</lastmod>
+=======
+    <lastmod>2018-07-27T00:00:17-04:00</lastmod>
+>>>>>>> cf55d14100147e8a4ee533d5ca4a04e7af53377c
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://khabardaarpodcast.com/</loc>
+<<<<<<< HEAD
     <lastmod>2018-08-01T00:00:17-04:00</lastmod>
+=======
+    <lastmod>2018-07-27T00:00:17-04:00</lastmod>
+>>>>>>> cf55d14100147e8a4ee533d5ca4a04e7af53377c
     <priority>0</priority>
   </url>
   
