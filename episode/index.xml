@@ -15,11 +15,7 @@
     <atom:link href="https://khabardaarpodcast.com/episode/index.xml" rel="self" type="application/rss+xml" />
     <link>https://khabardaarpodcast.com/</link>
     <description>Khabardaar is a weekly Hindi language podcast discussing Bollywood movies. Hosted by lifelong Bollywood fans Aparita Bhandari and Baisakhi Roy, it offers an in-depth look at the Hindi film industry.</description>
-<<<<<<< HEAD
     <lastBuildDate>Wed, 1 Aug 2018 00:00:17 -0400</lastBuildDate>
-=======
-    <lastBuildDate>Fri, 27 Jul 2018 00:00:17 -0400</lastBuildDate>
->>>>>>> cf55d14100147e8a4ee533d5ca4a04e7af53377c
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>hi</language>
@@ -46,7 +42,6 @@
       </itunes:category>
     <generator>Hugo -- gohugo.io</generator>
         <item>
-<<<<<<< HEAD
           <title>#22 Sacred Games</title>
           <link>https://khabardaarpodcast.com/sacred-games/</link>
           <pubDate>Wed, 01 Aug 2018 00:00:17 -0400 </pubDate>
@@ -68,8 +63,6 @@
           <googleplay:image href="https://khabardaarpodcast.com/img/episode/ep22hq.jpg"></googleplay:image><enclosure url="http://static.khabardaarpodcast.com/media/khabardaar-20180801-sacred-games.mp3"  type="audio/mpeg" /><itunes:duration>0:56:57</itunes:duration><itunes:explicit>no</itunes:explicit>
           <googleplay:explicit>no</googleplay:explicit></item>
         <item>
-=======
->>>>>>> cf55d14100147e8a4ee533d5ca4a04e7af53377c
           <title>#21 Gopal Das Neeraj Songs</title>
           <link>https://khabardaarpodcast.com/neeraj/</link>
           <pubDate>Fri, 27 Jul 2018 00:00:17 -0400 </pubDate>
