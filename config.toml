@@ -41,7 +41,7 @@ description = "Khabardaar is a weekly Hindi language podcast discussing Bollywoo
 
 media_prefix = "http://static.khabardaarpodcast.com/media/"
   [params.feed]
-    feed_copyright = "Copyright 2018" #do not use markdown in this field; it is used in the feed
+    copyright = "Copyright 2018" #do not use markdown in this field; it is used in the feed
     itunes_subtitle = "Your weekly Bollywood fix" #no markdown or HTML
     itunes_author = "Khabardaar Podcast" #no markdown or HTML
     itunes_summary = "Khabardaar is a weekly Hindi language podcast discussing Bollywood movies. Hosted by lifelong Bollywood fans Aparita Bhandari and Baisakhi Roy, it offers an in-depth look at the Hindi film industry." # Limited to 4000 characters or less, plain text, no HTML
