@@ -15,11 +15,11 @@
     <atom:link href="https://khabardaarpodcast.com/episode/index.xml" rel="self" type="application/rss+xml" />
     <link>https://khabardaarpodcast.com/</link>
     <description>Khabardaar is a weekly Hindi language podcast discussing Bollywood movies. Hosted by lifelong Bollywood fans Aparita Bhandari and Baisakhi Roy, it offers an in-depth look at the Hindi film industry.</description>
-    <lastBuildDate>Wed, 1 Aug 2018 00:00:17 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 10 Aug 2018 00:00:17 -0400</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>hi</language>
-    <copyright></copyright>
+    <copyright>Copyright 2018</copyright>
     <itunes:subtitle>Your weekly Bollywood fix</itunes:subtitle>
     <itunes:author>Khabardaar Podcast</itunes:author>
     <itunes:type>episodic</itunes:type>
@@ -41,6 +41,27 @@
     <itunes:category text="TV &amp; Film">
       </itunes:category>
     <generator>Hugo -- gohugo.io</generator>
+        <item>
+          <title>#23 Varun Grover</title>
+          <link>https://khabardaarpodcast.com/varun-grover/</link>
+          <pubDate>Fri, 10 Aug 2018 00:00:17 -0400 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>http://static.khabardaarpodcast.com/media/khabardaar-20180810-varun-grover.mp3</guid>
+          <itunes:author>Khabardaar Podcast</itunes:author>
+          
+          <itunes:episode>23</itunes:episode>
+          
+        <itunes:summary>Episode 23: A conversation with Varun Grover, the Indian National Award winning lyricist, writer and stand-up comedian.</itunes:summary>
+        <description>Episode 23: A conversation with Varun Grover, the Indian National Award winning lyricist, writer and stand-up comedian.</description>
+        <googleplay:description>Episode 23: A conversation with Varun Grover, the Indian National Award winning lyricist, writer and stand-up comedian.</googleplay:description>
+        <content:encoded><![CDATA[<p>Episode 23: A conversation with Varun Grover, the Indian National Award winning lyricist, writer and stand-up comedian.</p>
+
+<p>After penning songs such as Moh Moh Ke Dhaage in the film <a href="https://www.youtube.com/watch?v=lFZpPpSU3k0&amp;vl=en">Dum Laga Ke Haisha</a> (2015), for which he won the Indian National Award for best lyrics, and writing <a href="https://www.youtube.com/watch?v=IVZzYa0MxM8">Masaan</a> (2015), which won the FIPRESCI award at Cannes Film Festival among other accolades, Varun has been recently fielding interview requests from across the world for his role as lead writer in Netflix India&rsquo;s first original series <a href="https://www.youtube.com/watch?v=28j8h0RRov4">Sacred Games</a>.</p>
+
+<p>Music: Bollywood Blades by Professor Kliq/ Material Breakthrough by Peritune</p>
+]]></content:encoded><itunes:image href="https://khabardaarpodcast.com/img/episode/ep23hq.jpg"></itunes:image>
+          <googleplay:image href="https://khabardaarpodcast.com/img/episode/ep23hq.jpg"></googleplay:image><enclosure url="http://static.khabardaarpodcast.com/media/khabardaar-20180810-varun-grover.mp3"  type="audio/mpeg" /><itunes:duration>1:01:39</itunes:duration><itunes:explicit>no</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit></item>
         <item>
           <title>#22 Sacred Games</title>
           <link>https://khabardaarpodcast.com/sacred-games/</link>
