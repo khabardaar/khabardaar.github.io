@@ -51,6 +51,7 @@ media_prefix = "http://static.khabardaarpodcast.com/media/"
     itunes_top_category = "TV & Film"
     itunes_first_sub_category = ""
     itunes_second_sub_category = ""
+    language = "hi"
 
   [params.social]
     #github = "khabardaarpodcast"
