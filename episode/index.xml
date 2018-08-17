@@ -15,7 +15,7 @@
     <atom:link href="https://khabardaarpodcast.com/episode/index.xml" rel="self" type="application/rss+xml" />
     <link>https://khabardaarpodcast.com/</link>
     <description>Khabardaar is a weekly Hindi language podcast discussing Bollywood movies. Hosted by lifelong Bollywood fans Aparita Bhandari and Baisakhi Roy, it offers an in-depth look at the Hindi film industry.</description>
-    <lastBuildDate>Fri, 10 Aug 2018 00:00:17 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 16 Aug 2018 00:00:17 -0400</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>hi</language>
@@ -41,6 +41,27 @@
     <itunes:category text="TV &amp; Film">
       </itunes:category>
     <generator>Hugo -- gohugo.io</generator>
+        <item>
+          <title>#24 Dhadak</title>
+          <link>https://khabardaarpodcast.com/dhadak/</link>
+          <pubDate>Thu, 16 Aug 2018 00:00:17 -0400 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>http://static.khabardaarpodcast.com/media/khabardaar-20180816-dhadak.mp3</guid>
+          <itunes:author>Khabardaar Podcast</itunes:author>
+          
+          <itunes:episode>24</itunes:episode>
+          
+        <itunes:summary>Episode 24: A look at Dhadak, a Hindi film adaptation which launched Bollywood progeny Janhvi Kapoor and Ishaan Khattar, but downplayed the issue of caste raised in the original Marathi film Sairat.</itunes:summary>
+        <description>Episode 24: A look at Dhadak, a Hindi film adaptation which launched Bollywood progeny Janhvi Kapoor and Ishaan Khattar, but downplayed the issue of caste raised in the original Marathi film Sairat.</description>
+        <googleplay:description>Episode 24: A look at Dhadak, a Hindi film adaptation which launched Bollywood progeny Janhvi Kapoor and Ishaan Khattar, but downplayed the issue of caste raised in the original Marathi film Sairat.</googleplay:description>
+        <content:encoded><![CDATA[<p>Episode 24: A look at <a href="https://www.youtube.com/watch?v=TIE92mUvSsw">Dhadak</a>, a Hindi film adaptation which launched Bollywood progeny Janhvi Kapoor and Ishaan Khattar, but downplayed the issue of caste raised in the original Marathi film <a href="https://www.youtube.com/watch?v=wMrMKnoYWwA">Sairat</a>.</p>
+
+<p>While discussing how Hindi films have depicted caste in the past, we revisit films such as <a href="https://www.youtube.com/watch?v=JADVMskzsmA">Sujata</a>, the 1960 Bimal Roy classic which also went to Cannes; <a href="https://www.youtube.com/watch?v=zlURxHM0cm4">Ankur</a>, a debut for Shyam Benegal as director and Shabana Azmi and Anant Nag as actors; and <a href="https://www.youtube.com/watch?v=yU6zMPFd4UU&amp;t=43s">Newton</a>, starring Rajkummar Rao, this film by Amit Masurkar explores the state of Indian democracy today.</p>
+
+<p>Music: Bollywood Blades by Professor Kliq/ Material Breakthrough by Peritune</p>
+]]></content:encoded><itunes:image href="https://khabardaarpodcast.com/img/episode/ep24mq.jpg"></itunes:image>
+          <googleplay:image href="https://khabardaarpodcast.com/img/episode/ep24mq.jpg"></googleplay:image><enclosure url="http://static.khabardaarpodcast.com/media/khabardaar-20180816-dhadak.mp3"  type="audio/mpeg" /><itunes:duration>0:41:56</itunes:duration><itunes:explicit>no</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit></item>
         <item>
           <title>#23 Varun Grover</title>
           <link>https://khabardaarpodcast.com/varun-grover/</link>
