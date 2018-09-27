@@ -15,7 +15,7 @@
     <atom:link href="https://khabardaarpodcast.com/episode/index.xml" rel="self" type="application/rss+xml" />
     <link>https://khabardaarpodcast.com/</link>
     <description>Khabardaar is a weekly Hindi language podcast discussing Bollywood movies. Hosted by lifelong Bollywood fans Aparita Bhandari and Baisakhi Roy, it offers an in-depth look at the Hindi film industry.</description>
-    <lastBuildDate>Wed, 19 Sep 2018 00:00:17 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 26 Sep 2018 00:00:17 -0400</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>hi</language>
@@ -41,6 +41,29 @@
     <itunes:category text="TV &amp; Film">
       </itunes:category>
     <generator>Hugo -- gohugo.io</generator>
+        <item>
+          <title>#30 TIFF Mard Ko Dard Nahi Hota</title>
+          <link>https://khabardaarpodcast.com/tiff-2018-mard-ko-dard/</link>
+          <pubDate>Wed, 26 Sep 2018 00:00:17 -0400 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>http://static.khabardaarpodcast.com/media/khabardaar-20180926-tiff-2018-mard-ko-dard-nahi-hota.mp3</guid>
+          <itunes:author>Khabardaar Podcast</itunes:author>
+          
+          <itunes:episode>30</itunes:episode>
+          
+        <itunes:summary>Episode 30: Our second TIFF-related episode features a conversation with Vasan Bala and Abhimanyu Dassani, the director and star respectively of Mard Ko Dard Nahi Hota, aka The Man Who Feels No Pain.</itunes:summary>
+        <description>Episode 30: Our second TIFF-related episode features a conversation with Vasan Bala and Abhimanyu Dassani, the director and star respectively of Mard Ko Dard Nahi Hota, aka The Man Who Feels No Pain.</description>
+        <googleplay:description>Episode 30: Our second TIFF-related episode features a conversation with Vasan Bala and Abhimanyu Dassani, the director and star respectively of Mard Ko Dard Nahi Hota, aka The Man Who Feels No Pain.</googleplay:description>
+        <content:encoded><![CDATA[<p>Episode 30: Our second TIFF-related episode features a conversation with <a href="https://www.instagram.com/vasanbala/">Vasan Bala</a> and <a href="https://twitter.com/Abhimannyu_D">Abhimanyu Dassani</a>, the director and star respectively of <a href="https://www.youtube.com/watch?v=x7z4PB0jwbo">Mard Ko Dard Nahi Hota</a>, aka The Man Who Feels No Pain.</p>
+
+<p>After Geeton Ka Ghanchakkar, inspired by Bollywood&rsquo;s take on karate and the festive season, and Filmi Khabrein, where we talk about Rima Das&rsquo;s film Village Rockstars being submitted as India&rsquo;s entry to the Oscars among other news, we feature Vasan&rsquo;s sophomore feature in Bollywood Behes.</p>
+
+<p>Vasan tells us about diving into his own childhood memories of watching all manner of films, in order to write a story that felt true; and Abhimanyu talks about wanting to find honesty in whatever role he does after such a dramatic debut.</p>
+
+<p>Music: Bollywood Blades by Professor Kliq/ Material Breakthrough by Peritune</p>
+]]></content:encoded><itunes:image href="https://khabardaarpodcast.com/img/episode/ep30mq2.jpg"></itunes:image>
+          <googleplay:image href="https://khabardaarpodcast.com/img/episode/ep30mq2.jpg"></googleplay:image><enclosure url="http://static.khabardaarpodcast.com/media/khabardaar-20180926-tiff-2018-mard-ko-dard-nahi-hota.mp3"  type="audio/mpeg" /><itunes:duration>0:50:04</itunes:duration><itunes:explicit>no</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit></item>
         <item>
           <title>#29 TIFF Critics Roundtable</title>
           <link>https://khabardaarpodcast.com/tiff-2018-roundtable/</link>
