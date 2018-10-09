@@ -16,8 +16,8 @@ tags = []
 title = "#31 TIFF Manto"
 +++
 
-Episode 31: A conversation with Nandita Das, who brought her second feature film [Manto](https://www.youtube.com/watch?v=QFbUei2DDhc) to TIFF 2018.
+Episode 31: A conversation with [Nandita Das](https://twitter.com/nanditadas), who brought her second feature film [Manto](https://www.youtube.com/watch?v=QFbUei2DDhc) to TIFF 2018.
 
-After Geeton Ka Ghanchakkar and Filmi Khabrein, we also talk to Urdu-Hindi writer Faiyaz Ahmad Wajeeh as part of Bollywood Behes about his take on Das' bio-pic Manto.
+After Geeton Ka Ghanchakkar and Filmi Khabrein, we also talk to Urdu-Hindi writer [Faiyaz Ahmad Wajeeh](https://twitter.com/FaiyazWajeeh) as part of Bollywood Behes about his take on Das' bio-pic Manto. Well-versed with Manto's prolific writings, Wajeeh was disappointed with what he saw as the film's mischaracterization of the celebrated Urdu writer Manto. If you want to know more about Manto, [says Wajeeh](http://thewirehindi.com/58457/saadat-hasan-manto-nandita-das-nawazuddin-siddiqui/), just read his many stories and essays.
 
 Music: Bollywood Blades by Professor Kliq/ Material Breakthrough by Peritune
