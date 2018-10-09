@@ -15,7 +15,7 @@
     <atom:link href="https://khabardaarpodcast.com/episode/index.xml" rel="self" type="application/rss+xml" />
     <link>https://khabardaarpodcast.com/</link>
     <description>Khabardaar is a weekly Hindi language podcast discussing Bollywood movies. Hosted by lifelong Bollywood fans Aparita Bhandari and Baisakhi Roy, it offers an in-depth look at the Hindi film industry.</description>
-    <lastBuildDate>Wed, 26 Sep 2018 00:00:17 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 7 Oct 2018 00:00:17 -0400</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>hi</language>
@@ -41,6 +41,27 @@
     <itunes:category text="TV &amp; Film">
       </itunes:category>
     <generator>Hugo -- gohugo.io</generator>
+        <item>
+          <title>#31 TIFF Manto</title>
+          <link>https://khabardaarpodcast.com/tiff-2018-manto/</link>
+          <pubDate>Sun, 07 Oct 2018 00:00:17 -0400 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>http://static.khabardaarpodcast.com/media/khabardaar-20181007-tiff-2018-manto.mp3</guid>
+          <itunes:author>Khabardaar Podcast</itunes:author>
+          
+          <itunes:episode>31</itunes:episode>
+          
+        <itunes:summary>Episode 31: A conversation with Nandita Das, who brought her second feature film Manto to TIFF 2018.</itunes:summary>
+        <description>Episode 31: A conversation with Nandita Das, who brought her second feature film Manto to TIFF 2018.</description>
+        <googleplay:description>Episode 31: A conversation with Nandita Das, who brought her second feature film Manto to TIFF 2018.</googleplay:description>
+        <content:encoded><![CDATA[<p>Episode 31: A conversation with <a href="https://twitter.com/nanditadas">Nandita Das</a>, who brought her second feature film <a href="https://www.youtube.com/watch?v=QFbUei2DDhc">Manto</a> to TIFF 2018.</p>
+
+<p>After Geeton Ka Ghanchakkar and Filmi Khabrein, we also talk to Urdu-Hindi writer <a href="https://twitter.com/FaiyazWajeeh">Faiyaz Ahmad Wajeeh</a> as part of Bollywood Behes about his take on Das&rsquo; bio-pic Manto. Well-versed with Manto&rsquo;s prolific writings, Wajeeh was disappointed with what he saw as the film&rsquo;s mischaracterization of the celebrated Urdu writer Manto. If you want to know more about Manto, <a href="http://thewirehindi.com/58457/saadat-hasan-manto-nandita-das-nawazuddin-siddiqui/">says Wajeeh</a>, just read his many stories and essays.</p>
+
+<p>Music: Bollywood Blades by Professor Kliq/ Material Breakthrough by Peritune</p>
+]]></content:encoded><itunes:image href="https://khabardaarpodcast.com/img/episode/ep31mq.jpg"></itunes:image>
+          <googleplay:image href="https://khabardaarpodcast.com/img/episode/ep31mq.jpg"></googleplay:image><enclosure url="http://static.khabardaarpodcast.com/media/khabardaar-20181007-tiff-2018-manto.mp3"  type="audio/mpeg" /><itunes:duration>0:47:30</itunes:duration><itunes:explicit>no</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit></item>
         <item>
           <title>#30 TIFF Mard Ko Dard Nahi Hota</title>
           <link>https://khabardaarpodcast.com/tiff-2018-mard-ko-dard/</link>
