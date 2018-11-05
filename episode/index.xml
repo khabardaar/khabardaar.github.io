@@ -15,7 +15,7 @@
     <atom:link href="https://khabardaarpodcast.com/episode/index.xml" rel="self" type="application/rss+xml" />
     <link>https://khabardaarpodcast.com/</link>
     <description>Khabardaar is a weekly Hindi language podcast discussing Bollywood movies. Hosted by lifelong Bollywood fans Aparita Bhandari and Baisakhi Roy, it offers an in-depth look at the Hindi film industry.</description>
-    <lastBuildDate>Sun, 7 Oct 2018 00:00:17 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 4 Nov 2018 00:00:17 -0400</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>hi</language>
@@ -41,6 +41,25 @@
     <itunes:category text="TV &amp; Film">
       </itunes:category>
     <generator>Hugo -- gohugo.io</generator>
+        <item>
+          <title>#32 Bollywood #MeToo</title>
+          <link>https://khabardaarpodcast.com/bollywood-metoo-janice/</link>
+          <pubDate>Sun, 04 Nov 2018 00:00:17 -0400 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>http://static.khabardaarpodcast.com/media/khabardaar-20181104-bollywood-metoo-janice.mp3</guid>
+          <itunes:author>Khabardaar Podcast</itunes:author>
+          
+          <itunes:episode>32</itunes:episode>
+          
+        <itunes:summary>Episode 32: In this special episode, a conversation with Janice Sequeira, a former broadcast journalist and entertainment reporter, about Bollywood&#39;s leading role in India&#39;s #MeToo movement.</itunes:summary>
+        <description>Episode 32: In this special episode, a conversation with Janice Sequeira, a former broadcast journalist and entertainment reporter, about Bollywood&#39;s leading role in India&#39;s #MeToo movement.</description>
+        <googleplay:description>Episode 32: In this special episode, a conversation with Janice Sequeira, a former broadcast journalist and entertainment reporter, about Bollywood&#39;s leading role in India&#39;s #MeToo movement.</googleplay:description>
+        <content:encoded><![CDATA[<p>Episode 32: In this special episode, a conversation with Janice Sequeira, a former broadcast journalist and entertainment reporter, about Bollywood&rsquo;s leading role in India&rsquo;s #MeToo movement.</p>
+
+<p>Music: Bollywood Blades by Professor Kliq</p>
+]]></content:encoded><itunes:image href="https://khabardaarpodcast.com/img/episode/ep32mq.jpg"></itunes:image>
+          <googleplay:image href="https://khabardaarpodcast.com/img/episode/ep32mq.jpg"></googleplay:image><enclosure url="http://static.khabardaarpodcast.com/media/khabardaar-20181104-bollywood-metoo-janice.mp3"  type="audio/mpeg" /><itunes:duration>0:29:36</itunes:duration><itunes:explicit>no</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit></item>
         <item>
           <title>#31 TIFF Manto</title>
           <link>https://khabardaarpodcast.com/tiff-2018-manto/</link>
