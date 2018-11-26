@@ -6,10 +6,20 @@
     <description>Recent content on Khabardaar Podcast</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 04 Nov 2018 00:00:17 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 25 Nov 2018 00:00:17 -0400</lastBuildDate>
     
 	<atom:link href="https://khabardaarpodcast.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>#33 Bollywood Romcoms</title>
+      <link>https://khabardaarpodcast.com/bollywood-romcom/</link>
+      <pubDate>Sun, 25 Nov 2018 00:00:17 -0400</pubDate>
+      
+      <guid>https://khabardaarpodcast.com/bollywood-romcom/</guid>
+      <description>Episode 33: We are back to our regular programming! In this episode, inspired by the Netflix hit To All The Boys I Loved Before, Aparita and Baisakhi pick their favourite contemporary Bollywood romcom aimed at young people.
+While romance is always an ingredient in popular Hindi films, Bollywood romcoms are a genre unto themselves. Contemporary Hindi cinema has given us plenty of movies to choose from, even if the gender politics remain somewhat problematic.</description>
+    </item>
     
     <item>
       <title>#32 Bollywood #MeToo</title>
