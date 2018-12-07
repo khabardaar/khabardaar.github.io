@@ -15,7 +15,7 @@
     <atom:link href="https://khabardaarpodcast.com/episode/index.xml" rel="self" type="application/rss+xml" />
     <link>https://khabardaarpodcast.com/</link>
     <description>Khabardaar is a weekly Hindi language podcast discussing Bollywood movies. Hosted by lifelong Bollywood fans Aparita Bhandari and Baisakhi Roy, it offers an in-depth look at the Hindi film industry.</description>
-    <lastBuildDate>Sun, 25 Nov 2018 00:00:17 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 3 Dec 2018 00:00:17 -0400</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>hi</language>
@@ -41,6 +41,25 @@
     <itunes:category text="TV &amp; Film">
       </itunes:category>
     <generator>Hugo -- gohugo.io</generator>
+        <item>
+          <title>#34 AndhaDhun</title>
+          <link>https://khabardaarpodcast.com/andhadhun/</link>
+          <pubDate>Mon, 03 Dec 2018 00:00:17 -0400 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>http://static.khabardaarpodcast.com/media/khabardaar-20181203-andhadhun.mp3</guid>
+          <itunes:author>Khabardaar Podcast</itunes:author>
+          
+          <itunes:episode>34</itunes:episode>
+          
+        <itunes:summary>Episode 34: A look at Sriram Raghavan&#39;s body of work that leads up to his latest film, AndhaDhun - starring Ayushmann Khurrana, Tabu and Radhika Apte.</itunes:summary>
+        <description>Episode 34: A look at Sriram Raghavan&#39;s body of work that leads up to his latest film, AndhaDhun - starring Ayushmann Khurrana, Tabu and Radhika Apte.</description>
+        <googleplay:description>Episode 34: A look at Sriram Raghavan&#39;s body of work that leads up to his latest film, AndhaDhun - starring Ayushmann Khurrana, Tabu and Radhika Apte.</googleplay:description>
+        <content:encoded><![CDATA[<p>Episode 34: A look at Sriram Raghavan&rsquo;s body of work that leads up to his latest film, AndhaDhun - starring Ayushmann Khurrana, Tabu and Radhika Apte.</p>
+
+<p>Music: Bollywood Blades by Professor Kliq/ Material Breakthrough by Peritune</p>
+]]></content:encoded><itunes:image href="https://khabardaarpodcast.com/img/episode/ep34mq.jpg"></itunes:image>
+          <googleplay:image href="https://khabardaarpodcast.com/img/episode/ep34mq.jpg"></googleplay:image><enclosure url="http://static.khabardaarpodcast.com/media/khabardaar-20181203-andhadhun.mp3"  type="audio/mpeg" /><itunes:duration>0:43:04</itunes:duration><itunes:explicit>no</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit></item>
         <item>
           <title>#33 Bollywood Romcoms</title>
           <link>https://khabardaarpodcast.com/bollywood-romcom/</link>
