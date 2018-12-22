@@ -16,7 +16,7 @@ tags = []
 title = "#36 Stree"
 +++
 
-Episode 36: In this episode, a look at [Stree](https://www.youtube.com/watch?v=gzeaGcLLl_A&t=50s). This horror-comedy film starring Rajkummar Rao, Shraddha Kapoor, Aparshakti Khurrana, Abhishek Banerjee and Pankaj Tripathi was a sleeper hit, telling an unusual story of an evil female spirit who kidnaps men.
+Episode 36: In this episode, a look at [Stree](https://www.youtube.com/watch?v=gzeaGcLLl_A). This horror-comedy film starring Rajkummar Rao, Shraddha Kapoor, Aparshakti Khurrana, Abhishek Banerjee and Pankaj Tripathi was a sleeper hit, telling an unusual story of an evil female spirit who kidnaps men.
 
 Although the film used the horror-comedy genre to address themes such as patriarchy and consent in an amusing and innovative fashion -- stale jokes, lazy writing and a meandering script watered down its central thesis.
 
