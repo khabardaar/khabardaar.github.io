@@ -15,7 +15,7 @@
     <atom:link href="https://khabardaarpodcast.com/episode/index.xml" rel="self" type="application/rss+xml" />
     <link>https://khabardaarpodcast.com/</link>
     <description>Khabardaar is a weekly Hindi language podcast discussing Bollywood movies. Hosted by lifelong Bollywood fans Aparita Bhandari and Baisakhi Roy, it offers an in-depth look at the Hindi film industry.</description>
-    <lastBuildDate>Mon, 10 Dec 2018 00:00:17 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 17 Dec 2018 00:00:17 -0400</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>hi</language>
@@ -41,6 +41,29 @@
     <itunes:category text="TV &amp; Film">
       </itunes:category>
     <generator>Hugo -- gohugo.io</generator>
+        <item>
+          <title>#36 Stree</title>
+          <link>https://khabardaarpodcast.com/stree/</link>
+          <pubDate>Mon, 17 Dec 2018 00:00:17 -0400 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>http://static.khabardaarpodcast.com/media/khabardaar-20181217-stree.mp3</guid>
+          <itunes:author>Khabardaar Podcast</itunes:author>
+          
+          <itunes:episode>36</itunes:episode>
+          
+        <itunes:summary>Episode 36: In this episode, a look at Stree. This horror-comedy film starring Rajkummar Rao, Shraddha Kapoor, Aparshakti Khurrana, Abhishek Banerjee and Pankaj Tripathi was a sleeper hit, telling an unusual story of an evil female spirit who kidnaps men.</itunes:summary>
+        <description>Episode 36: In this episode, a look at Stree. This horror-comedy film starring Rajkummar Rao, Shraddha Kapoor, Aparshakti Khurrana, Abhishek Banerjee and Pankaj Tripathi was a sleeper hit, telling an unusual story of an evil female spirit who kidnaps men.</description>
+        <googleplay:description>Episode 36: In this episode, a look at Stree. This horror-comedy film starring Rajkummar Rao, Shraddha Kapoor, Aparshakti Khurrana, Abhishek Banerjee and Pankaj Tripathi was a sleeper hit, telling an unusual story of an evil female spirit who kidnaps men.</googleplay:description>
+        <content:encoded><![CDATA[<p>Episode 36: In this episode, a look at <a href="https://www.youtube.com/watch?v=gzeaGcLLl_A">Stree</a>. This horror-comedy film starring Rajkummar Rao, Shraddha Kapoor, Aparshakti Khurrana, Abhishek Banerjee and Pankaj Tripathi was a sleeper hit, telling an unusual story of an evil female spirit who kidnaps men.</p>
+
+<p>Although the film used the horror-comedy genre to address themes such as patriarchy and consent in an amusing and innovative fashion &ndash; stale jokes, lazy writing and a meandering script watered down its central thesis.</p>
+
+<p>This discussion comes after a round of Geeton Ka Ghanchakkar featuring two golden oldies Hindi tunes, and a Filmi Khabrein round-up of the latest Bollywood news.</p>
+
+<p>Music: Bollywood Blades by Professor Kliq/ Material Breakthrough by Peritune</p>
+]]></content:encoded><itunes:image href="https://khabardaarpodcast.com/img/episode/ep36mq.jpg"></itunes:image>
+          <googleplay:image href="https://khabardaarpodcast.com/img/episode/ep36mq.jpg"></googleplay:image><enclosure url="http://static.khabardaarpodcast.com/media/khabardaar-20181217-stree.mp3"  type="audio/mpeg" /><itunes:duration>0:42:51</itunes:duration><itunes:explicit>no</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit></item>
         <item>
           <title>#35 Badhaai Ho</title>
           <link>https://khabardaarpodcast.com/badhaai-ho/</link>
