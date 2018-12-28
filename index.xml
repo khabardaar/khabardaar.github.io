@@ -6,10 +6,20 @@
     <description>Recent content on Khabardaar Podcast</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 17 Dec 2018 00:00:17 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 24 Dec 2018 00:00:17 -0400</lastBuildDate>
     
 	<atom:link href="https://khabardaarpodcast.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>#37 Vivek</title>
+      <link>https://khabardaarpodcast.com/vivek/</link>
+      <pubDate>Mon, 24 Dec 2018 00:00:17 -0400</pubDate>
+      
+      <guid>https://khabardaarpodcast.com/vivek/</guid>
+      <description>Episode 37: In this special episode, a conversation with celebrated Indian documentary filmmaker Anand Patwardhan about his latest work Vivek/Reason.
+Vivek/Reason screened as part of the Toronto International Film Festival (2018). Although many balked at first at its run-time &amp;ndash; the 261 minute long documentary is meant to be screened in two sessions &amp;ndash; critics noted its importance, especially given the rise of nationalistic rhetoric in India and across the world.</description>
+    </item>
     
     <item>
       <title>#36 Stree</title>
