@@ -16,7 +16,7 @@ tags = []
 title = "#39 Simbaa"
 +++
 
-Episode 39: We have lots to talk about when it comes to Rohit Shetty and Ranveer Singh's collaboration in Simbaa. While the movie had many fun elements, tacking on a serious issue like rape to a Shetty style masala movie didn't sit well with us.
+Episode 39: We have lots to talk about when it comes to Rohit Shetty and Ranveer Singh's collaboration in [Simbaa](https://www.youtube.com/watch?v=PtFY3WHztZc). While the movie had many fun elements, tacking on a serious issue like rape to a Shetty style masala movie didn't sit well with us.
 
 We start off with Geeton Ka Ghanchakkar, followed by Filmi Khabrein - where we talk about the depiction of police in Shetty's movies and masculinity in Bollywood movies, among other topics.
 
