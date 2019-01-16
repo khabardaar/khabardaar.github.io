@@ -1,5 +1,5 @@
 +++
-Description = "Episode 38: We watched Zero, the big budget Anand L. Rai extravaganza starring Bollywood superstar Shah Rukh Khan, alongside top-billing female leads Anushka Sharma and Katrina Kaif. The movie didn't impress us much; but then neither did Race 3 or Thugs of Hindostan earlier in 2018.  So, this episode features our experience of watching Zero, followed by a discussion on the relevance of Bollywood's Khan triumverate."
+Description = "Episode 38: We watched Zero, the big budget Anand L. Rai extravaganza starring Bollywood superstar Shah Rukh Khan, alongside top-billing female leads Anushka Sharma and Katrina Kaif. The movie didn't impress us much; but then neither did Race 3 or Thugs of Hindostan earlier in 2018.  So, this episode features our experience of watching Zero, followed by a discussion on the relevance of Bollywood's Khan triumvirate."
 aliases = ["/38"]
 author = "Aparita"
 categories = []
