@@ -15,7 +15,7 @@
     <atom:link href="https://khabardaarpodcast.com/episode/index.xml" rel="self" type="application/rss+xml" />
     <link>https://khabardaarpodcast.com/</link>
     <description>Khabardaar is a weekly Hindi language podcast discussing Bollywood movies. Hosted by lifelong Bollywood fans Aparita Bhandari and Baisakhi Roy, it offers an in-depth look at the Hindi film industry.</description>
-    <lastBuildDate>Mon, 14 Jan 2019 00:00:17 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 23 Jan 2019 00:00:17 -0400</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>hi</language>
@@ -41,6 +41,29 @@
     <itunes:category text="TV &amp; Film">
       </itunes:category>
     <generator>Hugo -- gohugo.io</generator>
+        <item>
+          <title>#40 Manikarnika - The Queen&#39;s Last Salute</title>
+          <link>https://khabardaarpodcast.com/manikarnika/</link>
+          <pubDate>Wed, 23 Jan 2019 00:00:17 -0400 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>http://static.khabardaarpodcast.com/media/khabardaar-20190123-manikarnika-queens-last-salute.mp3</guid>
+          <itunes:author>Khabardaar Podcast</itunes:author>
+          
+          <itunes:episode>40</itunes:episode>
+          
+        <itunes:summary>Episode 40: A conversation with author Moupia Basu on her book The Queen&#39;s Last Salute, which is partially inspired by the story of Rani Laxmibai. Basu&#39;s book covers much of the same ground as Kangana Ranaut&#39;s latest film Manikarnika.</itunes:summary>
+        <description>Episode 40: A conversation with author Moupia Basu on her book The Queen&#39;s Last Salute, which is partially inspired by the story of Rani Laxmibai. Basu&#39;s book covers much of the same ground as Kangana Ranaut&#39;s latest film Manikarnika.</description>
+        <googleplay:description>Episode 40: A conversation with author Moupia Basu on her book The Queen&#39;s Last Salute, which is partially inspired by the story of Rani Laxmibai. Basu&#39;s book covers much of the same ground as Kangana Ranaut&#39;s latest film Manikarnika.</googleplay:description>
+        <content:encoded><![CDATA[<p>Episode 40: A conversation with author Moupia Basu on her book The Queen&rsquo;s Last Salute, which is partially inspired by the story of Rani Laxmibai. Basu&rsquo;s book covers much of the same ground as Kangana Ranaut&rsquo;s latest film <a href="https://www.youtube.com/watch?time_continue=3&amp;v=tKmkMVaNu9g">Manikarnika</a>.</p>
+
+<p>The Queen&rsquo;s Last Salute is published by <a href="http://blog.juggernaut.in/queens_last_salute_lakshmibai_moupia_basu/">Juggernaut Books</a> and available at your local bookstore or <a href="https://www.amazon.in/Queens-Last-Salute-Jhansee-mutiny/dp/9353450241">online</a>.</p>
+
+<p>To see what some of the old monuments at Orchha look like, visit the <a href="https://www.wmf.org/project/sites-orchha">World Monument Fund website</a>.</p>
+
+<p>Music: Desert City by Kevin MacLeod, Desert Heartbeat by Ustad Zakir Hussain</p>
+]]></content:encoded><itunes:image href="https://khabardaarpodcast.com/img/episode/ep40mq.jpg"></itunes:image>
+          <googleplay:image href="https://khabardaarpodcast.com/img/episode/ep40mq.jpg"></googleplay:image><enclosure url="http://static.khabardaarpodcast.com/media/khabardaar-20190123-manikarnika-queens-last-salute.mp3"  type="audio/mpeg" /><itunes:duration>0:19:01</itunes:duration><itunes:explicit>no</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit></item>
         <item>
           <title>#39 Simbaa</title>
           <link>https://khabardaarpodcast.com/simbaa/</link>
