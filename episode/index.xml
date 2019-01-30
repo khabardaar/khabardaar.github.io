@@ -15,7 +15,7 @@
     <atom:link href="https://khabardaarpodcast.com/episode/index.xml" rel="self" type="application/rss+xml" />
     <link>https://khabardaarpodcast.com/</link>
     <description>Khabardaar is a weekly Hindi language podcast discussing Bollywood movies. Hosted by lifelong Bollywood fans Aparita Bhandari and Baisakhi Roy, it offers an in-depth look at the Hindi film industry.</description>
-    <lastBuildDate>Wed, 23 Jan 2019 00:00:17 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 28 Jan 2019 00:00:17 -0400</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>hi</language>
@@ -41,6 +41,27 @@
     <itunes:category text="TV &amp; Film">
       </itunes:category>
     <generator>Hugo -- gohugo.io</generator>
+        <item>
+          <title>#41 Uri</title>
+          <link>https://khabardaarpodcast.com/uri/</link>
+          <pubDate>Mon, 28 Jan 2019 00:00:17 -0400 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>http://static.khabardaarpodcast.com/media/khabardaar-20190128-uri.mp3</guid>
+          <itunes:author>Khabardaar Podcast</itunes:author>
+          
+          <itunes:episode>41</itunes:episode>
+          
+        <itunes:summary>Episode 41: A debate on whether Uri: The Surgical Strike, starring Vicky Kaushal, Yami Gautam and Paresh Rawal among others, is a jingoistic film - or not.</itunes:summary>
+        <description>Episode 41: A debate on whether Uri: The Surgical Strike, starring Vicky Kaushal, Yami Gautam and Paresh Rawal among others, is a jingoistic film - or not.</description>
+        <googleplay:description>Episode 41: A debate on whether Uri: The Surgical Strike, starring Vicky Kaushal, Yami Gautam and Paresh Rawal among others, is a jingoistic film - or not.</googleplay:description>
+        <content:encoded><![CDATA[<p>Episode 41: A debate on whether <a href="https://www.youtube.com/watch?v=VVY3do673Zc">Uri: The Surgical Strike</a>, starring Vicky Kaushal, Yami Gautam and Paresh Rawal among others, is a jingoistic film - or not.</p>
+
+<p>We start off with Geeton Ka Ghanchakkar featuring two A. R. Rahman songs, and Filmi Khabrein full of new teasers and trailer information. Then in Bollywood Behes, an in-depth discussion of how war is made sexy in Uri, including some audience reactions.</p>
+
+<p>Music: Bollywood Blades by Professor Kliq/ Material Breakthrough by Peritune</p>
+]]></content:encoded><itunes:image href="https://khabardaarpodcast.com/img/episode/ep41mq.jpg"></itunes:image>
+          <googleplay:image href="https://khabardaarpodcast.com/img/episode/ep41mq.jpg"></googleplay:image><enclosure url="http://static.khabardaarpodcast.com/media/khabardaar-20190128-uri.mp3"  type="audio/mpeg" /><itunes:duration>0:51:00</itunes:duration><itunes:explicit>no</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit></item>
         <item>
           <title>#40 Manikarnika - The Queen&#39;s Last Salute</title>
           <link>https://khabardaarpodcast.com/manikarnika/</link>
