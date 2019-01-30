@@ -16,7 +16,7 @@ tags = []
 title = "#41 Uri"
 +++
 
-Episode 41: A debate on whether [Uri: The Surgical Strike](https://www.youtube.com/watch?v=VVY3do673Zc&t=68s), starring Vicky Kaushal, Yami Gautam and Paresh Rawal among others, is a jingoistic film - or not.
+Episode 41: A debate on whether [Uri: The Surgical Strike](https://www.youtube.com/watch?v=VVY3do673Zc), starring Vicky Kaushal, Yami Gautam and Paresh Rawal among others, is a jingoistic film - or not.
 
 We start off with Geeton Ka Ghanchakkar featuring two A. R. Rahman songs, and Filmi Khabrein full of new teasers and trailer information. Then in Bollywood Behes, an in-depth discussion of how war is made sexy in Uri, including some audience reactions.
 
