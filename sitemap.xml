@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://khabardaarpodcast.com/arjun-reddy/</loc>
+    <lastmod>2019-02-05T00:00:17-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://khabardaarpodcast.com/uri/</loc>
     <lastmod>2019-01-28T00:00:17-04:00</lastmod>
   </url>
@@ -245,13 +250,13 @@
   
   <url>
     <loc>https://khabardaarpodcast.com/episode/</loc>
-    <lastmod>2019-01-28T00:00:17-04:00</lastmod>
+    <lastmod>2019-02-05T00:00:17-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://khabardaarpodcast.com/</loc>
-    <lastmod>2019-01-28T00:00:17-04:00</lastmod>
+    <lastmod>2019-02-05T00:00:17-04:00</lastmod>
     <priority>0</priority>
   </url>
   
