@@ -15,7 +15,7 @@
     <atom:link href="https://khabardaarpodcast.com/episode/index.xml" rel="self" type="application/rss+xml" />
     <link>https://khabardaarpodcast.com/</link>
     <description>Khabardaar is a weekly Hindi language podcast discussing Bollywood movies. Hosted by lifelong Bollywood fans Aparita Bhandari and Baisakhi Roy, it offers an in-depth look at the Hindi film industry.</description>
-    <lastBuildDate>Tue, 5 Feb 2019 00:00:17 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 12 Feb 2019 00:00:17 -0400</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>hi</language>
@@ -41,6 +41,29 @@
     <itunes:category text="TV &amp; Film">
       </itunes:category>
     <generator>Hugo -- gohugo.io</generator>
+        <item>
+          <title>#43 Ek Ladki Ko Dekha Toh Aisa Laga</title>
+          <link>https://khabardaarpodcast.com/ek-ladki-ko-dekha-toh-asia-laga/</link>
+          <pubDate>Tue, 12 Feb 2019 00:00:17 -0400 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>http://static.khabardaarpodcast.com/media/khabardaar-20190212-ek-ladki-ko-dekha-toh-aisa-laga.mp3</guid>
+          <itunes:author>Khabardaar Podcast</itunes:author>
+          
+          <itunes:episode>43</itunes:episode>
+          
+        <itunes:summary>Episode 43: Aparita Bhandari watched Ek Ladki Ko Dekha Toh Aisa Laga with Queer South Asians and Allies of Toronto (QSAALT). A conversation with its members after watching the movie.</itunes:summary>
+        <description>Episode 43: Aparita Bhandari watched Ek Ladki Ko Dekha Toh Aisa Laga with Queer South Asians and Allies of Toronto (QSAALT). A conversation with its members after watching the movie.</description>
+        <googleplay:description>Episode 43: Aparita Bhandari watched Ek Ladki Ko Dekha Toh Aisa Laga with Queer South Asians and Allies of Toronto (QSAALT). A conversation with its members after watching the movie.</googleplay:description>
+        <content:encoded><![CDATA[<p>Episode 43: Aparita Bhandari watched <a href="https://www.youtube.com/watch?v=pKcamCgBvMo">Ek Ladki Ko Dekha Toh Aisa Laga</a> with Queer South Asians and Allies of Toronto (QSAALT). A conversation with its members after watching the movie.</p>
+
+<p>The group talked about queer representation in Bollywood movies of past, and the importance of Ek Ladki Ko Dekha Toh Aisa Laga in giving voice to a mis- or under-represented community.</p>
+
+<p>Then a follow up conversation with Lucky, about her experiences growing up as a lesbian in India.</p>
+
+<p>Music: Ek Ladki Ko Dekha by Rochak Kohli/ Wind Marching for Rain by Puddles of Infinity</p>
+]]></content:encoded><itunes:image href="https://khabardaarpodcast.com/img/episode/ep43mq.jpg"></itunes:image>
+          <googleplay:image href="https://khabardaarpodcast.com/img/episode/ep43mq.jpg"></googleplay:image><enclosure url="http://static.khabardaarpodcast.com/media/khabardaar-20190212-ek-ladki-ko-dekha-toh-aisa-laga.mp3"  type="audio/mpeg" /><itunes:duration>0:34:38</itunes:duration><itunes:explicit>no</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit></item>
         <item>
           <title>#42 Arjun Reddy</title>
           <link>https://khabardaarpodcast.com/arjun-reddy/</link>
