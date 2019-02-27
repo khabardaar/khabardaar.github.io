@@ -15,7 +15,7 @@
     <atom:link href="https://khabardaarpodcast.com/episode/index.xml" rel="self" type="application/rss+xml" />
     <link>https://khabardaarpodcast.com/</link>
     <description>Khabardaar is a weekly Hindi language podcast discussing Bollywood movies. Hosted by lifelong Bollywood fans Aparita Bhandari and Baisakhi Roy, it offers an in-depth look at the Hindi film industry.</description>
-    <lastBuildDate>Tue, 12 Feb 2019 00:00:17 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 26 Feb 2019 00:00:17 -0400</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>hi</language>
@@ -42,6 +42,29 @@
       </itunes:category>
     <generator>Hugo -- gohugo.io</generator>
         <item>
+          <title>#44 Gully Boy</title>
+          <link>https://khabardaarpodcast.com/gully-boy/</link>
+          <pubDate>Tue, 26 Feb 2019 00:00:17 -0400 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>http://static.khabardaarpodcast.com/media/khabardaar-20190226-gully-boy.mp3</guid>
+          <itunes:author>Khabardaar Podcast</itunes:author>
+          
+          <itunes:episode>44</itunes:episode>
+          
+        <itunes:summary>Episode 44: Gully Boy brought the sounds of Mumbai&#39;s gullies to the big Bollywood screen. Directed by Zoya Akhtar, the movie featured A-list stars Ranveer Singh and Alia Bhatt, and a team of formidable supporting actors. Together, they brought to life a story based on the lives of Indian rap stars Divine and Naezy.</itunes:summary>
+        <description>Episode 44: Gully Boy brought the sounds of Mumbai&#39;s gullies to the big Bollywood screen. Directed by Zoya Akhtar, the movie featured A-list stars Ranveer Singh and Alia Bhatt, and a team of formidable supporting actors. Together, they brought to life a story based on the lives of Indian rap stars Divine and Naezy.</description>
+        <googleplay:description>Episode 44: Gully Boy brought the sounds of Mumbai&#39;s gullies to the big Bollywood screen. Directed by Zoya Akhtar, the movie featured A-list stars Ranveer Singh and Alia Bhatt, and a team of formidable supporting actors. Together, they brought to life a story based on the lives of Indian rap stars Divine and Naezy.</googleplay:description>
+        <content:encoded><![CDATA[<p>Episode 44: <a href="https://www.youtube.com/watch?v=JfbxcD6biOk">Gully Boy</a> brought the sounds of Mumbai&rsquo;s gullies to the big Bollywood screen. Directed by Zoya Akhtar, the movie featured A-list stars Ranveer Singh and Alia Bhatt, and a team of formidable supporting actors. Together, they brought to life a story based on the lives of Indian rap stars <a href="https://www.youtube.com/watch?v=1bK5dzwhu-I">Divine and Naezy</a>.</p>
+
+<p>First we start off with Geeton Ka Ghanchakkar, which features Bluffmaster&rsquo;s &ldquo;Right Here Right Now&rdquo; (composed by those hip hop fakers - Vishal and Shekhar) and Baba Sehgal&rsquo;s &ldquo;Thanda Thanda Pani&rdquo; (yes, we feel your pain). Filmi Khabrein rounds up the latest Bollywood news.</p>
+
+<p>Then Bollywood Behes takes a deep dive into Gully Boy, where we look at Zoya Akhtar&rsquo;s masterful direction, which made stars like Ranveer and Alia shine, but also put actors such as Vijay Raaz, Vijay Varma and Amruta Subhash in the spotlight.</p>
+
+<p>Music: Bollywood Blades by Professor Kliq/ Material Breakthrough by Peritune</p>
+]]></content:encoded><itunes:image href="https://khabardaarpodcast.com/img/episode/ep44mq.jpg"></itunes:image>
+          <googleplay:image href="https://khabardaarpodcast.com/img/episode/ep44mq.jpg"></googleplay:image><enclosure url="http://static.khabardaarpodcast.com/media/khabardaar-20190226-gully-boy.mp3"  type="audio/mpeg" /><itunes:duration>0:54:03</itunes:duration><itunes:explicit>no</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit></item>
+        <item>
           <title>#43 Ek Ladki Ko Dekha Toh Aisa Laga</title>
           <link>https://khabardaarpodcast.com/ek-ladki-ko-dekha-toh-asia-laga/</link>
           <pubDate>Tue, 12 Feb 2019 00:00:17 -0400 </pubDate>
@@ -61,8 +84,8 @@
 <p>Then a follow up conversation with Lucky, about her experiences growing up as a lesbian in India.</p>
 
 <p>Music: Ek Ladki Ko Dekha by Rochak Kohli/ Wind Marching for Rain by Puddles of Infinity</p>
-]]></content:encoded><itunes:image href="https://khabardaarpodcast.com/img/episode/ep43mq.jpg"></itunes:image>
-          <googleplay:image href="https://khabardaarpodcast.com/img/episode/ep43mq.jpg"></googleplay:image><enclosure url="http://static.khabardaarpodcast.com/media/khabardaar-20190212-ek-ladki-ko-dekha-toh-aisa-laga.mp3"  type="audio/mpeg" /><itunes:duration>0:34:38</itunes:duration><itunes:explicit>no</itunes:explicit>
+]]></content:encoded><itunes:image href="https://khabardaarpodcast.com/img/episode/ep43mq2.jpg"></itunes:image>
+          <googleplay:image href="https://khabardaarpodcast.com/img/episode/ep43mq2.jpg"></googleplay:image><enclosure url="http://static.khabardaarpodcast.com/media/khabardaar-20190212-ek-ladki-ko-dekha-toh-aisa-laga.mp3"  type="audio/mpeg" /><itunes:duration>0:34:38</itunes:duration><itunes:explicit>no</itunes:explicit>
           <googleplay:explicit>no</googleplay:explicit></item>
         <item>
           <title>#42 Arjun Reddy</title>
