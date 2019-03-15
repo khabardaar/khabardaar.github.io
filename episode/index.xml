@@ -15,7 +15,7 @@
     <atom:link href="https://khabardaarpodcast.com/episode/index.xml" rel="self" type="application/rss+xml" />
     <link>https://khabardaarpodcast.com/</link>
     <description>Khabardaar is a weekly Hindi language podcast discussing Bollywood movies. Hosted by lifelong Bollywood fans Aparita Bhandari and Baisakhi Roy, it offers an in-depth look at the Hindi film industry.</description>
-    <lastBuildDate>Tue, 26 Feb 2019 00:00:17 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 13 Mar 2019 00:00:17 -0400</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>hi</language>
@@ -41,6 +41,29 @@
     <itunes:category text="TV &amp; Film">
       </itunes:category>
     <generator>Hugo -- gohugo.io</generator>
+        <item>
+          <title>#45 Made in Heaven</title>
+          <link>https://khabardaarpodcast.com/made-in-heaven/</link>
+          <pubDate>Wed, 13 Mar 2019 00:00:17 -0400 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>http://static.khabardaarpodcast.com/media/khabardaar-20190313-made-in-heaven.mp3</guid>
+          <itunes:author>Khabardaar Podcast</itunes:author>
+          
+          <itunes:episode>45</itunes:episode>
+          
+        <itunes:summary>Episode 45: Created by Zoya Akhtar and Reema Kagti, co-written by Alankrita Shrivastava, and co-directed by Nitya Mehra and Prashant Nair, Made In Heaven is an Amazon Prime Video series that uses the backdrop of the &#39;Big Fat Indian Wedding&#39; to talk about the social realities of India.</itunes:summary>
+        <description>Episode 45: Created by Zoya Akhtar and Reema Kagti, co-written by Alankrita Shrivastava, and co-directed by Nitya Mehra and Prashant Nair, Made In Heaven is an Amazon Prime Video series that uses the backdrop of the &#39;Big Fat Indian Wedding&#39; to talk about the social realities of India.</description>
+        <googleplay:description>Episode 45: Created by Zoya Akhtar and Reema Kagti, co-written by Alankrita Shrivastava, and co-directed by Nitya Mehra and Prashant Nair, Made In Heaven is an Amazon Prime Video series that uses the backdrop of the &#39;Big Fat Indian Wedding&#39; to talk about the social realities of India.</googleplay:description>
+        <content:encoded><![CDATA[<p>Episode 45: Created by Zoya Akhtar and Reema Kagti, co-written by Alankrita Shrivastava, and co-directed by Nitya Mehra and Prashant Nair, <a href="https://www.youtube.com/watch?v=u0UkDQaR5KQ">Made In Heaven</a> is an Amazon Prime Video series that uses the backdrop of the &lsquo;Big Fat Indian Wedding&rsquo; to talk about social realities.</p>
+
+<p>First we start off with Geeton Ka Ghanchakkar, a shaadi special featuring some unusual shaadi-waali movies - <a href="https://www.youtube.com/watch?v=WZlIWvEmx3s">Saathiya</a> and <a href="https://www.youtube.com/watch?v=Sc0Kr9JEVXs">Tanu Weds Manu</a>.</p>
+
+<p>Then Bollywood Behes takes us into the world of modern day Indian weddings. Dreamed up by Reema Kagti and Zoya Akhtar, this series focuses on the complicated lives of two wedding planners Tara and Karan, and the couples they are planning weddings for. Issues such as dowry, class, tradition, as well as LGBTQ lives are seen through a not-so-rosy lens.</p>
+
+<p>Music: Bollywood Blades by Professor Kliq/ Material Breakthrough by Peritune</p>
+]]></content:encoded><itunes:image href="https://khabardaarpodcast.com/img/episode/ep45mq.jpg"></itunes:image>
+          <googleplay:image href="https://khabardaarpodcast.com/img/episode/ep45mq.jpg"></googleplay:image><enclosure url="http://static.khabardaarpodcast.com/media/khabardaar-20190313-made-in-heaven.mp3"  type="audio/mpeg" /><itunes:duration>0:49:52</itunes:duration><itunes:explicit>no</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit></item>
         <item>
           <title>#44 Gully Boy</title>
           <link>https://khabardaarpodcast.com/gully-boy/</link>
