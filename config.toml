@@ -5,9 +5,10 @@ theme = "castanet"
 googleAnalytics = "UA-114529246-1"
 
 [permalinks]
-  # page = "/:filename/"
-  about = "/:filename/"
-  episode = "/:filename/"
+	# page = "/:filename/"
+	about = "/:filename/"
+	episode = "/:filename/"
+
 
 # The theme supports menus with up to one submenu per menu item
 # The menu name must be "Main"
@@ -24,13 +25,16 @@ googleAnalytics = "UA-114529246-1"
 
 [params]
 site_theme = "orange"
+# site_layout = "grid"
 site_layout = "grid"
 enable_jumbo = "true"
+# enable_jumbo = "false"
 # truncate = "100"
 about_logo = "/img/kplogowebsite.png"
 copyright_notice = "Copyright &copy; 2019"
 itunes_subscribe = "https://itunes.apple.com/podcast/khabardaar-podcast/id1351517692"
 #android_subscribe = "http://subscribeonandroid.com/feeds.podtrac.com/VGAulpN7MY1U"
+#spotify_subscribe = "https://open.spotify.com/show/..."
 google_play_subscribe = "https://play.google.com/music/m/I2lwp2i7vthox4ztdw2zky6jyiy?t=Khabardaar_Podcast"
 #stitcher_subscribe = "http://www.stitcher.com/podcast/khabardaar-podcast-2/khabardaar-podcast"
 soundcloud_subscribe = "http://feeds.soundcloud.com/users/soundcloud:users:403881909/sounds.rss"
@@ -38,7 +42,6 @@ soundcloud_subscribe = "http://feeds.soundcloud.com/users/soundcloud:users:40388
 mailchimp_subscribe = "http://eepurl.com/dluLDn"
 #rss_subscribe = "http://feed.com/myfeed" #only set this if you don't want to use the built-in feed
 description = "Khabardaar is a weekly Hindi language podcast discussing Bollywood movies. Hosted by lifelong Bollywood fans Aparita Bhandari and Baisakhi Roy, it offers an in-depth look at the Hindi film industry. [Subscribe today](http://eepurl.com/dluLDn)!"
-
 media_prefix = "http://static.khabardaarpodcast.com/media/"
   [params.feed]
     copyright = "Copyright 2019" #do not use markdown in this field; it is used in the feed
@@ -58,10 +61,11 @@ media_prefix = "http://static.khabardaarpodcast.com/media/"
     #gitlab = "aparitabhandari"
     facebook = "khabardaarpodcast"
     facebook_admin = ["aparita"]  # This needs to be a page admin to get domain insights
-    #twitter = "khabardaarpodcast"
+    twitter = "khabardaarpod"
     #twitter_domain = "khabardaarpodcast.com" # This domain shows in twitter cards as "View on `twitter_domain`"
     #googleplus = "KhabardaarPodcast"
-    #instagram = "khabardaarpodcast"
+    #pinterest = "nozzleio"
+    instagram = "khabardaarpodcast"
     #youtube = "khabardaarpodcast"
     #linkedin = "aparitabhandari"
 
