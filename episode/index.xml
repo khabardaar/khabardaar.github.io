@@ -39,8 +39,7 @@
       <link>https://khabardaarpodcast.com/</link>
     </image>
     <itunes:category text="TV &amp; Film">
-      </itunes:category>
-    <generator>Hugo -- gohugo.io</generator>
+      </itunes:category><generator>Hugo -- gohugo.io</generator>
         <item>
           <title>#45 Made in Heaven</title>
           <link>https://khabardaarpodcast.com/made-in-heaven/</link>
