@@ -72,7 +72,7 @@ media_prefix = "http://static.khabardaarpodcast.com/media/"
   [params.authors]
     [params.authors.Aparita]
       name = "Aparita Bhandari"
-      thumbnail = "img/host/aparitabhandari.png"
+      thumbnail = "img/host/aparitabhandari.jpg"
       bio = "Aparita Bhandari is an arts/life journalist based out of Toronto. She regularly contributes to a wide range of media outlets, both print and radio; check out her website www.aparita.com for more information. Despite her many distractions (knitting, fountain pens, baking), Bollywood and Toblerone bars have been two constants in her life."
       [params.authors.Aparita.social]
         #github = "aparita"
@@ -85,7 +85,7 @@ media_prefix = "http://static.khabardaarpodcast.com/media/"
         #youtube = "aparitabhandari"
     [params.authors.Baisakhi]
       name = "Baisakhi Roy"
-      thumbnail = "/img/host/baisakhiroy.png"
+      thumbnail = "/img/host/baisakhiroy.jpg"
       bio = ""
       [params.authors.Baisakhi.social]
         twitter = "baisakhiroy"
