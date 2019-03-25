@@ -18,6 +18,6 @@ title = "#46 Mard Ko Dard Nahi Hota"
 
 Episode 46: In this encore presentation, a look at [Mard Ko Dard Nahi Hota](https://www.youtube.com/watch?v=jb0-Mw_V_bA), directed by Vasan Bala, starring Abhimanyu Dassani, Radhika Madan and Gulshan Devaiah.
 
-Also introduing a new segment called Filmi Funde. In this inaugral version - a conversation with Karan Kulkarni, the music director for Mard Ko Dard Nahi Hota, about three songs from the film.
+Also introducing a new segment called Filmi Funde. In this inaugural version - a conversation with Karan Kulkarni, the music director for Mard Ko Dard Nahi Hota, about three songs from the film.
 
 Music: Bollywood Blades by Professor Kliq
