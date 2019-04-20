@@ -15,7 +15,7 @@
     <atom:link href="https://khabardaarpodcast.com/episode/index.xml" rel="self" type="application/rss+xml" />
     <link>https://khabardaarpodcast.com/</link>
     <description>Khabardaar is a weekly Hindi language podcast discussing Bollywood movies. Hosted by lifelong Bollywood fans Aparita Bhandari and Baisakhi Roy, it offers an in-depth look at the Hindi film industry.</description>
-    <lastBuildDate>Fri, 22 Mar 2019 00:00:17 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 19 Apr 2019 00:00:17 -0400</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>hi</language>
@@ -40,6 +40,27 @@
     </image>
     <itunes:category text="TV &amp; Film">
       </itunes:category><generator>Hugo -- gohugo.io</generator>
+        <item>
+          <title>#47 Party</title>
+          <link>https://khabardaarpodcast.com/party/</link>
+          <pubDate>Fri, 19 Apr 2019 00:00:17 -0400 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>http://static.khabardaarpodcast.com/media/khabardaar-20190419-party.mp3</guid>
+          <itunes:author>Khabardaar Podcast</itunes:author>
+          
+          <itunes:episode>47</itunes:episode>
+          
+        <itunes:summary>Episode 47: In this episode, a look at Govind Nihalani&#39;s cult classic Party, starring an ensemble cast of some of the best Indian theatre and art-house actors such as Deepa Sahi, Manohar Singh and Rohini Hattangadi.</itunes:summary>
+        <description>Episode 47: In this episode, a look at Govind Nihalani&#39;s cult classic Party, starring an ensemble cast of some of the best Indian theatre and art-house actors such as Deepa Sahi, Manohar Singh and Rohini Hattangadi.</description>
+        <googleplay:description>Episode 47: In this episode, a look at Govind Nihalani&#39;s cult classic Party, starring an ensemble cast of some of the best Indian theatre and art-house actors such as Deepa Sahi, Manohar Singh and Rohini Hattangadi.</googleplay:description>
+        <content:encoded><![CDATA[<p>Episode 47: In this episode, a look at Govind Nihalani&rsquo;s cult classic <a href="https://www.youtube.com/watch?v=o1sQcEWlI2Q">Party</a>, starring an ensemble cast of some the best Indian theatre and art-house actors such as Deepa Sahi, Manohar Singh and Rohini Hattangadi.</p>
+
+<p>The premise of the film is deceptively simple. A celebrated playwright Diwakar Barve (Manohar Singh) has been awarded a prestigious literary award. Socialite Damayanti Rane (Vijaya Mehta) organizes a party to celebrate Barve. A room full of intellectuals soon assemble together, but their conversations mainly centre around missing poet-turned-activist Amrit (Naseeruddin Shah). Over the evening, the gathering discusses the role of art in society, while pointing out each other&rsquo;s - or their own - hypocrisy.</p>
+
+<p>Music: Bollywood Blades by Professor Kliq/ Material Breakthrough by Peritune</p>
+]]></content:encoded><itunes:image href="https://khabardaarpodcast.com/img/episode/ep47mq.jpg"></itunes:image>
+          <googleplay:image href="https://khabardaarpodcast.com/img/episode/ep47mq.jpg"></googleplay:image><enclosure url="http://static.khabardaarpodcast.com/media/khabardaar-20190419-party.mp3"  type="audio/mpeg" /><itunes:duration>0:36:50</itunes:duration><itunes:explicit>no</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit></item>
         <item>
           <title>#46 Mard Ko Dard Nahi Hota</title>
           <link>https://khabardaarpodcast.com/mard-ko-dard-nahi-hota/</link>
