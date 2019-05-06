@@ -15,7 +15,7 @@
     <atom:link href="https://khabardaarpodcast.com/episode/index.xml" rel="self" type="application/rss+xml" />
     <link>https://khabardaarpodcast.com/</link>
     <description>Khabardaar is a weekly Hindi language podcast discussing Bollywood movies. Hosted by lifelong Bollywood fans Aparita Bhandari and Baisakhi Roy, it offers an in-depth look at the Hindi film industry.</description>
-    <lastBuildDate>Fri, 26 Apr 2019 00:00:17 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 5 May 2019 00:00:17 -0400</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>hi</language>
@@ -40,6 +40,29 @@
     </image>
     <itunes:category text="TV &amp; Film">
       </itunes:category><generator>Hugo -- gohugo.io</generator>
+        <item>
+          <title>#49 Kalank</title>
+          <link>https://khabardaarpodcast.com/kalank/</link>
+          <pubDate>Sun, 05 May 2019 00:00:17 -0400 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>http://static.khabardaarpodcast.com/media/khabardaar-20190505-kalank.mp3</guid>
+          <itunes:author>Khabardaar Podcast</itunes:author>
+          
+          <itunes:episode>49</itunes:episode>
+          
+        <itunes:summary>Episode 49: In this episode, we unpack our feelings about Kalank, the multi-starrer film featuring Alia Bhatt, Varun Dhawan, Aditya Roy Kapur, Sonakshi Sinha, Madhuri Dixit and Sanjay Dutt among others.</itunes:summary>
+        <description>Episode 49: In this episode, we unpack our feelings about Kalank, the multi-starrer film featuring Alia Bhatt, Varun Dhawan, Aditya Roy Kapur, Sonakshi Sinha, Madhuri Dixit and Sanjay Dutt among others.</description>
+        <googleplay:description>Episode 49: In this episode, we unpack our feelings about Kalank, the multi-starrer film featuring Alia Bhatt, Varun Dhawan, Aditya Roy Kapur, Sonakshi Sinha, Madhuri Dixit and Sanjay Dutt among others.</googleplay:description>
+        <content:encoded><![CDATA[<p>Episode 49: In this episode, we unpack our feelings about <a href="https://www.youtube.com/watch?v=p4Z_ueeT_XQ">Kalank</a>, the multi-starrer film featuring Alia Bhatt, Varun Dhawan, Aditya Roy Kapur, Sonakshi Sinha, Madhuri Dixit and Sanjay Dutt among others.</p>
+
+<p>Set against the backdrop of the Partition of India and Pakistan, Kalank attempts to tell the story of love, betrayal and loss. The elaborate family saga starts with Satya (Sonakshi Sinha), who in the face of imminent death due to a disease, persuades Roop (Alia Bhatt) to marry her husband Dev (Aditya Roy Kapur). Stuck in a loveless marriage, Roop finds herself drawn to Zafar (Varun Dhawan), a blacksmith, who has his own agenda in charming Roop. Turns out that this love quandary is actually the result of an older love story that went awry. How will Roop, Dev and Zafar fare?</p>
+
+<p>We begin the show with Geeton Ka Ghanchakkar featuring two &lsquo;kotha&rsquo; classic songs: Salaam-E-Ishq from Muqaddar Ka Siqander and Tharhe Rahio from Pakeezah. Then we check in with some Filmi Khabrein, where we talk about the upcoming <a href="https://www.iffsatoronto.com/">IFFSA Toronto</a> among other news items, before diving into Bollywood Behes.</p>
+
+<p>Music: Bollywood Blades by Professor Kliq/ Material Breakthrough by Peritune</p>
+]]></content:encoded><itunes:image href="https://khabardaarpodcast.com/img/episode/ep49mq.jpg"></itunes:image>
+          <googleplay:image href="https://khabardaarpodcast.com/img/episode/ep49mq.jpg"></googleplay:image><enclosure url="http://static.khabardaarpodcast.com/media/khabardaar-20190505-kalank.mp3"  type="audio/mpeg" /><itunes:duration>0:35:48</itunes:duration><itunes:explicit>no</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit></item>
         <item>
           <title>#48 Super Deluxe</title>
           <link>https://khabardaarpodcast.com/super-deluxe/</link>
