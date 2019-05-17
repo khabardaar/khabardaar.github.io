@@ -15,7 +15,7 @@
     <atom:link href="https://khabardaarpodcast.com/episode/index.xml" rel="self" type="application/rss+xml" />
     <link>https://khabardaarpodcast.com/</link>
     <description>Khabardaar is a weekly Hindi language podcast discussing Bollywood movies. Hosted by lifelong Bollywood fans Aparita Bhandari and Baisakhi Roy, it offers an in-depth look at the Hindi film industry.</description>
-    <lastBuildDate>Sun, 5 May 2019 00:00:17 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 13 May 2019 00:00:17 -0400</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>hi</language>
@@ -40,6 +40,25 @@
     </image>
     <itunes:category text="TV &amp; Film">
       </itunes:category><generator>Hugo -- gohugo.io</generator>
+        <item>
+          <title>#50 Bhonsle</title>
+          <link>https://khabardaarpodcast.com/bhonsle-iffsa-toronto/</link>
+          <pubDate>Mon, 13 May 2019 00:00:17 -0400 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>http://static.khabardaarpodcast.com/media/khabardaar-20190513-bhonsle.mp3</guid>
+          <itunes:author>Khabardaar Podcast</itunes:author>
+          
+          <itunes:episode>50</itunes:episode>
+          
+        <itunes:summary>Episode 50: In this episode, we record live on location at the IFFSA (International Film Festival of South Asia) Toronto. We talk about one of the opening films Bhonsle.</itunes:summary>
+        <description>Episode 50: In this episode, we record live on location at the IFFSA (International Film Festival of South Asia) Toronto. We talk about one of the opening films Bhonsle.</description>
+        <googleplay:description>Episode 50: In this episode, we record live on location at the IFFSA (International Film Festival of South Asia) Toronto. We talk about one of the opening films Bhonsle.</googleplay:description>
+        <content:encoded><![CDATA[<p>Episode 50: In this episode, we record live on location at <a href="https://www.iffsatoronto.com/">IFFSA Toronto</a>. We talk about one of the opening films Bhonsle, and kick off a short series called 50-50.</p>
+
+<p>Music: Bollywood Blades by Professor Kliq/ Material Breakthrough by Peritune</p>
+]]></content:encoded><itunes:image href="https://khabardaarpodcast.com/img/episode/ep50lq.jpg"></itunes:image>
+          <googleplay:image href="https://khabardaarpodcast.com/img/episode/ep50lq.jpg"></googleplay:image><enclosure url="http://static.khabardaarpodcast.com/media/khabardaar-20190513-bhonsle.mp3"  type="audio/mpeg" /><itunes:duration>0:23:19</itunes:duration><itunes:explicit>no</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit></item>
         <item>
           <title>#49 Kalank</title>
           <link>https://khabardaarpodcast.com/kalank/</link>
