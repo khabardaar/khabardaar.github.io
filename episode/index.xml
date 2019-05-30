@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0"
      xmlns:content="http://purl.org/rss/1.0/modules/content/"
      xmlns:wfw="http://wellformedweb.org/CommentAPI/"
@@ -15,7 +14,7 @@
     <atom:link href="https://khabardaarpodcast.com/episode/index.xml" rel="self" type="application/rss+xml" />
     <link>https://khabardaarpodcast.com/</link>
     <description>Khabardaar is a weekly Hindi language podcast discussing Bollywood movies. Hosted by lifelong Bollywood fans Aparita Bhandari and Baisakhi Roy, it offers an in-depth look at the Hindi film industry.</description>
-    <lastBuildDate>Mon, 13 May 2019 00:00:17 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 29 May 2019 00:00:17 -0400</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>hi</language>
@@ -40,6 +39,29 @@
     </image>
     <itunes:category text="TV &amp; Film">
       </itunes:category><generator>Hugo -- gohugo.io</generator>
+        <item>
+          <title>#51 Photograph</title>
+          <link>https://khabardaarpodcast.com/photograph/</link>
+          <pubDate>Wed, 29 May 2019 00:00:17 -0400 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>http://static.khabardaarpodcast.com/media/khabardaar-20190529-photograph.mp3</guid>
+          <itunes:author>Khabardaar Podcast</itunes:author>
+          
+          <itunes:episode>51</itunes:episode>
+          
+        <itunes:summary>Episode 51: In this episode, a look at Ritesh Batra&#39;s new film Photograph, starring Nawazuddin Siddiqui and Sanya Malhotra.</itunes:summary>
+        <description>Episode 51: In this episode, a look at Ritesh Batra&#39;s new film Photograph, starring Nawazuddin Siddiqui and Sanya Malhotra.</description>
+        <googleplay:description>Episode 51: In this episode, a look at Ritesh Batra&#39;s new film Photograph, starring Nawazuddin Siddiqui and Sanya Malhotra.</googleplay:description>
+        <content:encoded><![CDATA[<p>Episode 51: In this episode, a look at Ritesh Batra&rsquo;s new film <a href="https://www.youtube.com/watch?v=LwOGIlpPqek">Photograph</a>, starring Nawazuddin Siddiqui and Sanya Malhotra.</p>
+
+<p>Rafi (Siddiqui) is a street photographer who happens to take a photograph of Miloni (Malhotra) in front of the famous Mumbai tourist spot Gateway of India. Tired of his grandmother&rsquo;s constant refrain to get married, Rafi sends Miloni&rsquo;s photograph to his grandmother saying he&rsquo;s found a girl to marry. When the grandmother announces she&rsquo;s coming to Mumbai to meet the girl, Rafi needs to convince Miloni to play along.</p>
+
+<p>Before we focus on Photograph in Bollywood Behes, we revisit two Mumbai-set songs in Geeton Ka Ghanchakkar and tune into news from the Hindi film industry in Filmi Khabrein.</p>
+
+<p>Music: Bollywood Blades by Professor Kliq/ Material Breakthrough by Peritune</p>
+]]></content:encoded><itunes:image href="https://khabardaarpodcast.com/img/episode/ep51lq.jpg"></itunes:image>
+          <googleplay:image href="https://khabardaarpodcast.com/img/episode/ep51lq.jpg"></googleplay:image><enclosure url="http://static.khabardaarpodcast.com/media/khabardaar-20190529-photograph.mp3"  type="audio/mpeg" /><itunes:duration>0:41:03</itunes:duration><itunes:explicit>no</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit></item>
         <item>
           <title>#50 Bhonsle</title>
           <link>https://khabardaarpodcast.com/bhonsle-iffsa-toronto/</link>

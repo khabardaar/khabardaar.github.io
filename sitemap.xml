@@ -3,6 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://khabardaarpodcast.com/photograph/</loc>
+    <lastmod>2019-05-29T00:00:17-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://khabardaarpodcast.com/episode/</loc>
+    <lastmod>2019-05-29T00:00:17-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://khabardaarpodcast.com/</loc>
+    <lastmod>2019-05-29T00:00:17-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://khabardaarpodcast.com/bhonsle-iffsa-toronto/</loc>
     <lastmod>2019-05-13T00:00:17-04:00</lastmod>
   </url>
@@ -268,6 +285,12 @@
   </url>
   
   <url>
+    <loc>https://khabardaarpodcast.com/about/</loc>
+    <lastmod>2016-09-25T02:11:48-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://khabardaarpodcast.com/host/</loc>
     <lastmod>2016-09-25T02:11:48-05:00</lastmod>
   </url>
@@ -278,25 +301,7 @@
   </url>
   
   <url>
-    <loc>https://khabardaarpodcast.com/about/</loc>
-    <lastmod>2016-09-25T02:11:48-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://khabardaarpodcast.com/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://khabardaarpodcast.com/episode/</loc>
-    <lastmod>2019-05-13T00:00:17-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://khabardaarpodcast.com/</loc>
-    <lastmod>2019-05-13T00:00:17-04:00</lastmod>
     <priority>0</priority>
   </url>
   
