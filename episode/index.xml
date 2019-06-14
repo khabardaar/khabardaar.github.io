@@ -14,7 +14,7 @@
     <atom:link href="https://khabardaarpodcast.com/episode/index.xml" rel="self" type="application/rss+xml" />
     <link>https://khabardaarpodcast.com/</link>
     <description>Khabardaar is a weekly Hindi language podcast discussing Bollywood movies. Hosted by lifelong Bollywood fans Aparita Bhandari and Baisakhi Roy, it offers an in-depth look at the Hindi film industry.</description>
-    <lastBuildDate>Wed, 29 May 2019 00:00:17 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 9 Jun 2019 00:00:17 -0400</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>hi</language>
@@ -39,6 +39,25 @@
     </image>
     <itunes:category text="TV &amp; Film">
       </itunes:category><generator>Hugo -- gohugo.io</generator>
+        <item>
+          <title>#51 Pt. 2 Photograph</title>
+          <link>https://khabardaarpodcast.com/photograph-corollary/</link>
+          <pubDate>Sun, 09 Jun 2019 00:00:17 -0400 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>http://static.khabardaarpodcast.com/media/khabardaar-20190609-photograph-extra.mp3</guid>
+          <itunes:author>Khabardaar Podcast</itunes:author>
+          
+          <itunes:episode>51 Pt. 2</itunes:episode>
+          
+        <itunes:summary>Episode 51 Pt. 2: A special short corollary - Toronto filmmaker Gursimran Datla&#39;s analysis of Ritesh Batra&#39;s new film Photograph, starring Nawazuddin Siddiqui and Sanya Malhotra.</itunes:summary>
+        <description>Episode 51 Pt. 2: A special short corollary - Toronto filmmaker Gursimran Datla&#39;s analysis of Ritesh Batra&#39;s new film Photograph, starring Nawazuddin Siddiqui and Sanya Malhotra.</description>
+        <googleplay:description>Episode 51 Pt. 2: A special short corollary - Toronto filmmaker Gursimran Datla&#39;s analysis of Ritesh Batra&#39;s new film Photograph, starring Nawazuddin Siddiqui and Sanya Malhotra.</googleplay:description>
+        <content:encoded><![CDATA[<p>Episode 51 Pt. 2: A special short corollary - Toronto filmmaker Gursimran Datla&rsquo;s analysis of Ritesh Batra&rsquo;s new film <a href="https://www.youtube.com/watch?v=LwOGIlpPqek">Photograph</a>, starring Nawazuddin Siddiqui and Sanya Malhotra.</p>
+
+<p>For more on French filmmaker and philosopher Guy Debord&rsquo;s Society of the Spectacle, see this <a href="https://www.youtube.com/watch?v=RGJr08N-auM">quick introduction</a>.</p>
+]]></content:encoded><itunes:image href="https://khabardaarpodcast.com/img/episode/ep51mq.jpg"></itunes:image>
+          <googleplay:image href="https://khabardaarpodcast.com/img/episode/ep51mq.jpg"></googleplay:image><enclosure url="http://static.khabardaarpodcast.com/media/khabardaar-20190609-photograph-extra.mp3"  type="audio/mpeg" /><itunes:duration>0:08:25</itunes:duration><itunes:explicit>no</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit></item>
         <item>
           <title>#51 Photograph</title>
           <link>https://khabardaarpodcast.com/photograph/</link>
