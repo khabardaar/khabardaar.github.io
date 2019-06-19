@@ -14,7 +14,7 @@
     <atom:link href="https://khabardaarpodcast.com/episode/index.xml" rel="self" type="application/rss+xml" />
     <link>https://khabardaarpodcast.com/</link>
     <description>Khabardaar is a weekly Hindi language podcast discussing Bollywood movies. Hosted by lifelong Bollywood fans Aparita Bhandari and Baisakhi Roy, it offers an in-depth look at the Hindi film industry.</description>
-    <lastBuildDate>Sun, 9 Jun 2019 00:00:17 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 17 Jun 2019 00:00:17 -0400</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>hi</language>
@@ -39,6 +39,29 @@
     </image>
     <itunes:category text="TV &amp; Film">
       </itunes:category><generator>Hugo -- gohugo.io</generator>
+        <item>
+          <title>#52 Girish Karnad Legacy</title>
+          <link>https://khabardaarpodcast.com/girish-karnad-obit/</link>
+          <pubDate>Mon, 17 Jun 2019 00:00:17 -0400 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>http://static.khabardaarpodcast.com/media/khabardaar-20190617-girish-karnad.mp3</guid>
+          <itunes:author>Khabardaar Podcast</itunes:author>
+          
+          <itunes:episode>52</itunes:episode>
+          
+        <itunes:summary>Episode 52: In this episode, we pay tribute to veteran playwright, actor, writer and thinker Girish Karnad - who played a starring role both in art house and commercial Hindi/Indian cinema.</itunes:summary>
+        <description>Episode 52: In this episode, we pay tribute to veteran playwright, actor, writer and thinker Girish Karnad - who played a starring role both in art house and commercial Hindi/Indian cinema.</description>
+        <googleplay:description>Episode 52: In this episode, we pay tribute to veteran playwright, actor, writer and thinker Girish Karnad - who played a starring role both in art house and commercial Hindi/Indian cinema.</googleplay:description>
+        <content:encoded><![CDATA[<p>Episode 52: In this episode, we pay tribute to veteran playwright, actor, writer and thinker <a href="https://www.bbc.com/news/world-asia-india-48580607">Girish Karnad</a> - who played a starring role both in art house and commercial Hindi/Indian cinema</p>
+
+<p>We start off with Geeton Ka Ghanchakkar featuring two songs to remember Karnad by: a Kannada bhava-geethe Deepavu Ninnade Gaaliyu Ninnade and Mero Gaam Katha Parey. Filmi Khabrein follows, featuring news from the South Indian film industries.</p>
+
+<p>In Bollywood Behes, we look at the important legacy that Karnad has left in Kannada literature and films, as well as his many artistic contributions to Hindi cinema. He worked behind the scenes as a screenwriter for Shyam Benegal films such as Bhumika and Godhuli. He also shone in front of the camera in films such as <a href="https://www.youtube.com/watch?v=nEZMvixYP7w">Nishant</a>, <a href="https://www.youtube.com/watch?v=91qliAxU1pA">Manthan</a>, <a href="https://www.youtube.com/watch?v=0HsRQh8sNkU">Swami</a> as well as <a href="https://www.youtube.com/watch?v=SmUl0l8qBXw">Ek Tha Tiger</a>. And then there was his role as the father in the TV series <a href="https://www.youtube.com/watch?v=aEjfHV0YbII">Malgudi Days</a>. Karnad brought an artistic sensitivity that often didn&rsquo;t need words to be expressed.</p>
+
+<p>Music: Bollywood Blades by Professor Kliq/ Material Breakthrough by Peritune</p>
+]]></content:encoded><itunes:image href="https://khabardaarpodcast.com/img/episode/ep52lq.jpg"></itunes:image>
+          <googleplay:image href="https://khabardaarpodcast.com/img/episode/ep52lq.jpg"></googleplay:image><enclosure url="http://static.khabardaarpodcast.com/media/khabardaar-20190617-girish-karnad.mp3"  type="audio/mpeg" /><itunes:duration>0:26:29</itunes:duration><itunes:explicit>no</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit></item>
         <item>
           <title>#51 Pt. 2 Photograph</title>
           <link>https://khabardaarpodcast.com/photograph-corollary/</link>
