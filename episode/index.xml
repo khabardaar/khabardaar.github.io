@@ -14,7 +14,7 @@
     <atom:link href="https://khabardaarpodcast.com/episode/index.xml" rel="self" type="application/rss+xml" />
     <link>https://khabardaarpodcast.com/</link>
     <description>Khabardaar is a weekly Hindi language podcast discussing Bollywood movies. Hosted by lifelong Bollywood fans Aparita Bhandari and Baisakhi Roy, it offers an in-depth look at the Hindi film industry.</description>
-    <lastBuildDate>Mon, 17 Jun 2019 00:00:17 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 23 Jun 2019 00:00:17 -0400</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>hi</language>
@@ -39,6 +39,31 @@
     </image>
     <itunes:category text="TV &amp; Film">
       </itunes:category><generator>Hugo -- gohugo.io</generator>
+        <item>
+          <title>#53 Luka Chuppi</title>
+          <link>https://khabardaarpodcast.com/luka-chuppi/</link>
+          <pubDate>Sun, 23 Jun 2019 00:00:17 -0400 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>http://static.khabardaarpodcast.com/media/khabardaar-20190623-luka-chuppi.mp3</guid>
+          <itunes:author>Khabardaar Podcast</itunes:author>
+          
+          <itunes:episode>53</itunes:episode>
+          
+        <itunes:summary>Episode 53: In this episode, a look at Luka Chuppi. Starring Kartik Aaryan and Kriti Sanon, this was the latest Hindi film to explore live-in relationships.</itunes:summary>
+        <description>Episode 53: In this episode, a look at Luka Chuppi. Starring Kartik Aaryan and Kriti Sanon, this was the latest Hindi film to explore live-in relationships.</description>
+        <googleplay:description>Episode 53: In this episode, a look at Luka Chuppi. Starring Kartik Aaryan and Kriti Sanon, this was the latest Hindi film to explore live-in relationships.</googleplay:description>
+        <content:encoded><![CDATA[<p>Episode 53: In this episode, a look at <a href="https://www.youtube.com/watch?v=-JLewvWBkCw">Luka Chuppi</a>. Starring Kartik Aaryan and Kriti Sanon, this was the latest Hindi film to explore live-in relationships. It&rsquo;s now available to watch on Netflix.</p>
+
+<p>We start off with Geeton Ka Ghanchakkar with a Tamil twist, featuring two AR Rahman songs: Thaiyya Thaiyya and Mental Manadhil.</p>
+
+<p>Filmi Khabrein covers the latest in Bollywood news, including keeping tabs on the #MeToo movement as well as the the critical reception and box-office success of Kabir Singh.</p>
+
+<p>In Bollywood Behes, we discuss whether Luka Chuppi adds anything new to a subject that has already been covered recently in films such as Shuddh Desi Romance, OK Kanmani/OK Jaanu and Befikre.</p>
+
+<p>Music: Bollywood Blades by Professor Kliq/ Material Breakthrough by Peritune</p>
+]]></content:encoded><itunes:image href="https://khabardaarpodcast.com/img/episode/ep53mq.jpg"></itunes:image>
+          <googleplay:image href="https://khabardaarpodcast.com/img/episode/ep53mq.jpg"></googleplay:image><enclosure url="http://static.khabardaarpodcast.com/media/khabardaar-20190623-luka-chuppi.mp3"  type="audio/mpeg" /><itunes:duration>0:44:55</itunes:duration><itunes:explicit>no</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit></item>
         <item>
           <title>#52 Girish Karnad Legacy</title>
           <link>https://khabardaarpodcast.com/girish-karnad-obit/</link>
