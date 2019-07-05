@@ -14,7 +14,7 @@
     <atom:link href="https://khabardaarpodcast.com/episode/index.xml" rel="self" type="application/rss+xml" />
     <link>https://khabardaarpodcast.com/</link>
     <description>Khabardaar is a weekly Hindi language podcast discussing Bollywood movies. Hosted by lifelong Bollywood fans Aparita Bhandari and Baisakhi Roy, it offers an in-depth look at the Hindi film industry.</description>
-    <lastBuildDate>Sun, 23 Jun 2019 00:00:17 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 3 Jul 2019 00:00:17 -0400</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>hi</language>
@@ -39,6 +39,31 @@
     </image>
     <itunes:category text="TV &amp; Film">
       </itunes:category><generator>Hugo -- gohugo.io</generator>
+        <item>
+          <title>#54 Kabir Singh</title>
+          <link>https://khabardaarpodcast.com/kabir-singh/</link>
+          <pubDate>Wed, 03 Jul 2019 00:00:17 -0400 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>http://static.khabardaarpodcast.com/media/khabardaar-20190703-kabir-singh.mp3</guid>
+          <itunes:author>Khabardaar Podcast</itunes:author>
+          
+          <itunes:episode>53</itunes:episode>
+          
+        <itunes:summary>Episode 54: In this episode, despite our better judgement, a look at Kabir Singh. The Hindi remake of the Telugu sleeper hit Arjun Reddy is a bonafide Bollywood blockbuster. We try to understand why this misogynist film has struck a chord with viewers.</itunes:summary>
+        <description>Episode 54: In this episode, despite our better judgement, a look at Kabir Singh. The Hindi remake of the Telugu sleeper hit Arjun Reddy is a bonafide Bollywood blockbuster. We try to understand why this misogynist film has struck a chord with viewers.</description>
+        <googleplay:description>Episode 54: In this episode, despite our better judgement, a look at Kabir Singh. The Hindi remake of the Telugu sleeper hit Arjun Reddy is a bonafide Bollywood blockbuster. We try to understand why this misogynist film has struck a chord with viewers.</googleplay:description>
+        <content:encoded><![CDATA[<p>Episode 54: In this episode, despite our better judgement, a look at <a href="https://www.youtube.com/watch?v=RiANSSgCuJk">Kabir Singh</a>. The Hindi remake of the Telugu sleeper hit Arjun Reddy is a bonafide Bollywood blockbuster. We try to understand why this misogynist film has struck a chord with viewers.</p>
+
+<p>We start off with Geeton Ka Ghanchakkar remembering two unique Hindi song takes on the idea of love &ndash; Dil Chahta Hai&rsquo;s &ldquo;Jaane Kyun&rdquo; and &ldquo;Man Kyun Behka&rdquo; from Utsav.</p>
+
+<p>Filmi Khabrein covers the latest in Bollywood news, including an update on Vicky Kaushal&rsquo;s latest army look.</p>
+
+<p>In Bollywood Behes, we revisit some themes we had already elaborated on while discussing Arjun Reddy. We talk about the difference between self-destructive obsession and love &ndash; no matter how intense. However, the movie has broken box-office records. So what do we take away from it all? Tune in to find out!</p>
+
+<p>Music: Bollywood Blades by Professor Kliq/ Material Breakthrough by Peritune</p>
+]]></content:encoded><itunes:image href="https://khabardaarpodcast.com/img/episode/ep54lq.jpg"></itunes:image>
+          <googleplay:image href="https://khabardaarpodcast.com/img/episode/ep54lq.jpg"></googleplay:image><enclosure url="http://static.khabardaarpodcast.com/media/khabardaar-20190703-kabir-singh.mp3"  type="audio/mpeg" /><itunes:duration>0:51:47</itunes:duration><itunes:explicit>no</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit></item>
         <item>
           <title>#53 Luka Chuppi</title>
           <link>https://khabardaarpodcast.com/luka-chuppi/</link>
