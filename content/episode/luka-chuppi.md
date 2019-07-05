@@ -16,7 +16,7 @@ tags = []
 title = "#53 Luka Chuppi"
 +++
 
-Episode 53: In this episode, a look at [Luka Chuppi](https://www.youtube.com/watch?v=-JLewvWBkCw&t=12s). Starring Kartik Aaryan and Kriti Sanon, this was the latest Hindi film to explore live-in relationships. It's now available to watch on Netflix.
+Episode 53: In this episode, a look at [Luka Chuppi](https://www.youtube.com/watch?v=-JLewvWBkCw). Starring Kartik Aaryan and Kriti Sanon, this was the latest Hindi film to explore live-in relationships. It's now available to watch on Netflix.
 
 We start off with Geeton Ka Ghanchakkar with a Tamil twist, featuring two AR Rahman songs: Thaiyya Thaiyya and Mental Manadhil.
 
