@@ -14,7 +14,7 @@
     <atom:link href="https://khabardaarpodcast.com/episode/index.xml" rel="self" type="application/rss+xml" />
     <link>https://khabardaarpodcast.com/</link>
     <description>Khabardaar is a weekly Hindi language podcast discussing Bollywood movies. Hosted by lifelong Bollywood fans Aparita Bhandari and Baisakhi Roy, it offers an in-depth look at the Hindi film industry.</description>
-    <lastBuildDate>Wed, 3 Jul 2019 00:00:17 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jul 2019 00:00:17 -0400</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>hi</language>
@@ -40,6 +40,29 @@
     <itunes:category text="TV &amp; Film">
       </itunes:category><generator>Hugo -- gohugo.io</generator>
         <item>
+          <title>#55 Leila</title>
+          <link>https://khabardaarpodcast.com/leila/</link>
+          <pubDate>Wed, 17 Jul 2019 00:00:17 -0400 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>http://static.khabardaarpodcast.com/media/khabardaar-20190717-leila.mp3</guid>
+          <itunes:author>Khabardaar Podcast</itunes:author>
+          
+          <itunes:episode>55</itunes:episode>
+          
+        <itunes:summary>Episode 55: In this episode, a look at Deepa Mehta&#39;s Netflix series Leila. We talk about its origins as a book by journalist-turned-author Prayaag Akbar, and why a dystopian series set in India doesn&#39;t seem to be too far from present day reality.</itunes:summary>
+        <description>Episode 55: In this episode, a look at Deepa Mehta&#39;s Netflix series Leila. We talk about its origins as a book by journalist-turned-author Prayaag Akbar, and why a dystopian series set in India doesn&#39;t seem to be too far from present day reality.</description>
+        <googleplay:description>Episode 55: In this episode, a look at Deepa Mehta&#39;s Netflix series Leila. We talk about its origins as a book by journalist-turned-author Prayaag Akbar, and why a dystopian series set in India doesn&#39;t seem to be too far from present day reality.</googleplay:description>
+        <content:encoded><![CDATA[<p>Episode 55: In this episode, a look at Deepa Mehta&rsquo;s <a href="https://www.youtube.com/watch?v=5yxjRgwYymg">Netflix series Leila</a>. We talk about its origins as a book by journalist-turned-author Prayaag Akbar, and why a dystopian series set in India doesn&rsquo;t seem to be too far from present day reality.</p>
+
+<p>We start off with Geeton Ka Ghanchakkar that features two songs starring Ayushmann Khurrana: Pani Da Rang from Vicky Donor and Moh Moh Ke Dhaage from Dum Laga Ke Haisha.</p>
+
+<p>Filmi Khabrein covers Bollywood news. Bollywood Behes includes snippets of a conversation with Deepa Mehta.</p>
+
+<p>Music: Bollywood Blades by Professor Kliq/ Material Breakthrough by Peritune</p>
+]]></content:encoded><itunes:image href="https://khabardaarpodcast.com/img/episode/ep55mq.jpg"></itunes:image>
+          <googleplay:image href="https://khabardaarpodcast.com/img/episode/ep55mq.jpg"></googleplay:image><enclosure url="http://static.khabardaarpodcast.com/media/khabardaar-20190717-leila.mp3"  type="audio/mpeg" /><itunes:duration>0:36:07</itunes:duration><itunes:explicit>no</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit></item>
+        <item>
           <title>#54 Kabir Singh</title>
           <link>https://khabardaarpodcast.com/kabir-singh/</link>
           <pubDate>Wed, 03 Jul 2019 00:00:17 -0400 </pubDate>
@@ -47,7 +70,7 @@
           <guid>http://static.khabardaarpodcast.com/media/khabardaar-20190703-kabir-singh.mp3</guid>
           <itunes:author>Khabardaar Podcast</itunes:author>
           
-          <itunes:episode>53</itunes:episode>
+          <itunes:episode>54</itunes:episode>
           
         <itunes:summary>Episode 54: In this episode, despite our better judgement, a look at Kabir Singh. The Hindi remake of the Telugu sleeper hit Arjun Reddy is a bonafide Bollywood blockbuster. We try to understand why this misogynist film has struck a chord with viewers.</itunes:summary>
         <description>Episode 54: In this episode, despite our better judgement, a look at Kabir Singh. The Hindi remake of the Telugu sleeper hit Arjun Reddy is a bonafide Bollywood blockbuster. We try to understand why this misogynist film has struck a chord with viewers.</description>
