@@ -14,7 +14,7 @@
     <atom:link href="https://khabardaarpodcast.com/episode/index.xml" rel="self" type="application/rss+xml" />
     <link>https://khabardaarpodcast.com/</link>
     <description>Khabardaar is a weekly Hindi language podcast discussing Bollywood movies. Hosted by lifelong Bollywood fans Aparita Bhandari and Baisakhi Roy, it offers an in-depth look at the Hindi film industry.</description>
-    <lastBuildDate>Wed, 31 Jul 2019 00:00:17 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 21 Aug 2019 00:00:17 -0400</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>hi</language>
@@ -39,6 +39,27 @@
     </image>
     <itunes:category text="TV &amp; Film">
       </itunes:category><generator>Hugo -- gohugo.io</generator>
+        <item>
+          <title>#57 Jabariya Jodi</title>
+          <link>https://khabardaarpodcast.com/jabariya-jodi/</link>
+          <pubDate>Wed, 21 Aug 2019 00:00:17 -0400 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>http://static.khabardaarpodcast.com/media/khabardaar-20190821-jabariya-jodi.mp3</guid>
+          <itunes:author>Khabardaar Podcast</itunes:author>
+          
+          <itunes:episode>57</itunes:episode>
+          
+        <itunes:summary>Episode 57: In this episode, a conversation with Sanjeev K Jha, the writer of Jabariya Jodi.</itunes:summary>
+        <description>Episode 57: In this episode, a conversation with Sanjeev K Jha, the writer of Jabariya Jodi.</description>
+        <googleplay:description>Episode 57: In this episode, a conversation with Sanjeev K Jha, the writer of Jabariya Jodi.</googleplay:description>
+        <content:encoded><![CDATA[<p>Episode 57: In this episode, a conversation with Sanjeev K Jha, the writer of Jabariya Jodi.</p>
+
+<p>He talks about growing up in a small town in Bihar, watching films seriously for the first time as a university student in New Delhi, and writing a film to combat Bihari stereotypes in Indian popular culture.</p>
+
+<p>Music: Bollywood Blades by Professor Kliq</p>
+]]></content:encoded><itunes:image href="https://khabardaarpodcast.com/img/episode/ep57mq.jpg"></itunes:image>
+          <googleplay:image href="https://khabardaarpodcast.com/img/episode/ep57mq.jpg"></googleplay:image><enclosure url="http://static.khabardaarpodcast.com/media/khabardaar-20190821-jabariya-jodi.mp3"  type="audio/mpeg" /><itunes:duration>0:17:29</itunes:duration><itunes:explicit>no</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit></item>
         <item>
           <title>#56 Soni</title>
           <link>https://khabardaarpodcast.com/soni/</link>
