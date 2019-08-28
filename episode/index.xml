@@ -14,7 +14,7 @@
     <atom:link href="https://khabardaarpodcast.com/episode/index.xml" rel="self" type="application/rss+xml" />
     <link>https://khabardaarpodcast.com/</link>
     <description>Khabardaar is a weekly Hindi language podcast discussing Bollywood movies. Hosted by lifelong Bollywood fans Aparita Bhandari and Baisakhi Roy, it offers an in-depth look at the Hindi film industry.</description>
-    <lastBuildDate>Wed, 21 Aug 2019 00:00:17 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 26 Aug 2019 00:00:17 -0400</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>hi</language>
@@ -39,6 +39,29 @@
     </image>
     <itunes:category text="TV &amp; Film">
       </itunes:category><generator>Hugo -- gohugo.io</generator>
+        <item>
+          <title>#58 on Kashmir</title>
+          <link>https://khabardaarpodcast.com/kashmir/</link>
+          <pubDate>Mon, 26 Aug 2019 00:00:17 -0400 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>http://static.khabardaarpodcast.com/media/khabardaar-20190827-kashmir.mp3</guid>
+          <itunes:author>Khabardaar Podcast</itunes:author>
+          
+          <itunes:episode>58</itunes:episode>
+          
+        <itunes:summary>Episode 58: In this episode, a look at how Kashmir has been portrayed in Bollywood and Hindi films over the years.</itunes:summary>
+        <description>Episode 58: In this episode, a look at how Kashmir has been portrayed in Bollywood and Hindi films over the years.</description>
+        <googleplay:description>Episode 58: In this episode, a look at how Kashmir has been portrayed in Bollywood and Hindi films over the years.</googleplay:description>
+        <content:encoded><![CDATA[<p>Episode 58: In this episode, a look at how Kashmir has been portrayed in Bollywood and Hindi films over the years.</p>
+
+<p>We begin with Geeton Ka Ghachakkar, paying tribute to older movies set in Kashmir, as well as veteran star Vidya Sinha. Filmi Khabrein returns, in which we talk about Akshay Kumar and other Bollywood celebrities. And then Bollywood Behes takes us into Kashmir, as seen in Hindi cinema.</p>
+
+<p>Given the current political climate, we take a look at the way this disputed territory - one of the world&rsquo;s most militarized zones - has been portrayed as a honeymoon or holiday destination in older Bollywood movies. With movies like <a href="https://www.youtube.com/watch?v=TZJwcbCuOlc">Roja</a>, terrorism became another backdrop to set Hindi films against. More recent films such as <a href="https://www.netflix.com/ca/title/70153553">Harud</a> and <a href="https://www.netflix.com/ca/title/70303432">Haider</a>, however, have given us a sense of life under military seige.</p>
+
+<p>Music: Bollywood Blades by Professor Kliq/ Material Breakthrough by Peritune</p>
+]]></content:encoded><itunes:image href="https://khabardaarpodcast.com/img/episode/ep58mq.jpg"></itunes:image>
+          <googleplay:image href="https://khabardaarpodcast.com/img/episode/ep58mq.jpg"></googleplay:image><enclosure url="http://static.khabardaarpodcast.com/media/khabardaar-20190827-kashmir.mp3"  type="audio/mpeg" /><itunes:duration>0:45:25</itunes:duration><itunes:explicit>no</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit></item>
         <item>
           <title>#57 Jabariya Jodi</title>
           <link>https://khabardaarpodcast.com/jabariya-jodi/</link>
