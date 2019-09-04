@@ -18,7 +18,7 @@ title = "#58 On Kashmir"
 
 Episode 58: In this episode, a look at how Kashmir has been portrayed in Bollywood and Hindi films over the years.
 
-We begin with Geeton Ka Ghachakkar, paying tribute to older movies set in Kashmir, as well as veteran star Vidya Sinha. Filmi Khabrein returns, in which we talk about Akshay Kumar and other Bollywood celebrities. And then Bollywood Behes takes us into Kashmir, as seen in Hindi cinema. 
+We begin with Geeton Ka Ghanchakkar, paying tribute to older movies set in Kashmir, as well as veteran star Vidya Sinha. Filmi Khabrein returns, in which we talk about Akshay Kumar and other Bollywood celebrities. And then Bollywood Behes takes us into Kashmir, as seen in Hindi cinema. 
 
 Given the current political climate, we take a look at the way this disputed territory - one of the world's most militarized zones - has been portrayed as a honeymoon or holiday destination in older Bollywood movies. With movies like [Roja](https://www.youtube.com/watch?v=TZJwcbCuOlc), terrorism became another backdrop to set Hindi films against. More recent films such as [Harud](https://www.netflix.com/ca/title/70153553) and [Haider](https://www.netflix.com/ca/title/70303432), however, have given us a sense of life under military seige.
 
