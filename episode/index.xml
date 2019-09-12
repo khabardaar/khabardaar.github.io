@@ -14,7 +14,7 @@
     <atom:link href="https://khabardaarpodcast.com/episode/index.xml" rel="self" type="application/rss+xml" />
     <link>https://khabardaarpodcast.com/</link>
     <description>Khabardaar is a weekly Hindi language podcast discussing Bollywood movies. Hosted by lifelong Bollywood fans Aparita Bhandari and Baisakhi Roy, it offers an in-depth look at the Hindi film industry.</description>
-    <lastBuildDate>Tue, 3 Sep 2019 00:00:17 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 11 Sep 2019 00:00:17 -0400</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>hi</language>
@@ -39,6 +39,27 @@
     </image>
     <itunes:category text="TV &amp; Film">
       </itunes:category><generator>Hugo -- gohugo.io</generator>
+        <item>
+          <title>#60 TIFF 2019 Teaser</title>
+          <link>https://khabardaarpodcast.com/tiff-2019-teaser/</link>
+          <pubDate>Wed, 11 Sep 2019 00:00:17 -0400 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>http://static.khabardaarpodcast.com/media/khabardaar-20190911-tiff-2019-teaser.mp3</guid>
+          <itunes:author>Khabardaar Podcast</itunes:author>
+          
+          <itunes:episode>60</itunes:episode>
+          
+        <itunes:summary>Episode 60: Aparita and Baisakhi are at TIFF 2019, and give you an update on films they have watched so far.</itunes:summary>
+        <description>Episode 60: Aparita and Baisakhi are at TIFF 2019, and give you an update on films they have watched so far.</description>
+        <googleplay:description>Episode 60: Aparita and Baisakhi are at TIFF 2019, and give you an update on films they have watched so far.</googleplay:description>
+        <content:encoded><![CDATA[<p>Episode 60: Aparita and Baisakhi are at TIFF 2019, and give you an update on films they have watched so far.</p>
+
+<p>We begin with Geeton Ka Ghanchakkar and a quick hit of Filmi Khabrein. In lieu of Bollywood Behes, Aparita and Baisakhi talk about watching films such as <a href="https://www.youtube.com/watch?v=isOGD_7hNIY">Parasite</a>, <a href="https://www.youtube.com/watch?v=7ujh22EXdSM">Jallikattu</a> and <a href="https://www.youtube.com/watch?v=prwUFBsDRLk">The Sky is Pink</a>, as well as Hollywood films such as <a href="https://www.youtube.com/watch?v=lDv-TwjQ_o4">Hustlers</a>.</p>
+
+<p>Music: Bollywood Blades by Professor Kliq/ Material Breakthrough by Peritune</p>
+]]></content:encoded><itunes:image href="https://khabardaarpodcast.com/img/episode/ep60mq.jpg"></itunes:image>
+          <googleplay:image href="https://khabardaarpodcast.com/img/episode/ep60mq.jpg"></googleplay:image><enclosure url="http://static.khabardaarpodcast.com/media/khabardaar-20190911-tiff-2019-teaser.mp3"  type="audio/mpeg" /><itunes:duration>0:25:06</itunes:duration><itunes:explicit>no</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit></item>
         <item>
           <title>#59 on Vidya Sinha</title>
           <link>https://khabardaarpodcast.com/vidya-sinha/</link>
