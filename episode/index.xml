@@ -14,7 +14,7 @@
     <atom:link href="https://khabardaarpodcast.com/episode/index.xml" rel="self" type="application/rss+xml" />
     <link>https://khabardaarpodcast.com/</link>
     <description>Khabardaar is a weekly Hindi language podcast discussing Bollywood movies. Hosted by lifelong Bollywood fans Aparita Bhandari and Baisakhi Roy, it offers an in-depth look at the Hindi film industry.</description>
-    <lastBuildDate>Wed, 11 Sep 2019 00:00:17 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 18 Sep 2019 00:00:17 -0400</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>hi</language>
@@ -39,6 +39,29 @@
     </image>
     <itunes:category text="TV &amp; Film">
       </itunes:category><generator>Hugo -- gohugo.io</generator>
+        <item>
+          <title>#61 TIFF 2019 Critics Roundtable</title>
+          <link>https://khabardaarpodcast.com/tiff-2019-critics-roundtable/</link>
+          <pubDate>Wed, 18 Sep 2019 00:00:17 -0400 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>http://static.khabardaarpodcast.com/media/khabardaar-20190918-tiff-2019-critics-roundtable.mp3</guid>
+          <itunes:author>Khabardaar Podcast</itunes:author>
+          
+          <itunes:episode>61</itunes:episode>
+          
+        <itunes:summary>Episode 61: A conversation with India&#39;s leading film critics and writers on the South Asian selection and other remarkable films at 2019 Toronto International Film Festival.</itunes:summary>
+        <description>Episode 61: A conversation with India&#39;s leading film critics and writers on the South Asian selection and other remarkable films at 2019 Toronto International Film Festival.</description>
+        <googleplay:description>Episode 61: A conversation with India&#39;s leading film critics and writers on the South Asian selection and other remarkable films at 2019 Toronto International Film Festival.</googleplay:description>
+        <content:encoded><![CDATA[<p>Episode 61: A conversation with India&rsquo;s leading film critics and writers on the South Asian selection and other remarkable films at 2019 Toronto International Film Festival (TIFF).</p>
+
+<p>We begin with Geeton Ka Ghanchakkar and a quick hit of Filmi Khabrein. And then we bring you a spirited discussion between <a href="https://twitter.com/Namrata_Joshi">Namrata Joshi</a>, <a href="https://twitter.com/chhabs">Aseem Chhabra</a> and <a href="https://twitter.com/SuparnaSharma">Suparna Sharma</a>. The talk about the hits and misses at this year&rsquo;s TIFF, the selection of films from India and other parts of South Asia, and some insight into how they manage festival life. (Shout out to <a href="https://twitter.com/shubhragupta">Shubra Gupta</a>, who left this year&rsquo;s TIFF a few days ahead of the team.)</p>
+
+<p>Namrata Joshi is the cinema editor and film critic for The Hindu, and author of <a href="https://www.amazon.in/Reel-India-Cinema-Beaten-Track/dp/9350097214">Reel India: Cinema off the Beaten Track</a>; Suparna Sharma is the film critic for The Asian Age and Deccan Chronicle; and Aseem Chhabra is a film journalist and author of <a href="https://www.amazon.com/Priyanka-Chopra-Incredible-Global-Bollywood-ebook/dp/B07F45T42Z">Priyanka Chopra: The Incredible Story of a Global Bollywood Star</a>.</p>
+
+<p>Music: Bollywood Blades by Professor Kliq/ Material Breakthrough by Peritune</p>
+]]></content:encoded><itunes:image href="https://khabardaarpodcast.com/img/episode/ep29mq.jpg"></itunes:image>
+          <googleplay:image href="https://khabardaarpodcast.com/img/episode/ep29mq.jpg"></googleplay:image><enclosure url="http://static.khabardaarpodcast.com/media/khabardaar-20190918-tiff-2019-critics-roundtable.mp3"  type="audio/mpeg" /><itunes:duration>0:51:30</itunes:duration><itunes:explicit>no</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit></item>
         <item>
           <title>#60 TIFF 2019 Teaser</title>
           <link>https://khabardaarpodcast.com/tiff-2019-teaser/</link>
