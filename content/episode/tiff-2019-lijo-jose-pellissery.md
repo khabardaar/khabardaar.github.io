@@ -16,6 +16,6 @@ tags = []
 title = "#62 TIFF 2019 Jallikattu"
 +++
 
-Episode 62: A conversation with Lijo Jose Pellissery, one of the directors leading the 'New Generation' of Malayalam cinema. Pellissery brought his latest film [Jallikattu](https://www.youtube.com/watch?v=i50PFjOMU-I&t=25s) to the 2019 Toronto International Film Festival.
+Episode 62: A conversation with Lijo Jose Pellissery, one of the directors leading the 'New Generation' of Malayalam cinema. Pellissery brought his latest film [Jallikattu](https://www.youtube.com/watch?v=i50PFjOMU-I&) to the 2019 Toronto International Film Festival.
 
 Music: Bollywood Blades by Professor Kliq
