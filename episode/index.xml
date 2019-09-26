@@ -14,7 +14,7 @@
     <atom:link href="https://khabardaarpodcast.com/episode/index.xml" rel="self" type="application/rss+xml" />
     <link>https://khabardaarpodcast.com/</link>
     <description>Khabardaar is a weekly Hindi language podcast discussing Bollywood movies. Hosted by lifelong Bollywood fans Aparita Bhandari and Baisakhi Roy, it offers an in-depth look at the Hindi film industry.</description>
-    <lastBuildDate>Wed, 18 Sep 2019 00:00:17 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 25 Sep 2019 00:00:17 -0400</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>hi</language>
@@ -39,6 +39,25 @@
     </image>
     <itunes:category text="TV &amp; Film">
       </itunes:category><generator>Hugo -- gohugo.io</generator>
+        <item>
+          <title>#62 TIFF 2019 Jallikattu</title>
+          <link>https://khabardaarpodcast.com/tiff-2019-lijo-jose-pellissery/</link>
+          <pubDate>Wed, 25 Sep 2019 00:00:17 -0400 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>http://static.khabardaarpodcast.com/media/khabardaar-20190925-tiff-2019-lijo-jose-pellissery.mp3</guid>
+          <itunes:author>Khabardaar Podcast</itunes:author>
+          
+          <itunes:episode>62</itunes:episode>
+          
+        <itunes:summary>Episode 62: A conversation with Lijo Jose Pellissery, one of the directors leading the &#39;New Generation&#39; of Malayalam cinema. Pellissery brought his latest film Jallikattu to the 2019 Toronto International Film Festival.</itunes:summary>
+        <description>Episode 62: A conversation with Lijo Jose Pellissery, one of the directors leading the &#39;New Generation&#39; of Malayalam cinema. Pellissery brought his latest film Jallikattu to the 2019 Toronto International Film Festival.</description>
+        <googleplay:description>Episode 62: A conversation with Lijo Jose Pellissery, one of the directors leading the &#39;New Generation&#39; of Malayalam cinema. Pellissery brought his latest film Jallikattu to the 2019 Toronto International Film Festival.</googleplay:description>
+        <content:encoded><![CDATA[<p>Episode 62: A conversation with Lijo Jose Pellissery, one of the directors leading the &lsquo;New Generation&rsquo; of Malayalam cinema. Pellissery brought his latest film <a href="https://www.youtube.com/watch?v=i50PFjOMU-I&amp;">Jallikattu</a> to the 2019 Toronto International Film Festival.</p>
+
+<p>Music: Bollywood Blades by Professor Kliq</p>
+]]></content:encoded><itunes:image href="https://khabardaarpodcast.com/img/episode/ep62mq.jpg"></itunes:image>
+          <googleplay:image href="https://khabardaarpodcast.com/img/episode/ep62mq.jpg"></googleplay:image><enclosure url="http://static.khabardaarpodcast.com/media/khabardaar-20190925-tiff-2019-lijo-jose-pellissery.mp3"  type="audio/mpeg" /><itunes:duration>0:36:18</itunes:duration><itunes:explicit>no</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit></item>
         <item>
           <title>#61 TIFF 2019 Critics Roundtable</title>
           <link>https://khabardaarpodcast.com/tiff-2019-critics-roundtable/</link>
