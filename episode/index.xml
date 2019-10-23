@@ -14,7 +14,7 @@
     <atom:link href="https://khabardaarpodcast.com/episode/index.xml" rel="self" type="application/rss+xml" />
     <link>https://khabardaarpodcast.com/</link>
     <description>Khabardaar is a weekly Hindi language podcast discussing Bollywood movies. Hosted by lifelong Bollywood fans Aparita Bhandari and Baisakhi Roy, it offers an in-depth look at the Hindi film industry.</description>
-    <lastBuildDate>Wed, 2 Oct 2019 00:00:17 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 18 Oct 2019 00:00:17 -0400</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>hi</language>
@@ -39,6 +39,25 @@
     </image>
     <itunes:category text="TV &amp; Film">
       </itunes:category><generator>Hugo -- gohugo.io</generator>
+        <item>
+          <title>#64 TIFF 2019 Moothon</title>
+          <link>https://khabardaarpodcast.com/tiff-2019-nivin-pauly-moothon-copy/</link>
+          <pubDate>Fri, 18 Oct 2019 00:00:17 -0400 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>http://static.khabardaarpodcast.com/media/khabardaar-20191018-tiff-2019-nivin-pauly-moothon.mp3</guid>
+          <itunes:author>Khabardaar Podcast</itunes:author>
+          
+          <itunes:episode>64</itunes:episode>
+          
+        <itunes:summary>Episode 64: A conversation with Geetu Mohandas, Nivin Pauly, Roshan Mathew, Shashank Arora and Shobhita Dhulipala, who brought Moothon to the Toronto International Film Festival 2019.</itunes:summary>
+        <description>Episode 64: A conversation with Geetu Mohandas, Nivin Pauly, Roshan Mathew, Shashank Arora and Shobhita Dhulipala, who brought Moothon to the Toronto International Film Festival 2019.</description>
+        <googleplay:description>Episode 64: A conversation with Geetu Mohandas, Nivin Pauly, Roshan Mathew, Shashank Arora and Shobhita Dhulipala, who brought Moothon to the Toronto International Film Festival 2019.</googleplay:description>
+        <content:encoded><![CDATA[<p>Episode 64: A conversation with Geetu Mohandas, Nivin Pauly, Roshan Mathew, Shashank Arora and Shobhita Dhulipala, who brought <a href="https://www.youtube.com/watch?v=KRKTAYDaHzw">Moothon</a> to the Toronto International Film Festival 2019.</p>
+
+<p>Music: Bollywood Blades by Professor Kliq/Image courtesy TIFF</p>
+]]></content:encoded><itunes:image href="https://khabardaarpodcast.com/img/episode/ep64mq.jpg"></itunes:image>
+          <googleplay:image href="https://khabardaarpodcast.com/img/episode/ep64mq.jpg"></googleplay:image><enclosure url="http://static.khabardaarpodcast.com/media/khabardaar-20191018-tiff-2019-nivin-pauly-moothon.mp3"  type="audio/mpeg" /><itunes:duration>0:23:56</itunes:duration><itunes:explicit>no</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit></item>
         <item>
           <title>#63 TIFF 2019 the Sky Is Pink</title>
           <link>https://khabardaarpodcast.com/tiff-2019-priyanka-chopra/</link>
