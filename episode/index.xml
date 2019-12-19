@@ -14,7 +14,7 @@
     <atom:link href="https://khabardaarpodcast.com/episode/index.xml" rel="self" type="application/rss+xml" />
     <link>https://khabardaarpodcast.com/</link>
     <description>Khabardaar is a weekly Hindi language podcast discussing Bollywood movies. Hosted by lifelong Bollywood fans Aparita Bhandari and Baisakhi Roy, it offers an in-depth look at the Hindi film industry.</description>
-    <lastBuildDate>Fri, 18 Oct 2019 00:00:17 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 15 Dec 2019 00:00:17 -0400</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>hi</language>
@@ -40,8 +40,46 @@
     <itunes:category text="TV &amp; Film">
       </itunes:category><generator>Hugo -- gohugo.io</generator>
         <item>
+          <title>#66 Mausaji&#39;s Musical Memories</title>
+          <link>https://khabardaarpodcast.com/mausaji-memories/</link>
+          <pubDate>Sun, 15 Dec 2019 00:00:17 -0400 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>http://static.khabardaarpodcast.com/media/khabardaar-20191215-tiff-mausaji-memories.mp3</guid>
+          <itunes:author>Khabardaar Podcast</itunes:author>
+          
+          <itunes:episode>66</itunes:episode>
+          
+        <itunes:summary>Episode 66: A conversation with Aparita&#39;s mausaji Bhaskar Khulbe, a Hindi film song lover.</itunes:summary>
+        <description>Episode 66: A conversation with Aparita&#39;s mausaji Bhaskar Khulbe, a Hindi film song lover.</description>
+        <googleplay:description>Episode 66: A conversation with Aparita&#39;s mausaji Bhaskar Khulbe, a Hindi film song lover.</googleplay:description>
+        <content:encoded><![CDATA[<p>Episode 66: A conversation with Aparita&rsquo;s mausaji Bhaskar Khulbe, a Hindi film song lover.</p>
+
+<p>Music: Bollywood Blades by Professor Kliq</p>
+]]></content:encoded><itunes:image href="https://khabardaarpodcast.com/img/episode/ep66mq.jpg"></itunes:image>
+          <googleplay:image href="https://khabardaarpodcast.com/img/episode/ep66mq.jpg"></googleplay:image><enclosure url="http://static.khabardaarpodcast.com/media/khabardaar-20191215-tiff-mausaji-memories.mp3"  type="audio/mpeg" /><itunes:duration>0:32:44</itunes:duration><itunes:explicit>no</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit></item>
+        <item>
+          <title>#65 TIFF 2019 Wrap Up</title>
+          <link>https://khabardaarpodcast.com/tiff-2019-wrap-up/</link>
+          <pubDate>Sun, 27 Oct 2019 00:00:17 -0400 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>http://static.khabardaarpodcast.com/media/khabardaar-20191027-tiff-2019-wrap-up.mp3</guid>
+          <itunes:author>Khabardaar Podcast</itunes:author>
+          
+          <itunes:episode>65</itunes:episode>
+          
+        <itunes:summary>Episode 65: A conversation about some of the other films and documentaries we watched at Toronto International Film Festival 2019, including Bikram: Yogi, Guru, Predator; Made in Bangladesh and Bombay Rose.</itunes:summary>
+        <description>Episode 65: A conversation about some of the other films and documentaries we watched at Toronto International Film Festival 2019, including Bikram: Yogi, Guru, Predator; Made in Bangladesh and Bombay Rose.</description>
+        <googleplay:description>Episode 65: A conversation about some of the other films and documentaries we watched at Toronto International Film Festival 2019, including Bikram: Yogi, Guru, Predator; Made in Bangladesh and Bombay Rose.</googleplay:description>
+        <content:encoded><![CDATA[<p>Episode 65: A conversation about some of the other films and documentaries we watched at Toronto International Film Festival 2019, including Bikram: Yogi, Guru, Predator; Made in Bangladesh and Bombay Rose.</p>
+
+<p>Music: Bollywood Blades by Professor Kliq/Image courtesy TIFF</p>
+]]></content:encoded><itunes:image href="https://khabardaarpodcast.com/img/episode/ep65mq.jpg"></itunes:image>
+          <googleplay:image href="https://khabardaarpodcast.com/img/episode/ep65mq.jpg"></googleplay:image><enclosure url="http://static.khabardaarpodcast.com/media/khabardaar-20191027-tiff-2019-wrap-up.mp3"  type="audio/mpeg" /><itunes:duration>0:45:47</itunes:duration><itunes:explicit>no</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit></item>
+        <item>
           <title>#64 TIFF 2019 Moothon</title>
-          <link>https://khabardaarpodcast.com/tiff-2019-nivin-pauly-moothon-copy/</link>
+          <link>https://khabardaarpodcast.com/tiff-2019-nivin-pauly-moothon/</link>
           <pubDate>Fri, 18 Oct 2019 00:00:17 -0400 </pubDate>
           <dc:creator></dc:creator>
           <guid>http://static.khabardaarpodcast.com/media/khabardaar-20191018-tiff-2019-nivin-pauly-moothon.mp3</guid>
