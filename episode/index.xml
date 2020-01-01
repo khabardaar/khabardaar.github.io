@@ -14,7 +14,7 @@
     <atom:link href="https://khabardaarpodcast.com/episode/index.xml" rel="self" type="application/rss+xml" />
     <link>https://khabardaarpodcast.com/</link>
     <description>Khabardaar is a weekly Hindi language podcast discussing Bollywood movies. Hosted by lifelong Bollywood fans Aparita Bhandari and Baisakhi Roy, it offers an in-depth look at the Hindi film industry.</description>
-    <lastBuildDate>Sun, 15 Dec 2019 00:00:17 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 29 Dec 2019 00:00:17 -0400</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>hi</language>
@@ -39,6 +39,52 @@
     </image>
     <itunes:category text="TV &amp; Film">
       </itunes:category><generator>Hugo -- gohugo.io</generator>
+        <item>
+          <title>#68 NYE Special</title>
+          <link>https://khabardaarpodcast.com/nye-special/</link>
+          <pubDate>Sun, 29 Dec 2019 00:00:17 -0400 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>http://static.khabardaarpodcast.com/media/khabardaar-20191229-nye-special.mp3</guid>
+          <itunes:author>Khabardaar Podcast</itunes:author>
+          
+          <itunes:episode>68</itunes:episode>
+          
+        <itunes:summary>Episode 68: To ring in the New Year, Aparita and Baisakhi each choose a film they&#39;d want to re-watch on their TV screens.</itunes:summary>
+        <description>Episode 68: To ring in the New Year, Aparita and Baisakhi each choose a film they&#39;d want to re-watch on their TV screens.</description>
+        <googleplay:description>Episode 68: To ring in the New Year, Aparita and Baisakhi each choose a film they&#39;d want to re-watch on their TV screens.</googleplay:description>
+        <content:encoded><![CDATA[<p>Episode 68: To ring in the New Year, Aparita and Baisakhi each choose a film they&rsquo;d want to re-watch on their TV screens.</p>
+
+<p>We start off with Geeton Ka Ghanchakkar, where we choose two very different songs that we occasionally groove to. In Filmi Khabrein, we look forward to Hindi movies coming out in 2020 - including Chhapaak, Panga and Thappad.</p>
+
+<p>For Bollywood Behes, Aparita and Baisakhi take it easy and pick two films they wouldn&rsquo;t mind watching again while staying in for NYE. Aparita chooses <a href="https://www.youtube.com/watch?v=tz9TN7ixPW0">The Zoya Factor</a>, while Baisakhi talks about <a href="https://www.youtube.com/watch?v=tQ0mzXRk-oM">War</a>. It helps that both movies offer up plenty of eye-candy.</p>
+
+<p>Music: Bollywood Blades by Professor Kliq/ Material Breakthrough by Peritune</p>
+]]></content:encoded><itunes:image href="https://khabardaarpodcast.com/img/episode/ep68mq.jpg"></itunes:image>
+          <googleplay:image href="https://khabardaarpodcast.com/img/episode/ep68mq.jpg"></googleplay:image><enclosure url="http://static.khabardaarpodcast.com/media/khabardaar-20191229-nye-special.mp3"  type="audio/mpeg" /><itunes:duration>0:38:15</itunes:duration><itunes:explicit>no</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit></item>
+        <item>
+          <title>#67 Article 15</title>
+          <link>https://khabardaarpodcast.com/article-15/</link>
+          <pubDate>Sun, 22 Dec 2019 00:00:17 -0400 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>http://static.khabardaarpodcast.com/media/khabardaar-20191222-article-15.mp3</guid>
+          <itunes:author>Khabardaar Podcast</itunes:author>
+          
+          <itunes:episode>67</itunes:episode>
+          
+        <itunes:summary>Episode 67: At a time when many Indians and those in the diaspora have taken to the streets to protest against the Citizenship Amendment Act (CAA), we look at Anubhav Sinha&#39;s Article 15.</itunes:summary>
+        <description>Episode 67: At a time when many Indians and those in the diaspora have taken to the streets to protest against the Citizenship Amendment Act (CAA), we look at Anubhav Sinha&#39;s Article 15.</description>
+        <googleplay:description>Episode 67: At a time when many Indians and those in the diaspora have taken to the streets to protest against the Citizenship Amendment Act (CAA), we look at Anubhav Sinha&#39;s Article 15.</googleplay:description>
+        <content:encoded><![CDATA[<p>Episode 67: At a time when many Indians and those in the diaspora have taken to the streets to protest against the Citizenship Amendment Act (CAA), we look at Anubhav Sinha&rsquo;s <a href="https://www.youtube.com/watch?v=HKOJY0cU63E">Article 15</a>.</p>
+
+<p>We start off with Geeton Ka Ghanchakkar, where we remember Bollywood&rsquo;s version of protest songs. In lieu of Filmi Khabrein, Aparita brings you voices from a Toronto protest against the CAA/NRC legislations.</p>
+
+<p>Many people have been talking about the Constitution of India and holding up copies of its preamble at protests and in panel discussions. We take a look at the recent Bollywood movie Article 15, which also draws inspiration from the document that guarantees fundamental rights to Indian citizens and those living in India.</p>
+
+<p>Music: Bollywood Blades by Professor Kliq</p>
+]]></content:encoded><itunes:image href="https://khabardaarpodcast.com/img/episode/ep67mq.jpg"></itunes:image>
+          <googleplay:image href="https://khabardaarpodcast.com/img/episode/ep67mq.jpg"></googleplay:image><enclosure url="http://static.khabardaarpodcast.com/media/khabardaar-20191222-article-15.mp3"  type="audio/mpeg" /><itunes:duration>0:45:14</itunes:duration><itunes:explicit>no</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit></item>
         <item>
           <title>#66 Mausaji&#39;s Musical Memories</title>
           <link>https://khabardaarpodcast.com/mausaji-memories/</link>
