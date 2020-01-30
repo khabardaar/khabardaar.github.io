@@ -14,11 +14,11 @@
     <atom:link href="https://khabardaarpodcast.com/episode/index.xml" rel="self" type="application/rss+xml" />
     <link>https://khabardaarpodcast.com/</link>
     <description>Khabardaar is a weekly Hindi language podcast discussing Bollywood movies. Hosted by lifelong Bollywood fans Aparita Bhandari and Baisakhi Roy, it offers an in-depth look at the Hindi film industry.</description>
-    <lastBuildDate>Sun, 29 Dec 2019 00:00:17 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jan 2020 00:00:17 -0400</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>hi</language>
-    <copyright>Copyright 2019</copyright>
+    <copyright>Copyright 2020</copyright>
     <itunes:subtitle>Your weekly Bollywood fix</itunes:subtitle>
     <itunes:author>Khabardaar Podcast</itunes:author>
     <itunes:type>episodic</itunes:type>
@@ -39,6 +39,49 @@
     </image>
     <itunes:category text="TV &amp; Film">
       </itunes:category><generator>Hugo -- gohugo.io</generator>
+        <item>
+          <title>#70 Chhapaak</title>
+          <link>https://khabardaarpodcast.com/chhapaak-deepika-padukone/</link>
+          <pubDate>Fri, 24 Jan 2020 00:00:17 -0400 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>http://static.khabardaarpodcast.com/media/khabardaar-2020024-chhapaak.mp3</guid>
+          <itunes:author>Khabardaar Podcast</itunes:author>
+          
+          <itunes:episode>70</itunes:episode>
+          
+        <itunes:summary>Episode 70: A look at Chhapaak, Meghna Gulzar&#39;s film inspired by acid attack survivor Laxmi Agarwal and starring Deepika Padukone.</itunes:summary>
+        <description>Episode 70: A look at Chhapaak, Meghna Gulzar&#39;s film inspired by acid attack survivor Laxmi Agarwal and starring Deepika Padukone.</description>
+        <googleplay:description>Episode 70: A look at Chhapaak, Meghna Gulzar&#39;s film inspired by acid attack survivor Laxmi Agarwal and starring Deepika Padukone.</googleplay:description>
+        <content:encoded><![CDATA[<p>Episode 70: A look at <a href="https://www.youtube.com/watch?v=kXVf-KLyybk">Chhapaak</a>, Meghna Gulzar&rsquo;s film inspired by acid attack survivor Laxmi Agarwal and starring Deepika Padukone.</p>
+
+<p>We start off with Geeton Ka Ghanchakkar, where we choose two songs by Gulzar - Meghna&rsquo;s father, celebrated lyricist and erstwhile filmmaker, who also penned the songs for Chhapaak.</p>
+
+<p>For Bollywood Behes, Aparita and Baisakhi talk about their experiences watching Chhapaak. While Aparita appreciated the female solidarity displayed in the film, Baisakhi talked about the ways in which the film reinterprets notions of beauty.</p>
+
+<p>Music: Bollywood Blades by Professor Kliq/ Material Breakthrough by Peritune</p>
+]]></content:encoded><itunes:image href="https://khabardaarpodcast.com/img/episode/ep70mq.jpg"></itunes:image>
+          <googleplay:image href="https://khabardaarpodcast.com/img/episode/ep70mq.jpg"></googleplay:image><enclosure url="http://static.khabardaarpodcast.com/media/khabardaar-2020024-chhapaak.mp3"  type="audio/mpeg" /><itunes:duration>0:41:22</itunes:duration><itunes:explicit>no</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit></item>
+        <item>
+          <title>#69 Occupy Gateway</title>
+          <link>https://khabardaarpodcast.com/occupy-gateway/</link>
+          <pubDate>Sat, 11 Jan 2020 00:00:17 -0400 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>http://static.khabardaarpodcast.com/media/khabardaar-2020011-asmit-pathare.mp3</guid>
+          <itunes:author>Khabardaar Podcast</itunes:author>
+          
+          <itunes:episode>69</itunes:episode>
+          
+        <itunes:summary>Episode 69: Reflections from Occupy Gateway.</itunes:summary>
+        <description>Episode 69: Reflections from Occupy Gateway.</description>
+        <googleplay:description>Episode 69: Reflections from Occupy Gateway.</googleplay:description>
+        <content:encoded><![CDATA[<p>Episode 69: A conversation with independent filmmaker and writer Asmit Pathare about his experiences of Occupy Gateway.</p>
+
+<p>Music: Untold Tales by Markus Huber
+Photo: Deepanjana Pal</p>
+]]></content:encoded><itunes:image href="https://khabardaarpodcast.com/img/episode/ep69mq.jpg"></itunes:image>
+          <googleplay:image href="https://khabardaarpodcast.com/img/episode/ep69mq.jpg"></googleplay:image><enclosure url="http://static.khabardaarpodcast.com/media/khabardaar-2020011-asmit-pathare.mp3"  type="audio/mpeg" /><itunes:duration>0:18:24</itunes:duration><itunes:explicit>no</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit></item>
         <item>
           <title>#68 NYE Special</title>
           <link>https://khabardaarpodcast.com/nye-special/</link>
