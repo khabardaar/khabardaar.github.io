@@ -19,3 +19,4 @@ title = "#69 Occupy Gateway"
 Episode 69: A conversation with independent filmmaker and writer Asmit Pathare about his experiences of Occupy Gateway.
 
 Music: Untold Tales by Markus Huber
+Photo: Deepanjana Pal
