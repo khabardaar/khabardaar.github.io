@@ -16,10 +16,10 @@ tags = []
 title = "#71 Kangana Ranaut"
 +++
 
-Episode 71: A look at Kangana Ranaut, the Bollywood actress who makes news for her antics on and off the screen.
+Episode 71: A look at [Kangana Ranaut](https://www.instagram.com/team_kangana_ranaut/?hl=en), the Bollywood actress who makes news for her antics on and off the screen.
 
 We start off with Geeton Ka Ghanchakkar, where we choose two songs from films featuring Kangana Ranaut -- an old Asha Bhonsle song, and a travesty from Krrish 3.
 
-For Bollywood Behes, Aparita and Baisakhi talk about Kangana's ability to channel emotionally vulnerable characters as well as her role as a controversy queen.
+For Bollywood Behes, Aparita and Baisakhi talk about Kangana's ability to channel [emotionally vulnerable characters](https://www.youtube.com/watch?v=BywLe4m2j2I&) as well as her role as a controversy queen.
 
 Music: Bollywood Blades by Professor Kliq/ Material Breakthrough by Peritune
