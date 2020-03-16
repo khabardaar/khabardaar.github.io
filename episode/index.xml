@@ -14,7 +14,7 @@
     <atom:link href="https://khabardaarpodcast.com/episode/index.xml" rel="self" type="application/rss+xml" />
     <link>https://khabardaarpodcast.com/</link>
     <description>Khabardaar is a weekly Hindi language podcast discussing Bollywood movies. Hosted by lifelong Bollywood fans Aparita Bhandari and Baisakhi Roy, it offers an in-depth look at the Hindi film industry.</description>
-    <lastBuildDate>Fri, 24 Jan 2020 00:00:17 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 4 Mar 2020 00:00:17 -0400</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>hi</language>
@@ -40,11 +40,34 @@
     <itunes:category text="TV &amp; Film">
       </itunes:category><generator>Hugo -- gohugo.io</generator>
         <item>
+          <title>#71 Kangana Ranaut</title>
+          <link>https://khabardaarpodcast.com/kangana-ranaut/</link>
+          <pubDate>Wed, 04 Mar 2020 00:00:17 -0400 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>http://static.khabardaarpodcast.com/media/khabardaar-20200304-kangana-ranautv2.mp3</guid>
+          <itunes:author>Khabardaar Podcast</itunes:author>
+          
+          <itunes:episode>71</itunes:episode>
+          
+        <itunes:summary>Episode 71: A look at Kangana Ranaut, the Bollywood actress who makes news for her antics on and off the screen.</itunes:summary>
+        <description>Episode 71: A look at Kangana Ranaut, the Bollywood actress who makes news for her antics on and off the screen.</description>
+        <googleplay:description>Episode 71: A look at Kangana Ranaut, the Bollywood actress who makes news for her antics on and off the screen.</googleplay:description>
+        <content:encoded><![CDATA[<p>Episode 71: A look at <a href="https://www.instagram.com/team_kangana_ranaut/?hl=en">Kangana Ranaut</a>, the Bollywood actress who makes news for her antics on and off the screen.</p>
+
+<p>We start off with Geeton Ka Ghanchakkar, where we choose two songs from films featuring Kangana Ranaut &ndash; an old Asha Bhonsle song, and a travesty from Krrish 3.</p>
+
+<p>For Bollywood Behes, Aparita and Baisakhi talk about Kangana&rsquo;s ability to channel <a href="https://www.youtube.com/watch?v=BywLe4m2j2I&amp;">emotionally vulnerable characters</a> as well as her role as a controversy queen.</p>
+
+<p>Music: Bollywood Blades by Professor Kliq/ Material Breakthrough by Peritune</p>
+]]></content:encoded><itunes:image href="https://khabardaarpodcast.com/img/episode/ep71mq.jpg"></itunes:image>
+          <googleplay:image href="https://khabardaarpodcast.com/img/episode/ep71mq.jpg"></googleplay:image><enclosure url="http://static.khabardaarpodcast.com/media/khabardaar-20200304-kangana-ranautv2.mp3"  type="audio/mpeg" /><itunes:duration>1:02:48</itunes:duration><itunes:explicit>no</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit></item>
+        <item>
           <title>#70 Chhapaak</title>
           <link>https://khabardaarpodcast.com/chhapaak-deepika-padukone/</link>
           <pubDate>Fri, 24 Jan 2020 00:00:17 -0400 </pubDate>
           <dc:creator></dc:creator>
-          <guid>http://static.khabardaarpodcast.com/media/khabardaar-2020024-chhapaak.mp3</guid>
+          <guid>http://static.khabardaarpodcast.com/media/khabardaar-20200124-chhapaak.mp3</guid>
           <itunes:author>Khabardaar Podcast</itunes:author>
           
           <itunes:episode>70</itunes:episode>
@@ -60,14 +83,14 @@
 
 <p>Music: Bollywood Blades by Professor Kliq/ Material Breakthrough by Peritune</p>
 ]]></content:encoded><itunes:image href="https://khabardaarpodcast.com/img/episode/ep70mq.jpg"></itunes:image>
-          <googleplay:image href="https://khabardaarpodcast.com/img/episode/ep70mq.jpg"></googleplay:image><enclosure url="http://static.khabardaarpodcast.com/media/khabardaar-2020024-chhapaak.mp3"  type="audio/mpeg" /><itunes:duration>0:41:22</itunes:duration><itunes:explicit>no</itunes:explicit>
+          <googleplay:image href="https://khabardaarpodcast.com/img/episode/ep70mq.jpg"></googleplay:image><enclosure url="http://static.khabardaarpodcast.com/media/khabardaar-20200124-chhapaak.mp3"  type="audio/mpeg" /><itunes:duration>0:41:22</itunes:duration><itunes:explicit>no</itunes:explicit>
           <googleplay:explicit>no</googleplay:explicit></item>
         <item>
           <title>#69 Occupy Gateway</title>
           <link>https://khabardaarpodcast.com/occupy-gateway/</link>
           <pubDate>Sat, 11 Jan 2020 00:00:17 -0400 </pubDate>
           <dc:creator></dc:creator>
-          <guid>http://static.khabardaarpodcast.com/media/khabardaar-2020011-asmit-pathare.mp3</guid>
+          <guid>http://static.khabardaarpodcast.com/media/khabardaar-20200111-asmit-pathare.mp3</guid>
           <itunes:author>Khabardaar Podcast</itunes:author>
           
           <itunes:episode>69</itunes:episode>
@@ -80,7 +103,7 @@
 <p>Music: Untold Tales by Markus Huber
 Photo: Deepanjana Pal</p>
 ]]></content:encoded><itunes:image href="https://khabardaarpodcast.com/img/episode/ep69mq.jpg"></itunes:image>
-          <googleplay:image href="https://khabardaarpodcast.com/img/episode/ep69mq.jpg"></googleplay:image><enclosure url="http://static.khabardaarpodcast.com/media/khabardaar-2020011-asmit-pathare.mp3"  type="audio/mpeg" /><itunes:duration>0:18:24</itunes:duration><itunes:explicit>no</itunes:explicit>
+          <googleplay:image href="https://khabardaarpodcast.com/img/episode/ep69mq.jpg"></googleplay:image><enclosure url="http://static.khabardaarpodcast.com/media/khabardaar-20200111-asmit-pathare.mp3"  type="audio/mpeg" /><itunes:duration>0:18:24</itunes:duration><itunes:explicit>no</itunes:explicit>
           <googleplay:explicit>no</googleplay:explicit></item>
         <item>
           <title>#68 NYE Special</title>
