@@ -16,14 +16,15 @@ googleAnalytics = "UA-114529246-1"
 [[Menu.Main]]
     name = "About"
     identifier = "about"
-    url = "about"
+    url = "/about"
 
 [[Menu.Main]]
     name = "Hosts"
     identifier = "hosts"
-    url = "host"
+    url = "/host"
 
 [params]
+mainSections = ["episode"]
 site_theme = "orange"
 # site_layout = "grid"
 site_layout = "grid"
