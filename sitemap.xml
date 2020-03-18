@@ -3,17 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://khabardaarpodcast.com/kangana-ranaut/</loc>
-    <lastmod>2020-03-04T00:00:17-04:00</lastmod>
+    <loc>https://khabardaarpodcast.com/kangana-ranaut-bonus-episode/</loc>
+    <lastmod>2020-03-11T00:00:17-04:00</lastmod>
   </url>
   
   <url>
     <loc>https://khabardaarpodcast.com/episode/</loc>
-    <lastmod>2020-03-04T00:00:17-04:00</lastmod>
+    <lastmod>2020-03-11T00:00:17-04:00</lastmod>
   </url>
   
   <url>
     <loc>https://khabardaarpodcast.com/</loc>
+    <lastmod>2020-03-11T00:00:17-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://khabardaarpodcast.com/kangana-ranaut/</loc>
     <lastmod>2020-03-04T00:00:17-04:00</lastmod>
   </url>
   
@@ -243,11 +248,6 @@
   </url>
   
   <url>
-    <loc>https://khabardaarpodcast.com/soorma-gold-hockey/</loc>
-    <lastmod>2018-08-29T00:00:17-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://khabardaarpodcast.com/karwaan/</loc>
     <lastmod>2018-08-24T00:00:17-04:00</lastmod>
   </url>
@@ -400,6 +400,10 @@
   <url>
     <loc>https://khabardaarpodcast.com/host/</loc>
     <lastmod>2016-09-25T02:11:48-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://khabardaarpodcast.com/soorma-gold-hockey/</loc>
   </url>
   
   <url>
