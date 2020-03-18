@@ -16,6 +16,6 @@ tags = []
 title = "#72 Bonus: Saloni Gaur"
 +++
 
-Episode 72: For this Filmi Funde segment, a chat with [Saloni Gaur](https://twitter.com/salonayyy?lang=en) - a social media star whose riffs on Kangana Ranaut's current affairs hot takes have become viral.
+Episode 72: For this Filmi Funde segment, a chat with [Saloni Gaur](https://twitter.com/salonayyy) - a social media star whose riffs on Kangana Ranaut's current affairs hot takes have become viral.
 
 Check out her interpretation of 'Kangana Runout' reacting to the [Kunal Kamra and Arnab Goswami confrontation](https://www.youtube.com/watch?v=X3XnYI6oHh8).

@@ -1,5 +1,3 @@
-+++
-Description = "Episode 26: A look at hockey as depicted in recent Bollywood films such as Soorma and Gold, which also reminded audiences of the 2007 Shah Rukh Khan starrer Chak De India."
 aliases = ["/26"]
 author = "Aparita"
 categories = []
@@ -17,8 +15,8 @@ title = "#26 Soorma + Gold"
 youtube = ""
 +++
 
-Episode 26: A look at hockey as depicted in recent Bollywood films such as [Soorma](https://www.youtube.com/watch?v=c7MwlTFQBEQ&t=11s) and [Gold](https://www.youtube.com/watch?v=Pcv0aoOlsLM&t=66s), which also reminded audiences of the 2007 Shah Rukh Khan starrer [Chak De India](https://www.youtube.com/watch?v=6a0-dSMWm5g).
+Episode 26: A look at hockey as depicted in recent Bollywood films such as [Soorma](https://www.youtube.com/watch?v=c7MwlTFQBEQ) and [Gold](https://www.youtube.com/watch?v=Pcv0aoOlsLM), which also reminded audiences of the 2007 Shah Rukh Khan starrer [Chak De India](https://www.youtube.com/watch?v=6a0-dSMWm5g).
 
-After remembering some Rahat Fateh Ali Khan tunes in Geeton Ka Ghanchakkar and checking in with Filmi Khabrein, including the trailer for Mani Ratnam's latest work [Chekka Chivantha Vaanam](https://www.youtube.com/watch?v=x2q5w-ThJeE&t=22s), a discussion in Bollywood Behes about Soorma, Gold and Chak De India, and themes such as nationalism in Bollywood sports films and female characters on the sidelines. 
+After remembering some Rahat Fateh Ali Khan tunes in Geeton Ka Ghanchakkar and checking in with Filmi Khabrein, including the trailer for Mani Ratnam's latest work [Chekka Chivantha Vaanam](https://www.youtube.com/watch?v=x2q5w-ThJeE), a discussion in Bollywood Behes about Soorma, Gold and Chak De India, and themes such as nationalism in Bollywood sports films and female characters on the sidelines.
 
 Music: Bollywood Blades by Professor Kliq/ Material Breakthrough by Peritune

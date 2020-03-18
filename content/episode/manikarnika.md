@@ -16,7 +16,7 @@ tags = []
 title = "#40 Manikarnika - The Queen's Last Salute"
 +++
 
-Episode 40: A conversation with author Moupia Basu on her book The Queen's Last Salute, which is partially inspired by the story of Rani Laxmibai. Basu's book covers much of the same ground as Kangana Ranaut's latest film [Manikarnika](https://www.youtube.com/watch?time_continue=3&v=tKmkMVaNu9g).
+Episode 40: A conversation with author Moupia Basu on her book The Queen's Last Salute, which is partially inspired by the story of Rani Laxmibai. Basu's book covers much of the same ground as Kangana Ranaut's latest film [Manikarnika](https://www.youtube.com/watch?v=tKmkMVaNu9g).
 
 The Queen's Last Salute is published by [Juggernaut Books](http://blog.juggernaut.in/queens_last_salute_lakshmibai_moupia_basu/) and available at your local bookstore or [online](https://www.amazon.in/Queens-Last-Salute-Jhansee-mutiny/dp/9353450241).
 

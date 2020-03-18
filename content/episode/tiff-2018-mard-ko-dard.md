@@ -16,7 +16,7 @@ tags = []
 title = "#30 TIFF Mard Ko Dard Nahi Hota"
 +++
 
-Episode 30: Our second TIFF-related episode features a conversation with [Vasan Bala](https://www.instagram.com/vasanbala/) and [Abhimanyu Dassani](https://twitter.com/Abhimannyu_D), the director and star respectively of [Mard Ko Dard Nahi Hota](https://www.youtube.com/watch?v=x7z4PB0jwbo), aka The Man Who Feels No Pain.
+Episode 30: Our second TIFF-related episode features a conversation with [Vasan Bala](https://www.instagram.com/vasanbala) and [Abhimanyu Dassani](https://twitter.com/Abhimannyu_D), the director and star respectively of [Mard Ko Dard Nahi Hota](https://www.youtube.com/watch?v=x7z4PB0jwbo), aka The Man Who Feels No Pain.
 
 After Geeton Ka Ghanchakkar, inspired by Bollywood's take on karate and the festive season, and Filmi Khabrein, where we talk about Rima Das's film Village Rockstars being submitted as India's entry to the Oscars among other news, we feature Vasan's sophomore feature in Bollywood Behes.
 
