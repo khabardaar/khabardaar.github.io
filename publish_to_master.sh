@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 # aws s3 cp TheFile.mp3 s3://static.khabardaarpodcast.com/media/ --acl public-read
 #
