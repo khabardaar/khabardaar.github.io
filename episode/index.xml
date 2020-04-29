@@ -14,7 +14,7 @@
     <atom:link href="https://khabardaarpodcast.com/episode/index.xml" rel="self" type="application/rss+xml" />
     <link>https://khabardaarpodcast.com/</link>
     <description>Khabardaar is a weekly Hindi language podcast discussing Bollywood movies. Hosted by lifelong Bollywood fans Aparita Bhandari and Baisakhi Roy, it offers an in-depth look at the Hindi film industry.</description>
-    <lastBuildDate>Wed, 11 Mar 2020 00:00:17 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 25 Apr 2020 00:00:17 -0400</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>hi</language>
@@ -40,20 +40,62 @@
     <itunes:category text="TV &amp; Film">
       </itunes:category><generator>Hugo -- gohugo.io</generator>
         <item>
-          <title>#72 Bonus: Saloni Gaur</title>
+          <title>#73 Shubh Mangal Zyada Saavdhan</title>
+          <link>https://khabardaarpodcast.com/shubh-mangal-zyada-saavdhan/</link>
+          <pubDate>Sat, 25 Apr 2020 00:00:17 -0400 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>http://static.khabardaarpodcast.com/media/khabardaar-20200425-shubh-mangal-zyaada-savdhan.mp3</guid>
+          <itunes:author>Khabardaar Podcast</itunes:author>
+          
+          <itunes:episode>73</itunes:episode>
+          
+        <itunes:title>#73 Shubh Mangal Zyada Saavdhan</itunes:title>
+        <itunes:summary>Episode 73: A look at Shubh Mangal Zyada Saavdhan, starring Ayushmann Khurrana, Jitendra Kumar, Neena Gupta and Gajraj Rao.</itunes:summary>
+        <description>Episode 73: A look at Shubh Mangal Zyada Saavdhan, starring Ayushmann Khurrana, Jitendra Kumar, Neena Gupta and Gajraj Rao.</description>
+        <googleplay:description>Episode 73: A look at Shubh Mangal Zyada Saavdhan, starring Ayushmann Khurrana, Jitendra Kumar, Neena Gupta and Gajraj Rao.</googleplay:description>
+        <content:encoded><![CDATA[<p>Episode 73: A look at <a href="https://www.youtube.com/watch?v=r6r8UYU7Zcs">Shubh Mangal Zyada Saavdhan</a>, starring Ayushmann Khurrana, Jitendra Kumar, Neena Gupta and Gajrao Rao.</p>
+<p>We start off with Geeton Ka Ghanchakkar, where we pick songs based on the theme of distances &ndash; literal and metaphorical. Filmi Khabrein delves into upcoming releases on streaming services and how some Bollywood stars are reacting to the global pandemic.</p>
+<p>For Bollywood Behes, Aparita and Baisakhi talk about Shubh Mangal Zyada Saavdhan and using the rom-com genre to tell a story about a gay couple seeking acceptance from their family.</p>
+<p>Music: Bollywood Blades by Professor Kliq/ Material Breakthrough by Peritune</p>
+]]></content:encoded><itunes:image href="https://khabardaarpodcast.com/img/episode/ep73mq.jpg"></itunes:image>
+          <googleplay:image href="https://khabardaarpodcast.com/img/episode/ep73mq.jpg"></googleplay:image><enclosure url="http://static.khabardaarpodcast.com/media/khabardaar-20200425-shubh-mangal-zyaada-savdhan.mp3"  type="audio/mpeg" /><itunes:duration>0:53:48</itunes:duration><itunes:explicit>no</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit></item>
+        <item>
+          <title>#72 R. D. Burman</title>
+          <link>https://khabardaarpodcast.com/rd-burman/</link>
+          <pubDate>Fri, 17 Apr 2020 00:00:17 -0400 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>http://static.khabardaarpodcast.com/media/khabardaar-20200417-rd-burman.mp3</guid>
+          <itunes:author>Khabardaar Podcast</itunes:author>
+          
+          <itunes:episode>72</itunes:episode>
+          
+        <itunes:title>#72 R. D. Burman</itunes:title>
+        <itunes:summary>Episode 72: A look at the music of Bollywood composer R. D. Burman with Ed Hanley, co-artistic director of Toronto band Autorickshaw.</itunes:summary>
+        <description>Episode 72: A look at the music of Bollywood composer R. D. Burman with Ed Hanley, co-artistic director of Toronto band Autorickshaw.</description>
+        <googleplay:description>Episode 72: A look at the music of Bollywood composer R. D. Burman with Ed Hanley, co-artistic director of Toronto band Autorickshaw.</googleplay:description>
+        <content:encoded><![CDATA[<p>Episode 72: A look at the music of R. D. Burman, with <a href="https://www.instagram.com/edhanley27">Ed Hanley</a>, co-artistic director of Toronto band <a href="https://autorickshaw.bandcamp.com/track/aaj-ki-raat">Autorickshaw</a>.</p>
+<p>Burman was one of the most popular Bollywood music composers of the 70&rsquo;s and 80&rsquo;s. His music is popular to this today. In many ways, he was way ahead of his time.</p>
+<p>Hanley and his bandmates reprised an R. D. Burman song called &ldquo;Aaj Ki Raat,&rdquo; from the 1973 film <a href="https://www.youtube.com/watch?v=atMDKFuWdOo">Anamika </a>, as part of their 2007 album <a href="https://autorickshaw.bandcamp.com/album/so-the-journey-goes">So The Journey Goes</a>. This conversation looks at that song and Burman&rsquo;s musical legacy.</p>
+<p>Music: Bollywood Blades by Professor Kliq/ Autorickshaw</p>
+]]></content:encoded><itunes:image href="https://khabardaarpodcast.com/img/episode/ep72vmq.jpg"></itunes:image>
+          <googleplay:image href="https://khabardaarpodcast.com/img/episode/ep72vmq.jpg"></googleplay:image><enclosure url="http://static.khabardaarpodcast.com/media/khabardaar-20200417-rd-burman.mp3"  type="audio/mpeg" /><itunes:duration>0:32:54</itunes:duration><itunes:explicit>no</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit></item>
+        <item>
+          <title>#71 Bonus: Saloni Gaur</title>
           <link>https://khabardaarpodcast.com/kangana-ranaut-bonus-episode/</link>
           <pubDate>Wed, 11 Mar 2020 00:00:17 -0400 </pubDate>
           <dc:creator></dc:creator>
           <guid>http://static.khabardaarpodcast.com/media/khabardaar-20200304-kangana-ranautv3.mp3</guid>
           <itunes:author>Khabardaar Podcast</itunes:author>
           
-          <itunes:episode>72</itunes:episode>
+          <itunes:episode>71 B</itunes:episode>
           
-        <itunes:title>#72 Bonus: Saloni Gaur</itunes:title>
-        <itunes:summary>Episode 72: For this Filmi Funde segment, a chat with Saloni Gaur - a social media star whose riffs on Kangana Ranaut&#39;s current affairs hot takes have become viral.</itunes:summary>
-        <description>Episode 72: For this Filmi Funde segment, a chat with Saloni Gaur - a social media star whose riffs on Kangana Ranaut&#39;s current affairs hot takes have become viral.</description>
-        <googleplay:description>Episode 72: For this Filmi Funde segment, a chat with Saloni Gaur - a social media star whose riffs on Kangana Ranaut&#39;s current affairs hot takes have become viral.</googleplay:description>
-        <content:encoded><![CDATA[<p>Episode 72: For this Filmi Funde segment, a chat with <a href="https://twitter.com/salonayyy">Saloni Gaur</a> - a social media star whose riffs on Kangana Ranaut&rsquo;s current affairs hot takes have become viral.</p>
+        <itunes:title>#71 Bonus: Saloni Gaur</itunes:title>
+        <itunes:summary>Episode 71 (Bonus): For this Filmi Funde segment, a chat with Saloni Gaur - a social media star whose riffs on Kangana Ranaut&#39;s current affairs hot takes have become viral.</itunes:summary>
+        <description>Episode 71 (Bonus): For this Filmi Funde segment, a chat with Saloni Gaur - a social media star whose riffs on Kangana Ranaut&#39;s current affairs hot takes have become viral.</description>
+        <googleplay:description>Episode 71 (Bonus): For this Filmi Funde segment, a chat with Saloni Gaur - a social media star whose riffs on Kangana Ranaut&#39;s current affairs hot takes have become viral.</googleplay:description>
+        <content:encoded><![CDATA[<p>Episode 71 Bonus (Bonus): For this Filmi Funde segment, a chat with <a href="https://twitter.com/salonayyy">Saloni Gaur</a> - a social media star whose riffs on Kangana Ranaut&rsquo;s current affairs hot takes have become viral.</p>
 <p>Check out her interpretation of &lsquo;Kangana Runout&rsquo; reacting to the <a href="https://www.youtube.com/watch?v=X3XnYI6oHh8">Kunal Kamra and Arnab Goswami confrontation</a>.</p>
 ]]></content:encoded><itunes:image href="https://khabardaarpodcast.com/img/episode/ep72mq.jpg"></itunes:image>
           <googleplay:image href="https://khabardaarpodcast.com/img/episode/ep72mq.jpg"></googleplay:image><enclosure url="http://static.khabardaarpodcast.com/media/khabardaar-20200304-kangana-ranautv3.mp3"  type="audio/mpeg" /><itunes:duration>0:09:40</itunes:duration><itunes:explicit>no</itunes:explicit>
