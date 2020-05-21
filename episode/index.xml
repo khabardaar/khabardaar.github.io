@@ -14,7 +14,7 @@
     <atom:link href="https://khabardaarpodcast.com/episode/index.xml" rel="self" type="application/rss+xml" />
     <link>https://khabardaarpodcast.com/</link>
     <description>Khabardaar is a weekly Hindi language podcast discussing Bollywood movies. Hosted by lifelong Bollywood fans Aparita Bhandari and Baisakhi Roy, it offers an in-depth look at the Hindi film industry.</description>
-    <lastBuildDate>Sat, 25 Apr 2020 00:00:17 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 9 May 2020 00:00:17 -0400</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>hi</language>
@@ -39,6 +39,44 @@
     </image>
     <itunes:category text="TV &amp; Film">
       </itunes:category><generator>Hugo -- gohugo.io</generator>
+        <item>
+          <title>#75 in Memoriam</title>
+          <link>https://khabardaarpodcast.com/irrfan-rishi-obits/</link>
+          <pubDate>Sat, 09 May 2020 00:00:17 -0400 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>http://static.khabardaarpodcast.com/media/khabardaar-20200509-irrfan-rishi-obits.mp3</guid>
+          <itunes:author>Khabardaar Podcast</itunes:author>
+          
+          <itunes:episode>75</itunes:episode>
+          
+        <itunes:title>#75 in Memoriam</itunes:title>
+        <itunes:summary>Episode 75: Remembering Irrfan Khan and Rishi Kapoor.</itunes:summary>
+        <description>Episode 75: Remembering Irrfan Khan and Rishi Kapoor.</description>
+        <googleplay:description>Episode 75: Remembering Irrfan Khan and Rishi Kapoor.</googleplay:description>
+        <content:encoded><![CDATA[<p>Episode 75: Remembering Irrfan Khan and Rishi Kapoor. Although the two actors had very different career paths in the Hindi film industry, they shared a desire to expand their acting repertoire.</p>
+<p>Music: Bollywood Blades by Professor Kliq/ Material Breakthrough by Peritune</p>
+]]></content:encoded><itunes:image href="https://khabardaarpodcast.com/img/episode/ep75mq.jpg"></itunes:image>
+          <googleplay:image href="https://khabardaarpodcast.com/img/episode/ep75mq.jpg"></googleplay:image><enclosure url="http://static.khabardaarpodcast.com/media/khabardaar-20200509-irrfan-rishi-obits.mp3"  type="audio/mpeg" /><itunes:duration>0:49:36</itunes:duration><itunes:explicit>no</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit></item>
+        <item>
+          <title>#74 Irrfan Khan</title>
+          <link>https://khabardaarpodcast.com/irrfan-khan/</link>
+          <pubDate>Sat, 02 May 2020 00:00:17 -0400 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>http://static.khabardaarpodcast.com/media/khabardaar-20200502-irrfan-khan.mp3</guid>
+          <itunes:author>Khabardaar Podcast</itunes:author>
+          
+          <itunes:episode>74</itunes:episode>
+          
+        <itunes:title>#74 Irrfan Khan</itunes:title>
+        <itunes:summary>Episode 74: A tribute to Irrfan Khan.</itunes:summary>
+        <description>Episode 74: A tribute to Irrfan Khan.</description>
+        <googleplay:description>Episode 74: A tribute to Irrfan Khan.</googleplay:description>
+        <content:encoded><![CDATA[<p>Episode 74: A tribute to Irrfan Khan, celebrated actor who made a mark in both Hindi and international cinema. Khan had been diagnosed with a rare neuroendocrine tumor.</p>
+<p>Music: Bollywood Blades by Professor Kliq/ Material Breakthrough by Peritune</p>
+]]></content:encoded><itunes:image href="https://khabardaarpodcast.com/img/episode/ep74mq.jpg"></itunes:image>
+          <googleplay:image href="https://khabardaarpodcast.com/img/episode/ep74mq.jpg"></googleplay:image><enclosure url="http://static.khabardaarpodcast.com/media/khabardaar-20200502-irrfan-khan.mp3"  type="audio/mpeg" /><itunes:duration>0:27:44</itunes:duration><itunes:explicit>no</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit></item>
         <item>
           <title>#73 Shubh Mangal Zyada Saavdhan</title>
           <link>https://khabardaarpodcast.com/shubh-mangal-zyada-saavdhan/</link>
