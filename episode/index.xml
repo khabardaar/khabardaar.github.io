@@ -14,7 +14,7 @@
     <atom:link href="https://khabardaarpodcast.com/episode/index.xml" rel="self" type="application/rss+xml" />
     <link>https://khabardaarpodcast.com/</link>
     <description>Khabardaar is a weekly Hindi language podcast discussing Bollywood movies. Hosted by lifelong Bollywood fans Aparita Bhandari and Baisakhi Roy, it offers an in-depth look at the Hindi film industry.</description>
-    <lastBuildDate>Sat, 9 May 2020 00:00:17 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2020 00:00:17 -0400</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>hi</language>
@@ -39,6 +39,26 @@
     </image>
     <itunes:category text="TV &amp; Film">
       </itunes:category><generator>Hugo -- gohugo.io</generator>
+        <item>
+          <title>#76 Never Have I Ever</title>
+          <link>https://khabardaarpodcast.com/mindy-kaling-netflix-never-have-i-ever/</link>
+          <pubDate>Sun, 14 Jun 2020 00:00:17 -0400 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>http://static.khabardaarpodcast.com/media/khabardaar-20200614-mindy-kaling-netflix-show.mp3</guid>
+          <itunes:author>Khabardaar Podcast</itunes:author>
+          
+          <itunes:episode>76</itunes:episode>
+          
+        <itunes:title>#76 Never Have I Ever</itunes:title>
+        <itunes:summary>Episode 76: A look at Mindy Kaling&#39;s Netflix show Never Have I Ever.</itunes:summary>
+        <description>Episode 76: A look at Mindy Kaling&#39;s Netflix show Never Have I Ever.</description>
+        <googleplay:description>Episode 76: A look at Mindy Kaling&#39;s Netflix show Never Have I Ever.</googleplay:description>
+        <content:encoded><![CDATA[<p>Episode 76: A look at Mindy Kaling&rsquo;s Netflix show <a href="https://www.youtube.com/watch?v=HyOCCCbxwMQ">Never Have I Ever</a>, starring Maitreyi Ramakrishnan.</p>
+<p>The show centres around Devi Vishwakumar (Ramaksrishnan), an Indian American teenager growing up in well-heeled California suburb. After a traumatic incident has made her a social pariah, Devi comes back to class with a mission &ndash; to recast herself and her two besties Eleanor Wong (Ramona Young) and Fabiola Torres (Lee Rodriguez) from geek to chic, and get with the high school hottie Paxton Hall-Yoshida (Darren Bennet).</p>
+<p>Music: Bollywood Blades by Professor Kliq/ Material Breakthrough by Peritune</p>
+]]></content:encoded><itunes:image href="https://khabardaarpodcast.com/img/episode/ep76mq.jpg"></itunes:image>
+          <googleplay:image href="https://khabardaarpodcast.com/img/episode/ep76mq.jpg"></googleplay:image><enclosure url="http://static.khabardaarpodcast.com/media/khabardaar-20200614-mindy-kaling-netflix-show.mp3"  type="audio/mpeg" /><itunes:duration>1:04:21</itunes:duration><itunes:explicit>no</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit></item>
         <item>
           <title>#75 in Memoriam</title>
           <link>https://khabardaarpodcast.com/irrfan-rishi-obits/</link>
