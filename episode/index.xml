@@ -14,7 +14,7 @@
     <atom:link href="https://khabardaarpodcast.com/episode/index.xml" rel="self" type="application/rss+xml" />
     <link>https://khabardaarpodcast.com/</link>
     <description>Khabardaar is a weekly Hindi language podcast discussing Bollywood movies. Hosted by lifelong Bollywood fans Aparita Bhandari and Baisakhi Roy, it offers an in-depth look at the Hindi film industry.</description>
-    <lastBuildDate>Wed, 15 Jul 2020 00:00:17 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2020 00:00:17 -0400</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>hi</language>
@@ -39,6 +39,27 @@
     </image>
     <itunes:category text="TV &amp; Film">
       </itunes:category><generator>Hugo -- gohugo.io</generator>
+        <item>
+          <title>#79 Bulbbul</title>
+          <link>https://khabardaarpodcast.com/netflix-bulbbul/</link>
+          <pubDate>Wed, 29 Jul 2020 00:00:17 -0400 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>http://static.khabardaarpodcast.com/media/khabardaar-20200729-netflix-bulbbul.mp3</guid>
+          <itunes:author>Khabardaar Podcast</itunes:author>
+          
+          <itunes:episode>79</itunes:episode>
+          
+        <itunes:title>#79 Bulbbul</itunes:title>
+        <itunes:summary>Episode 79: A look at the Netflix Original film Bulbbul.</itunes:summary>
+        <description>Episode 79: A look at the Netflix Original film Bulbbul.</description>
+        <googleplay:description>Episode 79: A look at the Netflix Original film Bulbbul.</googleplay:description>
+        <content:encoded><![CDATA[<p>Episode 79: A look at the Netflix Original film <a href="https://www.youtube.com/watch?v=4MGReT9-cAg">Bulbbul</a>.</p>
+<p>We start off with Geeton Ka Ghanchakkar and Filmi Khabrein.</p>
+<p>Then in Bollywood Behes, we look at how Bulbbul takes on patriarchy through the metaphor of a &ldquo;churail&rdquo; and other difficult/nasty women.</p>
+<p>Music: Bollywood Blades by Professor Kliq/ Material Breakthrough by Peritune</p>
+]]></content:encoded><itunes:image href="https://khabardaarpodcast.com/img/episode/ep79mq.jpg"></itunes:image>
+          <googleplay:image href="https://khabardaarpodcast.com/img/episode/ep79mq.jpg"></googleplay:image><enclosure url="http://static.khabardaarpodcast.com/media/khabardaar-20200729-netflix-bulbbul.mp3"  type="audio/mpeg" /><itunes:duration>1:08:11</itunes:duration><itunes:explicit>no</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit></item>
         <item>
           <title>#78 Gulabo Sitabo</title>
           <link>https://khabardaarpodcast.com/gulabo-sitabo/</link>
