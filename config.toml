@@ -33,7 +33,7 @@ enable_jumbo = "true"
 # truncate = "100"
 about_logo = "/img/kplogowebsite.png"
 copyright_notice = "Copyright &copy; 2020"
-itunes_subscribe = "https://itunes.apple.com/podcast/khabardaar-podcast/id1351517692"
+itunes_subscribe = "https://podcasts.apple.com/podcast/khabardaar-podcast/id1351517692"
 #android_subscribe = "http://subscribeonandroid.com/feeds.podtrac.com/VGAulpN7MY1U"
 spotify_subscribe = "https://open.spotify.com/show/7mNxAHfplIroECy2w2SO3Z"
 google_play_subscribe = "https://play.google.com/music/m/I2lwp2i7vthox4ztdw2zky6jyiy?t=Khabardaar_Podcast"
@@ -50,12 +50,17 @@ media_prefix = "http://static.khabardaarpodcast.com/media/"
     itunes_author = "Khabardaar Podcast" #no markdown or HTML
     itunes_summary = "Khabardaar is a weekly Hindi language podcast discussing Bollywood movies. Hosted by lifelong Bollywood fans Aparita Bhandari and Baisakhi Roy, it offers an in-depth look at the Hindi film industry." # Limited to 4000 characters or less, plain text, no HTML
     itunes_owner_name = "Khabardaar Podcast"
-    itunes_owner_email = "writeme@aparita.com" #contains the e-mail address that will be used to contact the owner of the Podcast for communication specifically about their Podcast on iTunes. It will not be publicly displayed on iTunes.
+    itunes_owner_email = "writeme@aparita.com" #contains the e-mail address that will be used to contact the owner of the Podcast for communication specifically about their Podcast on Apple Podcasts. It will not be publicly displayed on Apple Podcasts.
     itunes_image = "https://khabardaarpodcast.com/img/kplogoitunes.png" #fqdn to the image art for your podcast
     itunes_top_category = "TV & Film"
     itunes_first_sub_category = ""
     itunes_second_sub_category = ""
     language = "hi"
+
+  [params.realfavicongenerator] # https://realfavicongenerator.net/
+    mask_icon_color="#5bbad5"
+    msapplication_tilecolor="#2b5797"
+    theme_color="#ffffff"
 
   [params.social]
     #github = "khabardaarpodcast"
