@@ -1,19 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://khabardaarpodcast.com/bollywood-female-desire/</loc>
-    <lastmod>2020-08-17T00:00:17-04:00</lastmod>
+    <loc>https://khabardaarpodcast.com/catch-up-session/</loc>
+    <lastmod>2020-11-25T00:00:17-04:00</lastmod>
   </url>
   
   <url>
     <loc>https://khabardaarpodcast.com/episode/</loc>
-    <lastmod>2020-08-17T00:00:17-04:00</lastmod>
+    <lastmod>2020-11-25T00:00:17-04:00</lastmod>
   </url>
   
   <url>
     <loc>https://khabardaarpodcast.com/</loc>
+    <lastmod>2020-11-25T00:00:17-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://khabardaarpodcast.com/bollywood-female-desire/</loc>
     <lastmod>2020-08-17T00:00:17-04:00</lastmod>
   </url>
   
@@ -449,7 +454,6 @@
   
   <url>
     <loc>https://khabardaarpodcast.com/soorma-gold-hockey/</loc>
-    <priority>0</priority>
   </url>
   
   <url>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Khabardaar Podcast</title>
@@ -6,10 +6,16 @@
     <description>Recent content on Khabardaar Podcast</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 17 Aug 2020 00:00:17 -0400</lastBuildDate>
-    
-	<atom:link href="https://khabardaarpodcast.com/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Wed, 25 Nov 2020 00:00:17 -0400</lastBuildDate><atom:link href="https://khabardaarpodcast.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>#81 Catch Up Session</title>
+      <link>https://khabardaarpodcast.com/catch-up-session/</link>
+      <pubDate>Wed, 25 Nov 2020 00:00:17 -0400</pubDate>
+      
+      <guid>https://khabardaarpodcast.com/catch-up-session/</guid>
+      <description>Episode 81: And we&amp;rsquo;re back! It&amp;rsquo;s been a few months since Aparita and Baisakhi spoke to each other about Bollywood films. Physical distancing during the time of a global pandemic and other distractions kept us away from our usual Hindi film gupshup. But we&amp;rsquo;re back, with a slightly different version of the podcast.
+In this episode, we catch up on films and shows we watched during the time of COVID-19.</description>
+    </item>
     
     <item>
       <title>#80 Female Desire in Bollywood</title>
@@ -551,7 +557,7 @@ Music: Bollywood Blades by Professor Kliq</description>
       
       <guid>https://khabardaarpodcast.com/tiff-2018-manto/</guid>
       <description>Episode 31: A conversation with Nandita Das, who brought her second feature film Manto to TIFF 2018.
-After Geeton Ka Ghanchakkar and Filmi Khabrein, we also talk to Urdu-Hindi writer Faiyaz Ahmad Wajeeh as part of Bollywood Behes about his take on Das&amp;rsquo; bio-pic Manto. Well-versed with Manto&amp;rsquo;s prolific writings, Wajeeh was disappointed with what he saw as the film&amp;rsquo;s mischaracterization of the celebrated Urdu writer Manto. If you want to know more about Manto, says Wajeeh, just read his many stories and essays.</description>
+After Geeton Ka Ghanchakkar and Filmi Khabrein, we also talk to Urdu-Hindi writer Faiyaz Ahmad Wajeeh as part of Bollywood Behes about his take on Das&#39; bio-pic Manto. Well-versed with Manto&amp;rsquo;s prolific writings, Wajeeh was disappointed with what he saw as the film&amp;rsquo;s mischaracterization of the celebrated Urdu writer Manto. If you want to know more about Manto, says Wajeeh, just read his many stories and essays.</description>
     </item>
     
     <item>
@@ -641,7 +647,7 @@ Sacred Games is adapted from Vikram Chandra&amp;rsquo;s 2006 novel, a 900-page t
       
       <guid>https://khabardaarpodcast.com/neeraj/</guid>
       <description>Episode 21: In this special episode, a conversation with documentary filmmaker, writer and critic Paromita Vohra on the Hindi film songs legacy of renowned poet Gopal Das Neeraj. Often simply referred to as Neeraj, he died on 19 July 2018. He was 93.
-Using the songs Neeraj wrote for the Navketan Films&amp;rsquo; production Prem Pujari, Paromita tells us what made Neeraj&amp;rsquo;s songs stand apart from his contemporaries.
+Using the songs Neeraj wrote for the Navketan Films&#39; production Prem Pujari, Paromita tells us what made Neeraj&amp;rsquo;s songs stand apart from his contemporaries.
 Music: Prem Pujari (OST)</description>
     </item>
     
@@ -888,7 +894,7 @@ Music: Bollywood Blades by Professor Kliq/ Material Breakthrough by Peritune</de
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://khabardaarpodcast.com/soorma-gold-hockey/</guid>
-      <description>aliases = [&amp;ldquo;/26&amp;rdquo;] author = &amp;ldquo;Aparita&amp;rdquo; categories = [] date = &amp;ldquo;2018-08-29T00:00:17-04:00&amp;rdquo; episode = &amp;ldquo;26&amp;rdquo; episode_image = &amp;ldquo;img/episode/ep26mq.jpg&amp;rdquo; explicit = &amp;ldquo;no&amp;rdquo; images = [&amp;ldquo;img/episode/ep26mq.jpg&amp;rdquo;] news_keywords = [] podcast_duration = &amp;ldquo;0:54:27&amp;rdquo; podcast_file = &amp;ldquo;khabardaar-20180829-soorma-gold.mp3&amp;rdquo; podcast_bytes = &amp;ldquo;&amp;rdquo; tags = [] title = &amp;ldquo;#26 Soorma + Gold&amp;rdquo; youtube = &amp;ldquo;&amp;rdquo; +++
+      <description>aliases = [&amp;quot;/26&amp;quot;] author = &amp;ldquo;Aparita&amp;rdquo; categories = [] date = &amp;ldquo;2018-08-29T00:00:17-04:00&amp;rdquo; episode = &amp;ldquo;26&amp;rdquo; episode_image = &amp;ldquo;img/episode/ep26mq.jpg&amp;rdquo; explicit = &amp;ldquo;no&amp;rdquo; images = [&amp;ldquo;img/episode/ep26mq.jpg&amp;rdquo;] news_keywords = [] podcast_duration = &amp;ldquo;0:54:27&amp;rdquo; podcast_file = &amp;ldquo;khabardaar-20180829-soorma-gold.mp3&amp;rdquo; podcast_bytes = &amp;quot;&amp;quot; tags = [] title = &amp;ldquo;#26 Soorma + Gold&amp;rdquo; youtube = &amp;quot;&amp;quot; +++
 Episode 26: A look at hockey as depicted in recent Bollywood films such as Soorma and Gold, which also reminded audiences of the 2007 Shah Rukh Khan starrer Chak De India.</description>
     </item>
     
