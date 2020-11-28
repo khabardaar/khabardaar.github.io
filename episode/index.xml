@@ -13,19 +13,19 @@
     <title>Khabardaar Podcast</title>
     <atom:link href="https://khabardaarpodcast.com/episode/index.xml" rel="self" type="application/rss+xml" />
     <link>https://khabardaarpodcast.com/</link>
-    <description>Khabardaar is a weekly Hindi language podcast discussing Bollywood movies. Hosted by lifelong Bollywood fans Aparita Bhandari and Baisakhi Roy, it offers an in-depth look at the Hindi film industry.</description>
+    <description>Khabardaar is a Hindi language podcast discussing Bollywood movies. Hosted by lifelong Bollywood fans Aparita Bhandari and Baisakhi Roy, it offers an in-depth look at the Hindi film industry.</description>
     <lastBuildDate>Wed, 25 Nov 2020 00:00:17 -0400</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>hi</language>
     <copyright>Copyright 2020</copyright>
-    <itunes:subtitle>Your weekly Bollywood fix</itunes:subtitle>
+    <itunes:subtitle>Your Bollywood fix</itunes:subtitle>
     <itunes:author>Khabardaar Podcast</itunes:author>
     <itunes:type>episodic</itunes:type>
     <googleplay:author>Khabardaar Podcast</googleplay:author>
     <googleplay:email>writeme@aparita.com</googleplay:email>
-    <itunes:summary>Khabardaar is a weekly Hindi language podcast discussing Bollywood movies. Hosted by lifelong Bollywood fans Aparita Bhandari and Baisakhi Roy, it offers an in-depth look at the Hindi film industry.</itunes:summary>
-    <googleplay:description>Khabardaar is a weekly Hindi language podcast discussing Bollywood movies. Hosted by lifelong Bollywood fans Aparita Bhandari and Baisakhi Roy, it offers an in-depth look at the Hindi film industry.</googleplay:description>
+    <itunes:summary>Khabardaar is a Hindi language podcast discussing Bollywood movies. Hosted by lifelong Bollywood fans Aparita Bhandari and Baisakhi Roy, it offers an in-depth look at the Hindi film industry.</itunes:summary>
+    <googleplay:description>Khabardaar is a Hindi language podcast discussing Bollywood movies. Hosted by lifelong Bollywood fans Aparita Bhandari and Baisakhi Roy, it offers an in-depth look at the Hindi film industry.</googleplay:description>
     <itunes:owner>
       <itunes:name>Khabardaar Podcast</itunes:name>
       <itunes:email>writeme@aparita.com</itunes:email>
