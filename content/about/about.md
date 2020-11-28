@@ -5,5 +5,5 @@ title = "about"
 
 +++
 
-Khabardaar Podcast is a Hindi language show presented by Aparita Bhandari and Baisakhi Roy, two Toronto-based arts/life journalists. Lifelong Bollywood fans, Aparita and Baisakhi talk about what’s going on in the Hindi film industry, and discuss themes explored to Bollywood films. Subscribe for your weekly fix!
+Khabardaar Podcast is a Hindi language show presented by Aparita Bhandari and Baisakhi Roy, two Toronto-based arts/life journalists. Lifelong Bollywood fans, Aparita and Baisakhi talk about what’s going on in the Hindi film industry, and discuss themes explored to Bollywood films. Subscribe for your fix!
 
