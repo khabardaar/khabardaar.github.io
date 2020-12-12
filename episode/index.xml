@@ -14,7 +14,7 @@
     <atom:link href="https://khabardaarpodcast.com/episode/index.xml" rel="self" type="application/rss+xml" />
     <link>https://khabardaarpodcast.com/</link>
     <description>Khabardaar is a Hindi language podcast discussing Bollywood movies. Hosted by lifelong Bollywood fans Aparita Bhandari and Baisakhi Roy, it offers an in-depth look at the Hindi film industry.</description>
-    <lastBuildDate>Wed, 25 Nov 2020 00:00:17 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 9 Dec 2020 00:00:17 -0400</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>hi</language>
@@ -39,6 +39,31 @@
     </image>
     <itunes:category text="TV &amp; Film">
       </itunes:category><generator>Hugo -- gohugo.io</generator>
+        <item>
+          <title>#82 Rangeela Re</title>
+          <link>https://khabardaarpodcast.com/rangeela-re/</link>
+          <pubDate>Wed, 09 Dec 2020 00:00:17 -0400 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>http://static.khabardaarpodcast.com/media/khabardaar-20201209-rangeela-re.mp3</guid>
+          <itunes:author>Khabardaar Podcast</itunes:author>
+          
+          <itunes:episode>82</itunes:episode>
+          
+        <itunes:title>#82 Rangeela Re</itunes:title>
+        <itunes:subtitle><![CDATA[
+        
+        Episode 82: A conversation with Vandana Vishwas and Vishwas Thoke on the famous SD Burman and Gopaldas Neeraj song Rangeela Re.
+        
+        ]]></itunes:subtitle>
+        <itunes:summary>Episode 82: A conversation with Vandana Vishwas and Vishwas Thoke on the famous SD Burman and Gopaldas Neeraj song Rangeela Re.</itunes:summary>
+        <description>Episode 82: A conversation with Vandana Vishwas and Vishwas Thoke on the famous SD Burman and Gopaldas Neeraj song Rangeela Re.</description>
+        <googleplay:description>Episode 82: A conversation with Vandana Vishwas and Vishwas Thoke on the famous SD Burman and Gopaldas Neeraj song Rangeela Re.</googleplay:description>
+        <content:encoded><![CDATA[<p>Episode 82: A conversation with <a href="https://www.vandanavishwas.com/">Vandana Vishwas</a> and Vishwas Thoke &ndash; a Toronto-based musical duo &ndash; on the famous SD Burman and Gopaldas Neeraj song <a href="https://www.youtube.com/watch?v=GzJCS7IiyJc">Rangeela Re</a>.</p>
+<p>Rangeela Re is the first composition by Hindi poet Gopaldas Neeraj. He was commissioned as a lyricist by Dev Anand, who wrote, produced and directed <a href="https://www.youtube.com/watch?v=nZflRqxKRP8">Prem Pujari</a> (1970).</p>
+<p>Music: Bollywood Blades by Professor Kliq</p>
+]]></content:encoded><itunes:image href="https://khabardaarpodcast.com/img/episode/ep82mq.jpg"></itunes:image>
+          <googleplay:image href="https://khabardaarpodcast.com/img/episode/ep82mq.jpg"></googleplay:image><enclosure url="http://static.khabardaarpodcast.com/media/khabardaar-20201209-rangeela-re.mp3"  type="audio/mpeg" /><itunes:duration>0:33:36</itunes:duration><itunes:explicit>no</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit></item>
         <item>
           <title>#81 Catch Up Session</title>
           <link>https://khabardaarpodcast.com/catch-up-session/</link>
