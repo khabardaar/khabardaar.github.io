@@ -14,7 +14,7 @@
     <atom:link href="https://khabardaarpodcast.com/episode/index.xml" rel="self" type="application/rss+xml" />
     <link>https://khabardaarpodcast.com/</link>
     <description>Khabardaar is a Hindi language podcast discussing Bollywood movies. Hosted by lifelong Bollywood fans Aparita Bhandari and Baisakhi Roy, it offers an in-depth look at the Hindi film industry.</description>
-    <lastBuildDate>Wed, 23 Dec 2020 00:00:17 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 6 Jan 2021 00:00:17 -0400</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>hi</language>
@@ -40,6 +40,30 @@
     <itunes:category text="TV &amp; Film">
       </itunes:category><generator>Hugo -- gohugo.io</generator>
         <item>
+          <title>#84 AK vs AK</title>
+          <link>https://khabardaarpodcast.com/ak-vs-ak/</link>
+          <pubDate>Wed, 06 Jan 2021 00:00:17 -0400 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>http://static.khabardaarpodcast.com/media/khabardaar-20210206-ak-vs-ak.mp3</guid>
+          <itunes:author>Khabardaar Podcast</itunes:author>
+          
+          <itunes:episode>84</itunes:episode>
+          
+        <itunes:title>#84 AK vs AK</itunes:title>
+        <itunes:subtitle><![CDATA[
+        
+        Episode 84: A look at AK vs AK - starring Anil Kapoor and Anurag Kashyap.
+        
+        ]]></itunes:subtitle>
+        <itunes:summary>Episode 84: A look at AK vs AK - starring Anil Kapoor and Anurag Kashyap.</itunes:summary>
+        <description>Episode 84: A look at AK vs AK - starring Anil Kapoor and Anurag Kashyap.</description>
+        <googleplay:description>Episode 84: A look at AK vs AK - starring Anil Kapoor and Anurag Kashyap.</googleplay:description>
+        <content:encoded><![CDATA[<p>Episode 84: A look at AK vs AK - starring Anil Kapoor and Anurag Kashyap, and directed by Vikramaditya Motwane.</p>
+<p>Music: Bollywood Blades by Professor Kliq</p>
+]]></content:encoded><itunes:image href="https://khabardaarpodcast.com/img/episode/ep84mq.jpg"></itunes:image>
+          <googleplay:image href="https://khabardaarpodcast.com/img/episode/ep84mq.jpg"></googleplay:image><enclosure url="http://static.khabardaarpodcast.com/media/khabardaar-20210206-ak-vs-ak.mp3" length="32449096" type="audio/mpeg" /><itunes:duration>0:33:48</itunes:duration><itunes:explicit>no</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit></item>
+        <item>
           <title>#83 Abhay Deol</title>
           <link>https://khabardaarpodcast.com/abhay-deol/</link>
           <pubDate>Wed, 23 Dec 2020 00:00:17 -0400 </pubDate>
@@ -61,7 +85,7 @@
         <content:encoded><![CDATA[<p>Episode 83: A look at the films of Abhay Deol &ndash; Oye Lucky! Lucky Oye!, Zindagi Na Milegi Dobara, Dev.D and Shanghai.</p>
 <p>Music: Bollywood Blades by Professor Kliq</p>
 ]]></content:encoded><itunes:image href="https://khabardaarpodcast.com/img/episode/ep83mq.jpg"></itunes:image>
-          <googleplay:image href="https://khabardaarpodcast.com/img/episode/ep83mq.jpg"></googleplay:image><enclosure url="http://static.khabardaarpodcast.com/media/khabardaar-20201223-abhay-deol.mp3"  type="audio/mpeg" /><itunes:duration>0:47:21</itunes:duration><itunes:explicit>no</itunes:explicit>
+          <googleplay:image href="https://khabardaarpodcast.com/img/episode/ep83mq.jpg"></googleplay:image><enclosure url="http://static.khabardaarpodcast.com/media/khabardaar-20201223-abhay-deol.mp3" length="45466852" type="audio/mpeg" /><itunes:duration>0:47:21</itunes:duration><itunes:explicit>no</itunes:explicit>
           <googleplay:explicit>no</googleplay:explicit></item>
         <item>
           <title>#82 Rangeela Re</title>
