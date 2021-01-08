@@ -11,7 +11,7 @@ images = ["img/episode/ep83mq.jpg"]
 news_keywords = []
 podcast_duration = "0:47:21"
 podcast_file = "khabardaar-20201223-abhay-deol.mp3"
-podcast_bytes = ""
+podcast_bytes = "45466852"
 tags = []
 title = "#83 Abhay Deol"
 +++
