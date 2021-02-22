@@ -14,7 +14,7 @@
     <atom:link href="https://khabardaarpodcast.com/episode/index.xml" rel="self" type="application/rss+xml" />
     <link>https://khabardaarpodcast.com/</link>
     <description>Khabardaar is a Hindi language podcast discussing Bollywood movies. Hosted by lifelong Bollywood fans Aparita Bhandari and Baisakhi Roy, it offers an in-depth look at the Hindi film industry.</description>
-    <lastBuildDate>Wed, 6 Jan 2021 00:00:17 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 16 Feb 2021 00:00:17 -0400</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>hi</language>
@@ -39,6 +39,30 @@
     </image>
     <itunes:category text="TV &amp; Film">
       </itunes:category><generator>Hugo -- gohugo.io</generator>
+        <item>
+          <title>#85 Mismatched</title>
+          <link>https://khabardaarpodcast.com/mismatched/</link>
+          <pubDate>Tue, 16 Feb 2021 00:00:17 -0400 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>http://static.khabardaarpodcast.com/media/khabardaar-20210216-mismatched.mp3</guid>
+          <itunes:author>Khabardaar Podcast</itunes:author>
+          
+          <itunes:episode>85</itunes:episode>
+          
+        <itunes:title>#85 Mismatched</itunes:title>
+        <itunes:subtitle><![CDATA[
+        
+        Episode 85: A look at Mismatched - a Netflix series based on the YA novel When Dimple Met Rishi.
+        
+        ]]></itunes:subtitle>
+        <itunes:summary>Episode 85: A look at Mismatched - a Netflix series based on the YA novel When Dimple Met Rishi.</itunes:summary>
+        <description>Episode 85: A look at Mismatched - a Netflix series based on the YA novel When Dimple Met Rishi.</description>
+        <googleplay:description>Episode 85: A look at Mismatched - a Netflix series based on the YA novel When Dimple Met Rishi.</googleplay:description>
+        <content:encoded><![CDATA[<p>Episode 85: A look at Mismatched - a Netflix series based on the YA novel When Dimple Met Rishi. Starring Rohit Saraf, Prajakta Kohli, Muskkan Jaferi and Vihaan Samat, and co-directed by Akarsh Khurana and Nipun Dharmadhikari, this show takes a look at young love.</p>
+<p>Music: Bollywood Blades by Professor Kliq</p>
+]]></content:encoded><itunes:image href="https://khabardaarpodcast.com/img/episode/ep85mq.jpg"></itunes:image>
+          <googleplay:image href="https://khabardaarpodcast.com/img/episode/ep85mq.jpg"></googleplay:image><enclosure url="http://static.khabardaarpodcast.com/media/khabardaar-20210216-mismatched.mp3" length="43834722" type="audio/mpeg" /><itunes:duration>0:45:39</itunes:duration><itunes:explicit>no</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit></item>
         <item>
           <title>#84 AK vs AK</title>
           <link>https://khabardaarpodcast.com/ak-vs-ak/</link>
