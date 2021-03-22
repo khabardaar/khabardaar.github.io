@@ -14,7 +14,7 @@
     <atom:link href="https://khabardaarpodcast.com/episode/index.xml" rel="self" type="application/rss+xml" />
     <link>https://khabardaarpodcast.com/</link>
     <description>Khabardaar is a Hindi language podcast discussing Bollywood movies. Hosted by lifelong Bollywood fans Aparita Bhandari and Baisakhi Roy, it offers an in-depth look at the Hindi film industry.</description>
-    <lastBuildDate>Tue, 16 Feb 2021 00:00:17 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 10 Mar 2021 00:00:17 -0400</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>hi</language>
@@ -39,6 +39,31 @@
     </image>
     <itunes:category text="TV &amp; Film">
       </itunes:category><generator>Hugo -- gohugo.io</generator>
+        <item>
+          <title>#86 Kabir Khan&#39;s 83</title>
+          <link>https://khabardaarpodcast.com/83-world-cup/</link>
+          <pubDate>Wed, 10 Mar 2021 00:00:17 -0400 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>http://static.khabardaarpodcast.com/media/khabardaar-20210310-83-world-cup.mp3</guid>
+          <itunes:author>Khabardaar Podcast</itunes:author>
+          
+          <itunes:episode>86</itunes:episode>
+          
+        <itunes:title>#86 Kabir Khan&#39;s 83</itunes:title>
+        <itunes:subtitle><![CDATA[
+        
+        Episode 86: We discuss the upcoming Hindi film 83 with Rahul Desai, whose opinions on Indian cinema and cricket are insightful and a delight to read.
+        
+        ]]></itunes:subtitle>
+        <itunes:summary>Episode 86: We discuss the upcoming Hindi film 83 with Rahul Desai, whose opinions on Indian cinema and cricket are insightful and a delight to read.</itunes:summary>
+        <description>Episode 86: We discuss the upcoming Hindi film 83 with Rahul Desai, whose opinions on Indian cinema and cricket are insightful and a delight to read.</description>
+        <googleplay:description>Episode 86: We discuss the upcoming Hindi film 83 with Rahul Desai, whose opinions on Indian cinema and cricket are insightful and a delight to read.</googleplay:description>
+        <content:encoded><![CDATA[<p>Episode 86: We discuss the upcoming Hindi film 83 with Rahul Desai, whose opinions on Indian cinema and cricket are insightful and a delight to read.</p>
+<p>This film about India&rsquo;s historic win of the Cricket World Cup in 1983 will be the biggest film of 2021, says Desai. A lot of expectations are riding on Kabir Khan&rsquo;s ability to craft a compelling narrative, and the actors' ability to bring the dressing room drama to the pitch.</p>
+<p>Music: Bollywood Blades by Professor Kliq</p>
+]]></content:encoded><itunes:image href="https://khabardaarpodcast.com/img/episode/ep86mq.jpg"></itunes:image>
+          <googleplay:image href="https://khabardaarpodcast.com/img/episode/ep86mq.jpg"></googleplay:image><enclosure url="http://static.khabardaarpodcast.com/media/khabardaar-20210310-83-world-cup.mp3" length="44525608" type="audio/mpeg" /><itunes:duration>0:46:22</itunes:duration><itunes:explicit>no</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit></item>
         <item>
           <title>#85 Mismatched</title>
           <link>https://khabardaarpodcast.com/mismatched/</link>
