@@ -14,7 +14,7 @@
     <atom:link href="https://khabardaarpodcast.com/episode/index.xml" rel="self" type="application/rss+xml" />
     <link>https://khabardaarpodcast.com/</link>
     <description>Khabardaar is a Hindi language podcast discussing Bollywood movies. Hosted by lifelong Bollywood fans Aparita Bhandari and Baisakhi Roy, it offers an in-depth look at the Hindi film industry.</description>
-    <lastBuildDate>Wed, 10 Mar 2021 00:00:17 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 20 Jun 2021 00:00:17 -0400</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>hi</language>
@@ -39,6 +39,30 @@
     </image>
     <itunes:category text="TV &amp; Film">
       </itunes:category><generator>Hugo -- gohugo.io</generator>
+        <item>
+          <title>#87 the Disciple</title>
+          <link>https://khabardaarpodcast.com/the-disciple/</link>
+          <pubDate>Sun, 20 Jun 2021 00:00:17 -0400 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>http://static.khabardaarpodcast.com/media/khabardaar-20210620-the-disciple.mp3</guid>
+          <itunes:author>Khabardaar Podcast</itunes:author>
+          
+          <itunes:episode>87</itunes:episode>
+          
+        <itunes:title>#87 the Disciple</itunes:title>
+        <itunes:subtitle><![CDATA[
+        
+        Episode 87: A look at The Disciple, by Chaitanya Tamhane.
+        
+        ]]></itunes:subtitle>
+        <itunes:summary>Episode 87: A look at The Disciple, by Chaitanya Tamhane.</itunes:summary>
+        <description>Episode 87: A look at The Disciple, by Chaitanya Tamhane.</description>
+        <googleplay:description>Episode 87: A look at The Disciple, by Chaitanya Tamhane.</googleplay:description>
+        <content:encoded><![CDATA[<p>Episode 87: A look at The Disciple, by Chaitanya Tamhane.</p>
+<p>Music: Bollywood Blades by Professor Kliq</p>
+]]></content:encoded><itunes:image href="https://khabardaarpodcast.com/img/episode/ep87mq.jpg"></itunes:image>
+          <googleplay:image href="https://khabardaarpodcast.com/img/episode/ep87mq.jpg"></googleplay:image><enclosure url="http://static.khabardaarpodcast.com/media/khabardaar-20210620-the-disciple.mp3" length="39220452" type="audio/mpeg" /><itunes:duration>0:40:51</itunes:duration><itunes:explicit>no</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit></item>
         <item>
           <title>#86 Kabir Khan&#39;s 83</title>
           <link>https://khabardaarpodcast.com/83-world-cup/</link>
