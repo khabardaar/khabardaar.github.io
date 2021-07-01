@@ -13,9 +13,13 @@ podcast_duration = "0:35:24"
 podcast_file = "20210629-sherni.mp3"
 podcast_bytes = "33972224"
 tags = []
-title = "#88 The Sherni"
+title = "#88 Sherni"
 +++
 
 Episode 88: A look at Amit Masurkar's new film Sherni, starring Vidya Balan.
+
+There was a lot of anticipation around Masurkar's new film Sherni, especially after the success of Newton (2017) -- which was a satirical look at the election process in a small village in India. 
+
+The trailer also suggested the return of Vidya Balan in a serious, dramatic role -- supported by talented actors such as Brijendra Kala, Vijay Raaz and Sharat Saxena. Was Sherni a roar or a whimper? Listen to find out.
 
 Music: Bollywood Blades by Professor Kliq
