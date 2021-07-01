@@ -1,21 +1,21 @@
 +++
-Description = "Episode 87: A look at The Disciple, by Chaitanya Tamhane."
-aliases = ["/87"]
+Description = "Episode 88: A look at Amit Masurkar's Sherni, starring Vidya Balan."
+aliases = ["/88"]
 author = "Aparita"
 categories = []
-date = "2021-06-20T00:00:17-04:00"
-episode = "87"
-episode_image = "img/episode/ep87mq.jpg"
+date = "2021-06-29T00:00:17-04:00"
+episode = "88"
+episode_image = "img/episode/ep88mq.jpg"
 explicit = "no"
-images = ["img/episode/ep87mq.jpg"]
+images = ["img/episode/ep88mq.jpg"]
 news_keywords = []
-podcast_duration = "0:40:51"
-podcast_file = "khabardaar-20210620-the-disciple.mp3"
-podcast_bytes = "39220452"
+podcast_duration = "0:35:24"
+podcast_file = "20210629-sherni.mp3"
+podcast_bytes = "33972224"
 tags = []
-title = "#87 The Disciple"
+title = "#88 The Sherni"
 +++
 
-Episode 87: A look at The Disciple, by Chaitanya Tamhane.
+Episode 88: A look at Amit Masurkar's new film Sherni, starring Vidya Balan.
 
 Music: Bollywood Blades by Professor Kliq
