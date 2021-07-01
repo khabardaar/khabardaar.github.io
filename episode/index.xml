@@ -14,7 +14,7 @@
     <atom:link href="https://khabardaarpodcast.com/episode/index.xml" rel="self" type="application/rss+xml" />
     <link>https://khabardaarpodcast.com/</link>
     <description>Khabardaar is a Hindi language podcast discussing Bollywood movies. Hosted by lifelong Bollywood fans Aparita Bhandari and Baisakhi Roy, it offers an in-depth look at the Hindi film industry.</description>
-    <lastBuildDate>Sun, 20 Jun 2021 00:00:17 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 29 Jun 2021 00:00:17 -0400</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>hi</language>
@@ -39,6 +39,32 @@
     </image>
     <itunes:category text="TV &amp; Film">
       </itunes:category><generator>Hugo -- gohugo.io</generator>
+        <item>
+          <title>#88 Sherni</title>
+          <link>https://khabardaarpodcast.com/sherni/</link>
+          <pubDate>Tue, 29 Jun 2021 00:00:17 -0400 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>http://static.khabardaarpodcast.com/media/20210629-sherni.mp3</guid>
+          <itunes:author>Khabardaar Podcast</itunes:author>
+          
+          <itunes:episode>88</itunes:episode>
+          
+        <itunes:title>#88 Sherni</itunes:title>
+        <itunes:subtitle><![CDATA[
+        
+        Episode 88: A look at Amit Masurkar&#39;s Sherni, starring Vidya Balan.
+        
+        ]]></itunes:subtitle>
+        <itunes:summary>Episode 88: A look at Amit Masurkar&#39;s Sherni, starring Vidya Balan.</itunes:summary>
+        <description>Episode 88: A look at Amit Masurkar&#39;s Sherni, starring Vidya Balan.</description>
+        <googleplay:description>Episode 88: A look at Amit Masurkar&#39;s Sherni, starring Vidya Balan.</googleplay:description>
+        <content:encoded><![CDATA[<p>Episode 88: A look at Amit Masurkar&rsquo;s new film <a href="https://www.youtube.com/watch?v=o2wg-11MWFU">Sherni</a>, starring Vidya Balan.</p>
+<p>There was a lot of anticipation around Masurkar&rsquo;s new film Sherni, especially after the success of <a href="https://www.youtube.com/watch?v=yU6zMPFd4UU">Newton</a> (2017) &ndash; which was a satirical look at the election process in a small village in India.</p>
+<p>The trailer also suggested the return of Vidya Balan in a serious, dramatic role &ndash; supported by talented actors such as Brijendra Kala, Vijay Raaz and Sharat Saxena. Was Sherni a roar or a whimper? Listen to find out.</p>
+<p>Music: Bollywood Blades by Professor Kliq</p>
+]]></content:encoded><itunes:image href="https://khabardaarpodcast.com/img/episode/ep88mq.jpg"></itunes:image>
+          <googleplay:image href="https://khabardaarpodcast.com/img/episode/ep88mq.jpg"></googleplay:image><enclosure url="http://static.khabardaarpodcast.com/media/20210629-sherni.mp3" length="33972224" type="audio/mpeg" /><itunes:duration>0:35:24</itunes:duration><itunes:explicit>no</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit></item>
         <item>
           <title>#87 the Disciple</title>
           <link>https://khabardaarpodcast.com/the-disciple/</link>
