@@ -14,7 +14,7 @@
     <atom:link href="https://khabardaarpodcast.com/episode/index.xml" rel="self" type="application/rss+xml" />
     <link>https://khabardaarpodcast.com/</link>
     <description>Khabardaar is a Hindi language podcast discussing Bollywood movies. Hosted by lifelong Bollywood fans Aparita Bhandari and Baisakhi Roy, it offers an in-depth look at the Hindi film industry.</description>
-    <lastBuildDate>Tue, 29 Jun 2021 00:00:17 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 12 Jul 2021 00:00:17 -0400</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>hi</language>
@@ -39,6 +39,30 @@
     </image>
     <itunes:category text="TV &amp; Film">
       </itunes:category><generator>Hugo -- gohugo.io</generator>
+        <item>
+          <title>#89 Haseen Dillruba</title>
+          <link>https://khabardaarpodcast.com/haseen-dillruba/</link>
+          <pubDate>Mon, 12 Jul 2021 00:00:17 -0400 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>http://static.khabardaarpodcast.com/media/khabardaar-20210712-haseen-dillruba.mp3</guid>
+          <itunes:author>Khabardaar Podcast</itunes:author>
+          
+          <itunes:episode>89</itunes:episode>
+          
+        <itunes:title>#89 Haseen Dillruba</itunes:title>
+        <itunes:subtitle><![CDATA[
+        
+        Episode 89: A look at Haseen Dillruba, starring Taapsee Pannu and Vikrant Massey.
+        
+        ]]></itunes:subtitle>
+        <itunes:summary>Episode 89: A look at Haseen Dillruba, starring Taapsee Pannu and Vikrant Massey.</itunes:summary>
+        <description>Episode 89: A look at Haseen Dillruba, starring Taapsee Pannu and Vikrant Massey.</description>
+        <googleplay:description>Episode 89: A look at Haseen Dillruba, starring Taapsee Pannu and Vikrant Massey.</googleplay:description>
+        <content:encoded><![CDATA[<p>Episode 89: A look at Haseen Dillruba. Directed by Vinil Mathew, written by Kanika Dhillon, it stars Taapsee Pannu and Vikrant Massey in the lead roles of Rani and Rishu. Set in a fictitious small North Indian town Jwalapur, the movie attempts to play with tropes found in Hindi pulp fiction. Does it work? Listen to find out.</p>
+<p>Music: Bollywood Blades by Professor Kliq</p>
+]]></content:encoded><itunes:image href="https://khabardaarpodcast.com/img/episode/ep89mq.jpg"></itunes:image>
+          <googleplay:image href="https://khabardaarpodcast.com/img/episode/ep89mq.jpg"></googleplay:image><enclosure url="http://static.khabardaarpodcast.com/media/khabardaar-20210712-haseen-dillruba.mp3" length="47972352" type="audio/mpeg" /><itunes:duration>0:49:58</itunes:duration><itunes:explicit>no</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit></item>
         <item>
           <title>#88 Sherni</title>
           <link>https://khabardaarpodcast.com/sherni/</link>
