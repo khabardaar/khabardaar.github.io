@@ -14,7 +14,7 @@
     <atom:link href="https://khabardaarpodcast.com/episode/index.xml" rel="self" type="application/rss+xml" />
     <link>https://khabardaarpodcast.com/</link>
     <description>Khabardaar is a Hindi language podcast discussing Bollywood movies. Hosted by lifelong Bollywood fans Aparita Bhandari and Baisakhi Roy, it offers an in-depth look at the Hindi film industry.</description>
-    <lastBuildDate>Thu, 5 Aug 2021 00:00:17 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 23 Feb 2022 00:00:17 -0400</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>hi</language>
@@ -39,6 +39,58 @@
     </image>
     <itunes:category text="TV &amp; Film">
       </itunes:category><generator>Hugo -- gohugo.io</generator>
+        <item>          
+          
+            <title>#92 in Memoriam: Lata Didi</title>
+          
+          <link>https://khabardaarpodcast.com/lata-mangeshkar-obit/</link>
+          <pubDate>Wed, 23 Feb 2022 00:00:17 -0400 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>http://static.khabardaarpodcast.com/media/khabardaar-20220223-lata-mangeshkar-obit.mp3</guid>
+          <itunes:author>Khabardaar Podcast</itunes:author>
+          
+          <itunes:episode>92</itunes:episode>
+          
+        <itunes:title>#92 in Memoriam: Lata Didi</itunes:title>
+        <itunes:subtitle><![CDATA[
+        
+        Episode 92: In memory of Lata Mangeshkar.
+        
+        ]]></itunes:subtitle>
+        <itunes:summary>Episode 92: In memory of Lata Mangeshkar.</itunes:summary>
+        <description>Episode 92: In memory of Lata Mangeshkar.</description>
+        <googleplay:description>Episode 92: In memory of Lata Mangeshkar.</googleplay:description>
+        <content:encoded><![CDATA[<p>Episode 92: A look at the life of Lata Mangeshkar, whose lilting melodies rang out in Hindi cinema songs for seven decades. Special guest Saleha Salam adds her perspective on how Lata gave voice to the Hindi film heroine&rsquo;s state of mind.</p>
+<p>Music: Bollywood Blades by Professor Kliq</p>
+]]></content:encoded><itunes:image href="https://khabardaarpodcast.com/img/episode/ep92mq.jpg"></itunes:image>
+          <googleplay:image href="https://khabardaarpodcast.com/img/episode/ep92mq.jpg"></googleplay:image><enclosure url="http://static.khabardaarpodcast.com/media/khabardaar-20220223-lata-mangeshkar-obit.mp3" length="36843520" type="audio/mpeg" /><itunes:duration>0:41:19</itunes:duration><itunes:explicit>false</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit></item>
+        <item>          
+          
+            <title>#91 TIFF 2021</title>
+          
+          <link>https://khabardaarpodcast.com/tiff-2021/</link>
+          <pubDate>Tue, 16 Nov 2021 00:00:17 -0400 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>http://static.khabardaarpodcast.com/media/khabardaar-2021116-tiff-2021.mp3</guid>
+          <itunes:author>Khabardaar Podcast</itunes:author>
+          
+          <itunes:episode>91</itunes:episode>
+          
+        <itunes:title>#91 TIFF 2021</itunes:title>
+        <itunes:subtitle><![CDATA[
+        
+        Episode 91: A coversation with Indian film critics Aseem Chhabra, Namrata Joshi, Shubhra Gupta and Suparna Sharma on TIFF 2021.
+        
+        ]]></itunes:subtitle>
+        <itunes:summary>Episode 91: A coversation with Indian film critics Aseem Chhabra, Namrata Joshi, Shubhra Gupta and Suparna Sharma on TIFF 2021.</itunes:summary>
+        <description>Episode 91: A coversation with Indian film critics Aseem Chhabra, Namrata Joshi, Shubhra Gupta and Suparna Sharma on TIFF 2021.</description>
+        <googleplay:description>Episode 91: A coversation with Indian film critics Aseem Chhabra, Namrata Joshi, Shubhra Gupta and Suparna Sharma on TIFF 2021.</googleplay:description>
+        <content:encoded><![CDATA[<p>Episode 91: A coversation with Indian film critics Aseem Chhabra, Namrata Joshi, Shubhra Gupta and Suparna Sharma on TIFF 2021.</p>
+<p>Music: Bollywood Blades by Professor Kliq</p>
+]]></content:encoded><itunes:image href="https://khabardaarpodcast.com/img/episode/ep91mq.jpg"></itunes:image>
+          <googleplay:image href="https://khabardaarpodcast.com/img/episode/ep91mq.jpg"></googleplay:image><enclosure url="http://static.khabardaarpodcast.com/media/khabardaar-2021116-tiff-2021.mp3" length="41906176" type="audio/mpeg" /><itunes:duration>0:44:04</itunes:duration><itunes:explicit>false</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit></item>
         <item>          
           
             <title>#90 Boxing</title>
