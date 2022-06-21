@@ -14,7 +14,7 @@
     <atom:link href="https://khabardaarpodcast.com/episode/index.xml" rel="self" type="application/rss+xml" />
     <link>https://khabardaarpodcast.com/</link>
     <description>Khabardaar is a Hindi language podcast discussing Bollywood movies. Hosted by lifelong Bollywood fans Aparita Bhandari and Baisakhi Roy, it offers an in-depth look at the Hindi film industry.</description>
-    <lastBuildDate>Wed, 23 Feb 2022 00:00:17 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jun 2022 00:00:17 -0400</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>hi</language>
@@ -39,6 +39,32 @@
     </image>
     <itunes:category text="TV &amp; Film">
       </itunes:category><generator>Hugo -- gohugo.io</generator>
+        <item>          
+          
+            <title>#93 Kuch Different Hai!</title>
+          
+          <link>https://khabardaarpodcast.com/khabardaar-reboot/</link>
+          <pubDate>Mon, 20 Jun 2022 00:00:17 -0400 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>http://static.khabardaarpodcast.com/media/khabardaar-20220620-kuch-different.mp3</guid>
+          <itunes:author>Khabardaar Podcast</itunes:author>
+          
+          <itunes:episode>93</itunes:episode>
+          
+        <itunes:title>#93 Kuch Different Hai!</itunes:title>
+        <itunes:subtitle><![CDATA[
+        
+        Episode 93: Kuch Different Hai!
+        
+        ]]></itunes:subtitle>
+        <itunes:summary>Episode 93: Kuch Different Hai!</itunes:summary>
+        <description>Episode 93: Kuch Different Hai!</description>
+        <googleplay:description>Episode 93: Kuch Different Hai!</googleplay:description>
+        <content:encoded><![CDATA[<p>Episode 93: Aparita and Baisakhi introduce a new version of Khabardaar podcast, with your two favourite khabaris.</p>
+<p>Music: Wataboi by ItsWatr</p>
+]]></content:encoded><itunes:image href="https://khabardaarpodcast.com/img/episode/teaser.orig.jpg"></itunes:image>
+          <googleplay:image href="https://khabardaarpodcast.com/img/episode/teaser.orig.jpg"></googleplay:image><enclosure url="http://static.khabardaarpodcast.com/media/khabardaar-20220620-kuch-different.mp3" length="25907200" type="audio/mpeg" /><itunes:duration>0:28:42</itunes:duration><itunes:explicit>false</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit></item>
         <item>          
           
             <title>#92 in Memoriam: Lata Didi</title>
