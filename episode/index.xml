@@ -14,7 +14,7 @@
     <atom:link href="https://khabardaarpodcast.com/episode/index.xml" rel="self" type="application/rss+xml" />
     <link>https://khabardaarpodcast.com/</link>
     <description>Khabardaar is a Hindi language podcast discussing Bollywood movies. Hosted by lifelong Bollywood fans Aparita Bhandari and Baisakhi Roy, it offers an in-depth look at the Hindi film industry.</description>
-    <lastBuildDate>Mon, 20 Jun 2022 00:00:17 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 28 Aug 2022 00:00:17 -0400</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>hi</language>
@@ -39,6 +39,32 @@
     </image>
     <itunes:category text="TV &amp; Film">
       </itunes:category><generator>Hugo -- gohugo.io</generator>
+        <item>          
+          
+            <title>#94 Darlings</title>
+          
+          <link>https://khabardaarpodcast.com/darlings/</link>
+          <pubDate>Sun, 28 Aug 2022 00:00:17 -0400 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>http://static.khabardaarpodcast.com/media/khabardaar-20220828-darlings.mp3</guid>
+          <itunes:author>Khabardaar Podcast</itunes:author>
+          
+          <itunes:episode>94</itunes:episode>
+          
+        <itunes:title>#94 Darlings</itunes:title>
+        <itunes:subtitle><![CDATA[
+        
+        Episode 94: Darlings
+        
+        ]]></itunes:subtitle>
+        <itunes:summary>Episode 94: Darlings</itunes:summary>
+        <description>Episode 94: Darlings</description>
+        <googleplay:description>Episode 94: Darlings</googleplay:description>
+        <content:encoded><![CDATA[<p>Episode 94: Aparita and Baisakhi talk about the depiction of domestic violence and black humour in the new-ish Netflix film Darlings.</p>
+<p>Music: Wataboi by ItsWatr</p>
+]]></content:encoded><itunes:image href="https://khabardaarpodcast.com/img/episode/ep94.jpg"></itunes:image>
+          <googleplay:image href="https://khabardaarpodcast.com/img/episode/ep94.jpg"></googleplay:image><enclosure url="http://static.khabardaarpodcast.com/media/khabardaar-20220828-darlings.mp3" length="35055489" type="audio/mpeg" /><itunes:duration>0:36:30</itunes:duration><itunes:explicit>false</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit></item>
         <item>          
           
             <title>#93 Kuch Different Hai!</title>
