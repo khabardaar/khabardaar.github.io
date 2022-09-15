@@ -16,6 +16,6 @@ tags = []
 title = "#96 At TIFF 2022"
 +++
 
-Episode 96: Aparita and Baisakhi give an update for the initial days of the annual Toronto International Film Festival, which featured a solid slate of films from South Asia.
+Episode 96: Aparita and Baisakhi give an update from the initial days of the annual Toronto International Film Festival, which featured a solid slate of films from South Asia.
 
 Music: Wataboi by ItsWatr
