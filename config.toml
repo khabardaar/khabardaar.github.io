@@ -32,7 +32,7 @@ enable_jumbo = "true"
 # enable_jumbo = "false"
 # truncate = "100"
 about_logo = "/img/kplogowebsite.png"
-copyright_notice = "Copyright &copy; 2022"
+copyright_notice = "Copyright &copy; 2023"
 itunes_subscribe = "https://podcasts.apple.com/podcast/khabardaar-podcast/id1351517692"
 #android_subscribe = "http://subscribeonandroid.com/feeds.podtrac.com/VGAulpN7MY1U"
 spotify_subscribe = "https://open.spotify.com/show/7mNxAHfplIroECy2w2SO3Z"
@@ -45,7 +45,7 @@ mailchimp_subscribe = "http://eepurl.com/dluLDn"
 description = "Khabardaar is a Hindi language podcast discussing Bollywood movies. Hosted by lifelong Bollywood fans Aparita Bhandari and Baisakhi Roy, it offers an in-depth look at the Hindi film industry. [Subscribe today](http://eepurl.com/dluLDn)!"
 media_prefix = "http://static.khabardaarpodcast.com/media/"
   [params.feed]
-    copyright = "Copyright 2022" #do not use markdown in this field; it is used in the feed
+    copyright = "Copyright 2023" #do not use markdown in this field; it is used in the feed
     itunes_subtitle = "Your Bollywood fix" #no markdown or HTML
     itunes_author = "Khabardaar Podcast" #no markdown or HTML
     itunes_summary = "Khabardaar is a Hindi language podcast discussing Bollywood movies. Hosted by lifelong Bollywood fans Aparita Bhandari and Baisakhi Roy, it offers an in-depth look at the Hindi film industry." # Limited to 4000 characters or less, plain text, no HTML
