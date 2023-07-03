@@ -14,11 +14,11 @@
     <atom:link href="https://khabardaarpodcast.com/episode/index.xml" rel="self" type="application/rss+xml" />
     <link>https://khabardaarpodcast.com/</link>
     <description>Khabardaar is a Hindi language podcast discussing Bollywood movies. Hosted by lifelong Bollywood fans Aparita Bhandari and Baisakhi Roy, it offers an in-depth look at the Hindi film industry.</description>
-    <lastBuildDate>Wed, 21 Dec 2022 00:00:17 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 28 Jun 2023 00:00:17 -0400</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>hi</language>
-    <copyright>Copyright 2022</copyright>
+    <copyright>Copyright 2023</copyright>
     <itunes:subtitle>Your Bollywood fix</itunes:subtitle>
     <itunes:author>Khabardaar Podcast</itunes:author>
     <itunes:type>episodic</itunes:type>
@@ -39,6 +39,33 @@
     </image>
     <itunes:category text="TV &amp; Film">
       </itunes:category><generator>Hugo -- gohugo.io</generator>
+        <item>          
+          
+            <title>#99 TIFF 2022: Kapil Sharma</title>
+          
+          <link>https://khabardaarpodcast.com/tiff-2022-kapil-sharma-zwigato/</link>
+          <pubDate>Wed, 28 Jun 2023 00:00:17 -0400 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>http://static.khabardaarpodcast.com/media/khabardaar-20230625-tiff2022-kapil-sharma.mp3</guid>
+          <itunes:author>Khabardaar Podcast</itunes:author>
+          
+          <itunes:episode>99</itunes:episode>
+          
+        <itunes:title>#99 TIFF 2022: Kapil Sharma</itunes:title>
+        <itunes:subtitle><![CDATA[
+        
+        Episode 99: 
+        
+        ]]></itunes:subtitle>
+        <itunes:summary>Episode 99: </itunes:summary>
+        <description>Episode 99: </description>
+        <googleplay:description>Episode 99: </googleplay:description>
+        <content:encoded><![CDATA[<p>Episode 99: Kapil Sharma is known for his comedic appearances as well as his eponymous sketch-comedy and chat TV programme &ndash;  The Kapil Sharma Show &ndash; currently in its fourth season. So it came as a bit of a surprise to learn that Sharma is one of the lead actors ofZwigato a film by Nandita Das, who is well-known for making movies addressing societal issues. In the film, Sharma plays a middle-class food delivery person, trying to make a decent salary for his family, and negotiating a changing world around him. As it turns out, Sharma played his part effortlessly, showcasing the desperation of a man caught in the middle of societal shifts, and his humanity.</p>
+<p>Since Sharma attended TIFF 2022, we got a chance to talk to him about his journey to fame and the lessons he learnt from experiences with Zwigato.</p>
+<p>Music: Wataboi by ItsWatr</p>
+]]></content:encoded><itunes:image href="https://khabardaarpodcast.com/img/episode/ep99.jpg"></itunes:image>
+          <googleplay:image href="https://khabardaarpodcast.com/img/episode/ep99.jpg"></googleplay:image><enclosure url="http://static.khabardaarpodcast.com/media/khabardaar-20230625-tiff2022-kapil-sharma.mp3" length="17705168" type="audio/mpeg" /><itunes:duration>0:18:26</itunes:duration><itunes:explicit>false</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit></item>
         <item>          
           
             <title>#98 TIFF 2022: Vinay Shukla</title>
