@@ -1,23 +1,21 @@
 +++
-Description = "Episode 99: An interview with Kapil Sharma, star of Nandita Das' Zwigato."
-aliases = ["/99"]
+Description = "Episode 100: An update from TIFF 2023 - Day 1"
+aliases = ["/100"]
 author = "Aparita"
 categories = []
-date = "2023-06-28T00:00:17-04:00"
-episode = "99"
-episode_image = "img/episode/ep99.jpg"
+date = "2023-08-08T00:00:17-04:00"
+episode = "100"
+episode_image = "img/episode/ep100.jpg"
 explicit = "no"
-images = ["img/episode/ep99.jpg"]
+images = ["img/episode/ep100.jpg"]
 news_keywords = []
-podcast_duration = "0:18:26"
-podcast_file = "khabardaar-20230625-tiff2022-kapil-sharma.mp3"
-podcast_bytes = "17705168"
+podcast_duration = "0:10:07"
+podcast_file = "khabardaar-20230808-tiff2023-update-01.mp3"
+podcast_bytes = "9711616"
 tags = []
-title = "#99 TIFF 2022: Kapil Sharma"
+title = "#100 TIFF 2023: Day 1"
 +++
 
-Episode 99: Kapil Sharma is known for his comedic appearances as well as his eponymous sketch-comedy and chat TV programme --  The Kapil Sharma Show -- currently in its fourth season. So it came as a bit of a surprise to learn that Sharma is one of the lead actors ofZwigato a film by Nandita Das, who is well-known for making movies addressing societal issues. In the film, Sharma plays a middle-class food delivery person, trying to make a decent salary for his family, and negotiating a changing world around him. As it turns out, Sharma played his part effortlessly, showcasing the desperation of a man caught in the middle of societal shifts, and his humanity.
-
-Since Sharma attended TIFF 2022, we got a chance to talk to him about his journey to fame and the lessons he learnt from experiences with Zwigato.
+Episode 100: Aparita and Baisakhi bring you an update from the first of day of the Toronto International Film Festival (TIFF) 2023, where they saw three films -- In Flames, Thank You For Coming and Fallen Leaves.
 
 Music: Wataboi by ItsWatr
