@@ -14,7 +14,7 @@
     <atom:link href="https://khabardaarpodcast.com/episode/index.xml" rel="self" type="application/rss+xml" />
     <link>https://khabardaarpodcast.com/</link>
     <description>Khabardaar is a Hindi language podcast discussing Bollywood movies. Hosted by lifelong Bollywood fans Aparita Bhandari and Baisakhi Roy, it offers an in-depth look at the Hindi film industry.</description>
-    <lastBuildDate>Tue, 8 Aug 2023 00:00:17 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 10 Sep 2023 00:00:17 -0400</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>hi</language>
@@ -41,10 +41,62 @@
       </itunes:category><generator>Hugo -- gohugo.io</generator>
         <item>          
           
+            <title>#102 TIFF 2023: Kiran Rao</title>
+          
+          <link>https://khabardaarpodcast.com/tiff-2023-day-kiran-rao/</link>
+          <pubDate>Sun, 10 Sep 2023 00:00:17 -0400 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>http://static.khabardaarpodcast.com/media/khabardaar-20230909-tiff2023-kiran-rao.mp3</guid>
+          <itunes:author>Khabardaar Podcast</itunes:author>
+          
+          <itunes:episode>102</itunes:episode>
+          
+        <itunes:title>#102 TIFF 2023: Kiran Rao</itunes:title>
+        <itunes:subtitle><![CDATA[
+        
+        Episode 102: TIFF 2023 - Kiran Rao
+        
+        ]]></itunes:subtitle>
+        <itunes:summary>Episode 102: TIFF 2023 - Kiran Rao</itunes:summary>
+        <description>Episode 102: TIFF 2023 - Kiran Rao</description>
+        <googleplay:description>Episode 102: TIFF 2023 - Kiran Rao</googleplay:description>
+        <content:encoded><![CDATA[<p>Episode 102: A conversation with Hindi filmmaker Kiran Rao about her sophomore film Lapata Ladies, which screened at the Toronto International Film Festival (TIFF) 2023.</p>
+<p>Music: Wataboi by ItsWatr</p>
+]]></content:encoded><itunes:image href="https://khabardaarpodcast.com/img/episode/ep102.jpg"></itunes:image>
+          <googleplay:image href="https://khabardaarpodcast.com/img/episode/ep102.jpg"></googleplay:image><enclosure url="http://static.khabardaarpodcast.com/media/khabardaar-20230909-tiff2023-kiran-rao.mp3" length="22601728" type="audio/mpeg" /><itunes:duration>0:25:11</itunes:duration><itunes:explicit>false</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit></item>
+        <item>          
+          
+            <title>#101 TIFF 2023: Day 3</title>
+          
+          <link>https://khabardaarpodcast.com/tiff-2023-day-3/</link>
+          <pubDate>Sat, 09 Sep 2023 00:00:17 -0400 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>http://static.khabardaarpodcast.com/media/khabardaar-20230909-tiff2023-update-02.mp3</guid>
+          <itunes:author>Khabardaar Podcast</itunes:author>
+          
+          <itunes:episode>101</itunes:episode>
+          
+        <itunes:title>#101 TIFF 2023: Day 3</itunes:title>
+        <itunes:subtitle><![CDATA[
+        
+        Episode 101: An update from TIFF 2023 - Day 3
+        
+        ]]></itunes:subtitle>
+        <itunes:summary>Episode 101: An update from TIFF 2023 - Day 3</itunes:summary>
+        <description>Episode 101: An update from TIFF 2023 - Day 3</description>
+        <googleplay:description>Episode 101: An update from TIFF 2023 - Day 3</googleplay:description>
+        <content:encoded><![CDATA[<p>Episode 101: Aparita and Baisakhi bring you an update from the third day of the Toronto International Film Festival (TIFF) 2023.</p>
+<p>Music: Wataboi by ItsWatr</p>
+]]></content:encoded><itunes:image href="https://khabardaarpodcast.com/img/episode/ep101.jpg"></itunes:image>
+          <googleplay:image href="https://khabardaarpodcast.com/img/episode/ep101.jpg"></googleplay:image><enclosure url="http://static.khabardaarpodcast.com/media/khabardaar-20230909-tiff2023-update-02.mp3" length="11624448" type="audio/mpeg" /><itunes:duration>0:12:59</itunes:duration><itunes:explicit>false</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit></item>
+        <item>          
+          
             <title>#100 TIFF 2023: Day 1</title>
           
           <link>https://khabardaarpodcast.com/tiff-2023-day-1/</link>
-          <pubDate>Tue, 08 Aug 2023 00:00:17 -0400 </pubDate>
+          <pubDate>Thu, 07 Sep 2023 00:00:17 -0400 </pubDate>
           <dc:creator></dc:creator>
           <guid>http://static.khabardaarpodcast.com/media/khabardaar-20230808-tiff2023-update-01.mp3</guid>
           <itunes:author>Khabardaar Podcast</itunes:author>
@@ -60,7 +112,7 @@
         <itunes:summary>Episode 100: An update from TIFF 2023 - Day 1</itunes:summary>
         <description>Episode 100: An update from TIFF 2023 - Day 1</description>
         <googleplay:description>Episode 100: An update from TIFF 2023 - Day 1</googleplay:description>
-        <content:encoded><![CDATA[<p>Episode 100: Aparita and Baisakhi bring you an update from the first of day of the Toronto International Film Festival (TIFF) 2023, where they saw three films &ndash; In Flames, Thank You For Coming and Fallen Leaves.</p>
+        <content:encoded><![CDATA[<p>Episode 100: Aparita and Baisakhi bring you an update from the first day of the Toronto International Film Festival (TIFF) 2023, where they saw three films &ndash; In Flames, Thank You For Coming and Fallen Leaves.</p>
 <p>Music: Wataboi by ItsWatr</p>
 ]]></content:encoded><itunes:image href="https://khabardaarpodcast.com/img/episode/ep100.jpg"></itunes:image>
           <googleplay:image href="https://khabardaarpodcast.com/img/episode/ep100.jpg"></googleplay:image><enclosure url="http://static.khabardaarpodcast.com/media/khabardaar-20230808-tiff2023-update-01.mp3" length="9711616" type="audio/mpeg" /><itunes:duration>0:10:07</itunes:duration><itunes:explicit>false</itunes:explicit>
