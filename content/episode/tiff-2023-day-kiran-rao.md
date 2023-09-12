@@ -16,6 +16,6 @@ tags = []
 title = "#102 TIFF 2023: Kiran Rao"
 +++
 
-Episode 102: A conversation with Hindi filmmaker Kiran Rao about her sophomore film [Lapata Ladies](https://tiff.net/events/lost-ladies), which screened at the Toronto International Film Festival (TIFF) 2023.
+Episode 102: A conversation with Hindi filmmaker Kiran Rao about her sophomore film [Laapataa Ladies](https://tiff.net/events/lost-ladies), which screened at the Toronto International Film Festival (TIFF) 2023.
 
 Music: Wataboi by ItsWatr
