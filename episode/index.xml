@@ -14,7 +14,7 @@
     <atom:link href="https://khabardaarpodcast.com/episode/index.xml" rel="self" type="application/rss+xml" />
     <link>https://khabardaarpodcast.com/</link>
     <description>Khabardaar is a Hindi language podcast discussing Bollywood movies. Hosted by lifelong Bollywood fans Aparita Bhandari and Baisakhi Roy, it offers an in-depth look at the Hindi film industry.</description>
-    <lastBuildDate>Sun, 10 Sep 2023 00:00:17 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 12 Sep 2023 00:00:17 -0400</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>hi</language>
@@ -39,6 +39,32 @@
     </image>
     <itunes:category text="TV &amp; Film">
       </itunes:category><generator>Hugo -- gohugo.io</generator>
+        <item>          
+          
+            <title>#103 TIFF 2023: Days 4,5</title>
+          
+          <link>https://khabardaarpodcast.com/tiff-2023-day-4-day-5/</link>
+          <pubDate>Tue, 12 Sep 2023 00:00:17 -0400 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>http://static.khabardaarpodcast.com/media/khabardaar-20230912-tiff2023-update-03.mp3</guid>
+          <itunes:author>Khabardaar Podcast</itunes:author>
+          
+          <itunes:episode>103</itunes:episode>
+          
+        <itunes:title>#103 TIFF 2023: Days 4,5</itunes:title>
+        <itunes:subtitle><![CDATA[
+        
+        Episode 103: TIFF 2023 - Days 4,5
+        
+        ]]></itunes:subtitle>
+        <itunes:summary>Episode 103: TIFF 2023 - Days 4,5</itunes:summary>
+        <description>Episode 103: TIFF 2023 - Days 4,5</description>
+        <googleplay:description>Episode 103: TIFF 2023 - Days 4,5</googleplay:description>
+        <content:encoded><![CDATA[<p>Episode 103: Aparita and Baisakhi bring you an update from the fifth day of the Toronto International Film Festival (TIFF) 2023.</p>
+<p>Music: Wataboi by ItsWatr</p>
+]]></content:encoded><itunes:image href="https://khabardaarpodcast.com/img/episode/ep103.jpg"></itunes:image>
+          <googleplay:image href="https://khabardaarpodcast.com/img/episode/ep103.jpg"></googleplay:image><enclosure url="http://static.khabardaarpodcast.com/media/khabardaar-20230912-tiff2023-update-03.mp3" length="10817536" type="audio/mpeg" /><itunes:duration>0:11:16</itunes:duration><itunes:explicit>false</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit></item>
         <item>          
           
             <title>#102 TIFF 2023: Kiran Rao</title>
