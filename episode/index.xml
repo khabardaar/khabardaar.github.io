@@ -14,7 +14,7 @@
     <atom:link href="https://khabardaarpodcast.com/episode/index.xml" rel="self" type="application/rss+xml" />
     <link>https://khabardaarpodcast.com/</link>
     <description>Khabardaar is a Hindi language podcast discussing Bollywood movies. Hosted by lifelong Bollywood fans Aparita Bhandari and Baisakhi Roy, it offers an in-depth look at the Hindi film industry.</description>
-    <lastBuildDate>Tue, 12 Sep 2023 00:00:17 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 17 Sep 2023 00:00:17 -0400</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>hi</language>
@@ -39,6 +39,32 @@
     </image>
     <itunes:category text="TV &amp; Film">
       </itunes:category><generator>Hugo -- gohugo.io</generator>
+        <item>          
+          
+            <title>#104 TIFF 2023: Critics Roundtable</title>
+          
+          <link>https://khabardaarpodcast.com/tiff-2023-critics-roundtable-with-aseem/</link>
+          <pubDate>Sun, 17 Sep 2023 00:00:17 -0400 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>http://static.khabardaarpodcast.com/media/khabardaar-20230917-tiff2023-critics-roundtable.mp3</guid>
+          <itunes:author>Khabardaar Podcast</itunes:author>
+          
+          <itunes:episode>104</itunes:episode>
+          
+        <itunes:title>#104 TIFF 2023: Critics Roundtable</itunes:title>
+        <itunes:subtitle><![CDATA[
+        
+        Episode 104: TIFF 2023: Critics Roundtable - With Aseem Chhabra
+        
+        ]]></itunes:subtitle>
+        <itunes:summary>Episode 104: TIFF 2023: Critics Roundtable - With Aseem Chhabra</itunes:summary>
+        <description>Episode 104: TIFF 2023: Critics Roundtable - With Aseem Chhabra</description>
+        <googleplay:description>Episode 104: TIFF 2023: Critics Roundtable - With Aseem Chhabra</googleplay:description>
+        <content:encoded><![CDATA[<p>Episode 104: Noted Indian film critic and director of the New York Indian Film Festival (NYIFF) Aseem Chhabra joins Aparita and Baisakhi to talk about the films they watched at the Toronto International Film Festival (TIFF) 2023.</p>
+<p>Music: Wataboi by ItsWatr</p>
+]]></content:encoded><itunes:image href="https://khabardaarpodcast.com/img/episode/ep104.jpg"></itunes:image>
+          <googleplay:image href="https://khabardaarpodcast.com/img/episode/ep104.jpg"></googleplay:image><enclosure url="http://static.khabardaarpodcast.com/media/khabardaar-20230917-tiff2023-critics-roundtable.mp3" length="26718208" type="audio/mpeg" /><itunes:duration>0:29:40</itunes:duration><itunes:explicit>false</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit></item>
         <item>          
           
             <title>#103 TIFF 2023: Days 4,5</title>
