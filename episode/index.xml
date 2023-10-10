@@ -14,7 +14,7 @@
     <atom:link href="https://khabardaarpodcast.com/episode/index.xml" rel="self" type="application/rss+xml" />
     <link>https://khabardaarpodcast.com/</link>
     <description>Khabardaar is a Hindi language podcast discussing Bollywood movies. Hosted by lifelong Bollywood fans Aparita Bhandari and Baisakhi Roy, it offers an in-depth look at the Hindi film industry.</description>
-    <lastBuildDate>Sun, 17 Sep 2023 00:00:17 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 9 Oct 2023 00:00:17 -0400</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>hi</language>
@@ -39,6 +39,32 @@
     </image>
     <itunes:category text="TV &amp; Film">
       </itunes:category><generator>Hugo -- gohugo.io</generator>
+        <item>          
+          
+            <title>#105 TIFF 2023: TYFC</title>
+          
+          <link>https://khabardaarpodcast.com/thank-you-for-coming/</link>
+          <pubDate>Mon, 09 Oct 2023 00:00:17 -0400 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>http://static.khabardaarpodcast.com/media/khabardaar-20231009-tyfc.mp3</guid>
+          <itunes:author>Khabardaar Podcast</itunes:author>
+          
+          <itunes:episode>105</itunes:episode>
+          
+        <itunes:title>#105 TIFF 2023: TYFC</itunes:title>
+        <itunes:subtitle><![CDATA[
+        
+        Episode 105: TIFF 2023: Thank You For Coming
+        
+        ]]></itunes:subtitle>
+        <itunes:summary>Episode 105: TIFF 2023: Thank You For Coming</itunes:summary>
+        <description>Episode 105: TIFF 2023: Thank You For Coming</description>
+        <googleplay:description>Episode 105: TIFF 2023: Thank You For Coming</googleplay:description>
+        <content:encoded><![CDATA[<p>Episode 105: Aparita and Baisakhi discuss their takes on Thank You For Coming, a movie about female pleasure and empowerment, which they watched at the Toronto International Film Festival (TIFF) 2023. The movie starring Bhumi Pednekar, Shibani Bedi and Dolly Singh among others is now playing in select cinemas in Canada.</p>
+<p>Music: Wataboi by ItsWatr</p>
+]]></content:encoded><itunes:image href="https://khabardaarpodcast.com/img/episode/ep105.jpg"></itunes:image>
+          <googleplay:image href="https://khabardaarpodcast.com/img/episode/ep105.jpg"></googleplay:image><enclosure url="http://static.khabardaarpodcast.com/media/khabardaar-20231009-tyfc.mp3" length="24820923" type="audio/mpeg" /><itunes:duration>0:25:51</itunes:duration><itunes:explicit>false</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit></item>
         <item>          
           
             <title>#104 TIFF 2023: Critics Roundtable</title>
