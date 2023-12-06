@@ -14,7 +14,7 @@
     <atom:link href="https://khabardaarpodcast.com/episode/index.xml" rel="self" type="application/rss+xml" />
     <link>https://khabardaarpodcast.com/</link>
     <description>Khabardaar is a Hindi language podcast discussing Bollywood movies. Hosted by lifelong Bollywood fans Aparita Bhandari and Baisakhi Roy, it offers an in-depth look at the Hindi film industry.</description>
-    <lastBuildDate>Mon, 9 Oct 2023 00:00:17 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 4 Dec 2023 00:00:17 -0400</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>hi</language>
@@ -39,6 +39,32 @@
     </image>
     <itunes:category text="TV &amp; Film">
       </itunes:category><generator>Hugo -- gohugo.io</generator>
+        <item>          
+          
+            <title>#106 TIFF 2023: Anil Kapoor</title>
+          
+          <link>https://khabardaarpodcast.com/tiff-2023-anil-kapoor/</link>
+          <pubDate>Mon, 04 Dec 2023 00:00:17 -0400 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>http://static.khabardaarpodcast.com/media/khabardaar-20231204-tiff2023-anil-kapoor.mp3</guid>
+          <itunes:author>Khabardaar Podcast</itunes:author>
+          
+          <itunes:episode>106</itunes:episode>
+          
+        <itunes:title>#106 TIFF 2023: Anil Kapoor</itunes:title>
+        <itunes:subtitle><![CDATA[
+        
+        Episode 106: TIFF 2023: Anil Kapoor
+        
+        ]]></itunes:subtitle>
+        <itunes:summary>Episode 106: TIFF 2023: Anil Kapoor</itunes:summary>
+        <description>Episode 106: TIFF 2023: Anil Kapoor</description>
+        <googleplay:description>Episode 106: TIFF 2023: Anil Kapoor</googleplay:description>
+        <content:encoded><![CDATA[<p>Episode 106: Aparita and Baisakhi had a chance to chat with Bollywood veteran Anil Kapoor, who came to the Toronto International Film Festival (TIFF) 2023 as the co-producer of the film Thank You For Coming.</p>
+<p>Music: Wataboi by ItsWatr</p>
+]]></content:encoded><itunes:image href="https://khabardaarpodcast.com/img/episode/ep106.jpg"></itunes:image>
+          <googleplay:image href="https://khabardaarpodcast.com/img/episode/ep106.jpg"></googleplay:image><enclosure url="http://static.khabardaarpodcast.com/media/khabardaar-20231204-tiff2023-anil-kapoor.mp3" length="35581952" type="audio/mpeg" /><itunes:duration>0:39:52</itunes:duration><itunes:explicit>false</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit></item>
         <item>          
           
             <title>#105 TIFF 2023: TYFC</title>
