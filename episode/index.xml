@@ -14,7 +14,7 @@
     <atom:link href="https://khabardaarpodcast.com/episode/index.xml" rel="self" type="application/rss+xml" />
     <link>https://khabardaarpodcast.com/</link>
     <description>Khabardaar is a Hindi language podcast discussing Bollywood movies. Hosted by lifelong Bollywood fans Aparita Bhandari and Baisakhi Roy, it offers an in-depth look at the Hindi film industry.</description>
-    <lastBuildDate>Sun, 14 Apr 2024 00:00:17 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 21 Apr 2024 00:00:17 -0400</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>hi</language>
@@ -39,6 +39,32 @@
     </image>
     <itunes:category text="TV &amp; Film">
       </itunes:category><generator>Hugo -- gohugo.io</generator>
+        <item>          
+          
+            <title>#108 Hip Hip Hurray</title>
+          
+          <link>https://khabardaarpodcast.com/hip-hip-hurray/</link>
+          <pubDate>Sun, 21 Apr 2024 00:00:17 -0400 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>http://static.khabardaarpodcast.com/media/khabardaar-20240421-hip-hip-hurray.mp3</guid>
+          <itunes:author>Khabardaar Podcast</itunes:author>
+          
+          <itunes:episode>108</itunes:episode>
+          
+        <itunes:title>#108 Hip Hip Hurray</itunes:title>
+        <itunes:subtitle><![CDATA[
+        
+        Episode 108: Hip Hip Hurray
+        
+        ]]></itunes:subtitle>
+        <itunes:summary>Episode 108: Hip Hip Hurray</itunes:summary>
+        <description>Episode 108: Hip Hip Hurray</description>
+        <googleplay:description>Episode 108: Hip Hip Hurray</googleplay:description>
+        <content:encoded><![CDATA[<p>Episode 108: Introducing a new series, Pehli Pehel, where we look at the first works of noted filmmakers, composers or actors. We kick off this series with Hip Hip Hurray, veteran filmmaker Prakash Jha&rsquo;s debut film; with a screenplay by Gulzaar.</p>
+<p>Music: Wataboi by ItsWatr</p>
+]]></content:encoded><itunes:image href="https://khabardaarpodcast.com/img/episode/ep108.jpg"></itunes:image>
+          <googleplay:image href="https://khabardaarpodcast.com/img/episode/ep108.jpg"></googleplay:image><enclosure url="http://static.khabardaarpodcast.com/media/khabardaar-20240421-hip-hip-hurray.mp3" length="26406912" type="audio/mpeg" /><itunes:duration>0:29:09</itunes:duration><itunes:explicit>false</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit></item>
         <item>          
           
             <title>#107 Leading Ladies</title>
