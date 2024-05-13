@@ -14,7 +14,7 @@
     <atom:link href="https://khabardaarpodcast.com/episode/index.xml" rel="self" type="application/rss+xml" />
     <link>https://khabardaarpodcast.com/</link>
     <description>Khabardaar is a Hindi language podcast discussing Bollywood movies. Hosted by lifelong Bollywood fans Aparita Bhandari and Baisakhi Roy, it offers an in-depth look at the Hindi film industry.</description>
-    <lastBuildDate>Sun, 21 Apr 2024 00:00:17 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 12 May 2024 00:00:17 -0400</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>hi</language>
@@ -39,6 +39,58 @@
     </image>
     <itunes:category text="TV &amp; Film">
       </itunes:category><generator>Hugo -- gohugo.io</generator>
+        <item>          
+          
+            <title>#110 Asoka Trend</title>
+          
+          <link>https://khabardaarpodcast.com/asoka-trend/</link>
+          <pubDate>Sun, 12 May 2024 00:00:17 -0400 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>http://static.khabardaarpodcast.com/media/khabardaar-20240507-asoka-trend.mp3</guid>
+          <itunes:author>Khabardaar Podcast</itunes:author>
+          
+          <itunes:episode>110</itunes:episode>
+          
+        <itunes:title>#110 Asoka Trend</itunes:title>
+        <itunes:subtitle><![CDATA[
+        
+        Episode 110: Asoka Trend
+        
+        ]]></itunes:subtitle>
+        <itunes:summary>Episode 110: Asoka Trend</itunes:summary>
+        <description>Episode 110: Asoka Trend</description>
+        <googleplay:description>Episode 110: Asoka Trend</googleplay:description>
+        <content:encoded><![CDATA[<p>Episode 110: When the Asoka trend took over Instagram, Aparita and Baisakhi were more than a little amused. A look at this version of makeup tutorial videos flooding social media.</p>
+<p>Music: Wataboi by ItsWatr</p>
+]]></content:encoded><itunes:image href="https://khabardaarpodcast.com/img/episode/ep110.jpg"></itunes:image>
+          <googleplay:image href="https://khabardaarpodcast.com/img/episode/ep110.jpg"></googleplay:image><enclosure url="http://static.khabardaarpodcast.com/media/khabardaar-20240507-asoka-trend.mp3" length="24501602" type="audio/mpeg" /><itunes:duration>0:25:31</itunes:duration><itunes:explicit>false</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit></item>
+        <item>          
+          
+            <title>#109 All India Rank</title>
+          
+          <link>https://khabardaarpodcast.com/all-india-rank/</link>
+          <pubDate>Sun, 05 May 2024 00:00:17 -0400 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>http://static.khabardaarpodcast.com/media/khabardaar-20240507-all-india-rank.mp3</guid>
+          <itunes:author>Khabardaar Podcast</itunes:author>
+          
+          <itunes:episode>109</itunes:episode>
+          
+        <itunes:title>#109 All India Rank</itunes:title>
+        <itunes:subtitle><![CDATA[
+        
+        Episode 109: All India Rank
+        
+        ]]></itunes:subtitle>
+        <itunes:summary>Episode 109: All India Rank</itunes:summary>
+        <description>Episode 109: All India Rank</description>
+        <googleplay:description>Episode 109: All India Rank</googleplay:description>
+        <content:encoded><![CDATA[<p>Episode 109: Aparita and Baisakhi delve into some personal (high school) traumas after watching All India Rank, Varun Grover&rsquo;s directorial debut.</p>
+<p>Music: Wataboi by ItsWatr</p>
+]]></content:encoded><itunes:image href="https://khabardaarpodcast.com/img/episode/ep109.jpg"></itunes:image>
+          <googleplay:image href="https://khabardaarpodcast.com/img/episode/ep109.jpg"></googleplay:image><enclosure url="http://static.khabardaarpodcast.com/media/khabardaar-20240507-all-india-rank.mp3" length="18788518" type="audio/mpeg" /><itunes:duration>0:19:34</itunes:duration><itunes:explicit>false</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit></item>
         <item>          
           
             <title>#108 Hip Hip Hurray</title>
