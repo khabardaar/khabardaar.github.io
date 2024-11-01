@@ -40,9 +40,8 @@ google_play_subscribe = "https://podcasts.google.com/feed/aHR0cHM6Ly9raGFiYXJkYW
 #stitcher_subscribe = "http://www.stitcher.com/podcast/khabardaar-podcast-2/khabardaar-podcast"
 soundcloud_subscribe = "http://feeds.soundcloud.com/users/soundcloud:users:403881909/sounds.rss"
 #pocketcasts_subscribe = "http://pcasts.in/feed/feeds.soundcloud.com/users/soundcloud:users:203144248/sounds.rss"
-mailchimp_subscribe = "http://eepurl.com/dluLDn"
 #rss_subscribe = "http://feed.com/myfeed" #only set this if you don't want to use the built-in feed
-description = "Khabardaar is a Hindi language podcast discussing Bollywood movies. Hosted by lifelong Bollywood fans Aparita Bhandari and Baisakhi Roy, it offers an in-depth look at the Hindi film industry. [Subscribe today](http://eepurl.com/dluLDn)!"
+description = "Khabardaar is a Hindi language podcast discussing Bollywood movies. Hosted by lifelong Bollywood fans Aparita Bhandari and Baisakhi Roy, it offers an in-depth look at the Hindi film industry."
 media_prefix = "http://static.khabardaarpodcast.com/media/"
   [params.feed]
     copyright = "Copyright 2024" #do not use markdown in this field; it is used in the feed
