@@ -95,6 +95,7 @@ media_prefix = "http://static.khabardaarpodcast.com/media/"
       bio = ""
       [params.authors.Baisakhi.social]
         twitter = "baisakhiroy"
+        instagram = "baisakhir"
 
     [params.links]
       [params.links.ado]
