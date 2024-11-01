@@ -10,7 +10,7 @@
   <meta name="description" content="Khabardaar is a Hindi language podcast discussing Bollywood movies. Hosted by lifelong Bollywood fans Aparita Bhandari and Baisakhi Roy, it offers an in-depth look at the Hindi film industry. [Subscribe today](http://eepurl.com/dluLDn)!">
   
 
-<meta name="generator" content="Hugo 0.79.1" />
+<meta name="generator" content="Hugo 0.134.2">
 
 <meta property="og:title" content="Tags" />
 <meta name="twitter:title" content="Tags"/>
@@ -19,8 +19,13 @@
 <meta property="article:modified_time" content="0001-01-01T00:00:00Z" />
 <meta property="og:updated_time" content="0001-01-01T00:00:00Z" /><meta property="og:site_name" content="Khabardaar Podcast" /><meta property="og:description" content="" />
     <meta name="twitter:description" content="" />
-    <meta itemprop="description" content=""><meta name="twitter:site" content="@khabardaarpod"/>
-<meta name="twitter:creator" content="@khabardaarpod"/>
+    <meta itemprop="description" content="">
+
+  
+    <meta name="twitter:site" content="@khabardaarpod"/>
+    <meta name="twitter:creator" content="@khabardaarpod"/>
+  
+
 
 <meta property="og:type" content="website" />
 
@@ -35,6 +40,12 @@
 
 <title>Tags</title>
 <link rel="canonical" href="https://khabardaarpodcast.com/tags/">
+
+
+  
+
+
+
 
 <link rel="icon" href="icons/favicon.ico">
 
@@ -67,6 +78,7 @@
 <link href=https://khabardaarpodcast.com/css/speed.min.css rel="stylesheet">
 <link rel="alternate" type="application/rss+xml" title="Khabardaar Podcast" href="https://khabardaarpodcast.com/episode/index.xml"/>
 
+
 </head>
 
 <body lang="">
@@ -82,44 +94,58 @@
           
           
             
-                <li class= "nav-item ">
-                <a href="https://khabardaarpodcast.com/about" class="nav-link">
-                    
-                    <span>About</span>
-                </a>
-              </li>
+              
+                  <li class= "nav-item ">
+                  <a href="https://khabardaarpodcast.com/about" class="nav-link">
+                      
+                      <span>About</span>
+                  </a>
+                </li>
+              
             
-          
-            
-                <li class= "nav-item ">
-                <a href="https://khabardaarpodcast.com/host" class="nav-link">
-                    
-                    <span>Hosts</span>
-                </a>
-              </li>
+              
+                  <li class= "nav-item ">
+                  <a href="https://khabardaarpodcast.com/host" class="nav-link">
+                      
+                      <span>Hosts</span>
+                  </a>
+                </li>
+              
             
           
         </ul>
 
-
       <ul class="navbar-nav ml-auto">
         
-          <li class = "nav-item">
-            <a class = "social-links" href="https://facebook.com/khabardaarpodcast"><i class="fab fa-facebook-square fa-2x"></i></a>
+          <li class>
+            
+
+  <a class="social-links" href = "https://www.facebook.com/khabardaarpodcast"><i class="fab fa-facebook-square fa-2x"></i></a>
+
+
           </li>
         
         
           <li>
-            <a class = "social-links" href="https://twitter.com/khabardaarpod"><i class="fab fa-twitter-square fa-2x"></i></a>
+            
+
+  <a class="social-links" href = "https://twitter.com/khabardaarpod"><i class="fab fa-twitter-square fa-2x"></i></a>
+
+
           </li>
-        
         
         
         
         
           <li>
-            <a class = "social-links" href="https://www.instagram.com/khabardaarpodcast"><i class="fab fa-instagram fa-2x"></i></a>
+            
+
+  <a class="social-links" href = "https://www.instagram.com/khabardaarpodcast"><i class="fab fa-instagram fa-2x"></i></a>
+
+
           </li>
+        
+        
         
         
         
@@ -169,78 +195,67 @@
 </div>
 <script src='https://khabardaarpodcast.com/js/castanet-min.js'></script>
 <script>
-    $("#share").jsSocials({
-        shares: [
-      {
-        share: "facebook",
-        logo: "fab fa-facebook",
-      },
-      {
-        share: "twitter",           
-        label: "Tweet",             
-        logo: "fab fa-twitter",
+  $("#share").jsSocials({
+      shares: [
+    {
+      share: "facebook",
+      logo: "fab fa-facebook",
+    },
+    {
+      share: "twitter",           
+      label: "Tweet",             
+      logo: "fab fa-twitter",
+      
+      
+      
+      
+      
         
-          via: "khabardaarpod",       
+          via: "khabardaarpod", 
         
-        url: "https:\/\/khabardaarpodcast.com\/tags\/",
-        text: "Tags"
-      },
-      {
-        share: "linkedin",
-        logo: "fab fa-linkedin"
-      },
-      {
-        share: "pinterest",
-        logo: "fab fa-pinterest"
-      }
-    ],
+      
+      url: "https:\/\/khabardaarpodcast.com\/tags\/",
+      text: "Tags"
+    },
+    {
+      share: "linkedin",
+      logo: "fab fa-linkedin"
+    },
+    {
+      share: "pinterest",
+      logo: "fab fa-pinterest"
+    }
+  ],
+  });
+</script>
+
+<script>
+    $(document).ready(function() {
+
+        $('.transcript').hide();
+        $(".hide_transcript").hide();
+        $(".hide_transcript").click(function() {
+            $(".transcript").hide("fast");
+            $(".show_transcript").show();
+            $(".hide_transcript").hide();
+        });
+
+        $(".show_transcript").click(function() {
+            $(".transcript").show(500);
+            $(".hide_transcript").show();
+            $(".show_transcript").hide();
+        });
+
     });
 </script>
 
 <script>
-  $(document).ready(function() {
-
-    $('.transcript').hide();
-    $(".hide_transcript").hide();
-    $(".hide_transcript").click(function () {
-    $(".transcript").hide("fast");
-    $(".show_transcript").show();
-    $(".hide_transcript").hide();
-   });
-
-    $(".show_transcript").click(function () {
-    $(".transcript").show(500);
-    $(".hide_transcript").show();
-    $(".show_transcript").hide();
-   });
-
-  });
-
+    var player = new MediaElementPlayer('player2', {
+        features: ['playpause', 'current', 'progress', 'duration', 'volume', 'speed'],
+        defaultSpeed: 1.0,
+        
+    });
 </script>
-
-<script>
-  var player = new MediaElementPlayer('player2', {
-      features: ['playpause', 'current', 'progress', 'duration', 'volume','speed'],
-      defaultSpeed: 1.0,
-      
-  });
-</script>
-
-
-
-
-<script type="application/javascript">
-var doNotTrack = false;
-if (!doNotTrack) {
-	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
-	ga('create', 'UA-114529246-1', 'auto');
-	
-	ga('send', 'pageview');
-}
-</script>
-<script async src='https://www.google-analytics.com/analytics.js'></script>
-
-
 
 </body>
 </html>
