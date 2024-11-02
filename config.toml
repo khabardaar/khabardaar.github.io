@@ -2,6 +2,7 @@ baseURL = "https://khabardaarpodcast.com/"
 languageCode = "en-us"
 title = "Khabardaar Podcast"
 theme = "castanet"
+googleAnalytics = "UA-114529246-1"
 
 [permalinks]
 	# page = "/:filename/"
