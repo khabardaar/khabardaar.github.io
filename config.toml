@@ -2,7 +2,6 @@ baseURL = "https://khabardaarpodcast.com/"
 languageCode = "en-us"
 title = "Khabardaar Podcast"
 theme = "castanet"
-googleAnalytics = "UA-114529246-1"
 
 [permalinks]
 	# page = "/:filename/"
@@ -100,3 +99,6 @@ media_prefix = "http://static.khabardaarpodcast.com/media/"
       [params.links.ado]
         name = "Khabardaar Podcast"
         url = "https://khabardaarpodcast.com"
+
+[sevices.googleAnalytics]
+id = "UA-114529246-1"
