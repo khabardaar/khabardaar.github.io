@@ -1,374 +1,642 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://khabardaarpodcast.com/tiff-2024-malegaon/</loc>
+    <lastmod>2025-03-22T00:00:17-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://khabardaarpodcast.com/episode/</loc>
+    <lastmod>2025-03-22T00:00:17-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://khabardaarpodcast.com/</loc>
+    <lastmod>2025-03-22T00:00:17-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://khabardaarpodcast.com/tiff-2024-aseem/</loc>
+    <lastmod>2025-02-15T00:00:17-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://khabardaarpodcast.com/tiff-2024-boong/</loc>
+    <lastmod>2025-01-18T00:00:17-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://khabardaarpodcast.com/tiff-2024-wrap/</loc>
+    <lastmod>2024-11-30T00:00:17-04:00</lastmod>
+  </url>
+  
   <url>
     <loc>https://khabardaarpodcast.com/honeymoon-reema-kagti/</loc>
     <lastmod>2024-08-18T00:00:17-04:00</lastmod>
-  </url><url>
-    <loc>https://khabardaarpodcast.com/episode/</loc>
-    <lastmod>2024-08-18T00:00:17-04:00</lastmod>
-  </url><url>
-    <loc>https://khabardaarpodcast.com/</loc>
-    <lastmod>2024-08-18T00:00:17-04:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://khabardaarpodcast.com/tiff-2024-teaser/</loc>
     <lastmod>2024-08-17T00:00:17-04:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://khabardaarpodcast.com/asoka-trend/</loc>
     <lastmod>2024-05-12T00:00:17-04:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://khabardaarpodcast.com/all-india-rank/</loc>
     <lastmod>2024-05-05T00:00:17-04:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://khabardaarpodcast.com/hip-hip-hurray/</loc>
     <lastmod>2024-04-21T00:00:17-04:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://khabardaarpodcast.com/laapataa-crew/</loc>
     <lastmod>2024-04-14T00:00:17-04:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://khabardaarpodcast.com/tiff-2023-anil-kapoor/</loc>
     <lastmod>2023-12-04T00:00:17-04:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://khabardaarpodcast.com/thank-you-for-coming/</loc>
     <lastmod>2023-10-09T00:00:17-04:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://khabardaarpodcast.com/tiff-2023-critics-roundtable-with-aseem/</loc>
     <lastmod>2023-09-17T00:00:17-04:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://khabardaarpodcast.com/tiff-2023-day-4-day-5/</loc>
     <lastmod>2023-09-12T00:00:17-04:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://khabardaarpodcast.com/tiff-2023-day-kiran-rao/</loc>
     <lastmod>2023-09-10T00:00:17-04:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://khabardaarpodcast.com/tiff-2023-day-3/</loc>
     <lastmod>2023-09-09T00:00:17-04:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://khabardaarpodcast.com/tiff-2023-day-1/</loc>
     <lastmod>2023-09-07T00:00:17-04:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://khabardaarpodcast.com/tiff-2022-kapil-sharma-zwigato/</loc>
     <lastmod>2023-06-28T00:00:17-04:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://khabardaarpodcast.com/tiff-2022-vinay-shukla-ravish/</loc>
     <lastmod>2022-12-21T00:00:17-04:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://khabardaarpodcast.com/tiff-2022-critics-roundtable/</loc>
     <lastmod>2022-12-07T00:00:17-04:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://khabardaarpodcast.com/tiff-2022-part1/</loc>
     <lastmod>2022-09-13T00:00:17-04:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://khabardaarpodcast.com/liger-sports-films/</loc>
     <lastmod>2022-09-04T00:00:17-04:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://khabardaarpodcast.com/darlings/</loc>
     <lastmod>2022-08-28T00:00:17-04:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://khabardaarpodcast.com/khabardaar-reboot/</loc>
     <lastmod>2022-06-20T00:00:17-04:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://khabardaarpodcast.com/lata-mangeshkar-obit/</loc>
     <lastmod>2022-02-23T00:00:17-04:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://khabardaarpodcast.com/tiff-2021/</loc>
     <lastmod>2021-11-16T00:00:17-04:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://khabardaarpodcast.com/boxing/</loc>
     <lastmod>2021-08-05T00:00:17-04:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://khabardaarpodcast.com/haseen-dillruba/</loc>
     <lastmod>2021-07-12T00:00:17-04:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://khabardaarpodcast.com/sherni/</loc>
     <lastmod>2021-06-29T00:00:17-04:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://khabardaarpodcast.com/the-disciple/</loc>
     <lastmod>2021-06-20T00:00:17-04:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://khabardaarpodcast.com/83-world-cup/</loc>
     <lastmod>2021-03-10T00:00:17-04:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://khabardaarpodcast.com/mismatched/</loc>
     <lastmod>2021-02-16T00:00:17-04:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://khabardaarpodcast.com/ak-vs-ak/</loc>
     <lastmod>2021-01-06T00:00:17-04:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://khabardaarpodcast.com/abhay-deol/</loc>
     <lastmod>2020-12-23T00:00:17-04:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://khabardaarpodcast.com/rangeela-re/</loc>
     <lastmod>2020-12-09T00:00:17-04:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://khabardaarpodcast.com/catch-up-session/</loc>
     <lastmod>2020-11-25T00:00:17-04:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://khabardaarpodcast.com/bollywood-female-desire/</loc>
     <lastmod>2020-08-17T00:00:17-04:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://khabardaarpodcast.com/netflix-bulbbul/</loc>
     <lastmod>2020-07-29T00:00:17-04:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://khabardaarpodcast.com/gulabo-sitabo/</loc>
     <lastmod>2020-07-15T00:00:17-04:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://khabardaarpodcast.com/sushant-singh-rajput/</loc>
     <lastmod>2020-06-29T00:00:17-04:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://khabardaarpodcast.com/mindy-kaling-netflix-never-have-i-ever/</loc>
     <lastmod>2020-06-14T00:00:17-04:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://khabardaarpodcast.com/irrfan-rishi-obits/</loc>
     <lastmod>2020-05-09T00:00:17-04:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://khabardaarpodcast.com/irrfan-khan/</loc>
     <lastmod>2020-05-02T00:00:17-04:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://khabardaarpodcast.com/shubh-mangal-zyada-saavdhan/</loc>
     <lastmod>2020-04-25T00:00:17-04:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://khabardaarpodcast.com/rd-burman/</loc>
     <lastmod>2020-04-17T00:00:17-04:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://khabardaarpodcast.com/kangana-ranaut-bonus-episode/</loc>
     <lastmod>2020-03-11T00:00:17-04:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://khabardaarpodcast.com/kangana-ranaut/</loc>
     <lastmod>2020-03-04T00:00:17-04:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://khabardaarpodcast.com/chhapaak-deepika-padukone/</loc>
     <lastmod>2020-01-24T00:00:17-04:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://khabardaarpodcast.com/occupy-gateway/</loc>
     <lastmod>2020-01-11T00:00:17-04:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://khabardaarpodcast.com/nye-special/</loc>
     <lastmod>2019-12-29T00:00:17-04:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://khabardaarpodcast.com/article-15/</loc>
     <lastmod>2019-12-22T00:00:17-04:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://khabardaarpodcast.com/mausaji-memories/</loc>
     <lastmod>2019-12-15T00:00:17-04:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://khabardaarpodcast.com/tiff-2019-wrap-up/</loc>
     <lastmod>2019-10-27T00:00:17-04:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://khabardaarpodcast.com/tiff-2019-nivin-pauly-moothon/</loc>
     <lastmod>2019-10-18T00:00:17-04:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://khabardaarpodcast.com/tiff-2019-priyanka-chopra/</loc>
     <lastmod>2019-10-02T00:00:17-04:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://khabardaarpodcast.com/tiff-2019-lijo-jose-pellissery/</loc>
     <lastmod>2019-09-25T00:00:17-04:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://khabardaarpodcast.com/tiff-2019-critics-roundtable/</loc>
     <lastmod>2019-09-18T00:00:17-04:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://khabardaarpodcast.com/tiff-2019-teaser/</loc>
     <lastmod>2019-09-11T00:00:17-04:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://khabardaarpodcast.com/vidya-sinha/</loc>
     <lastmod>2019-09-03T00:00:17-04:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://khabardaarpodcast.com/kashmir/</loc>
     <lastmod>2019-08-26T00:00:17-04:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://khabardaarpodcast.com/jabariya-jodi/</loc>
     <lastmod>2019-08-21T00:00:17-04:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://khabardaarpodcast.com/soni/</loc>
     <lastmod>2019-07-31T00:00:17-04:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://khabardaarpodcast.com/leila/</loc>
     <lastmod>2019-07-17T00:00:17-04:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://khabardaarpodcast.com/kabir-singh/</loc>
     <lastmod>2019-07-03T00:00:17-04:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://khabardaarpodcast.com/luka-chuppi/</loc>
     <lastmod>2019-06-23T00:00:17-04:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://khabardaarpodcast.com/girish-karnad-obit/</loc>
     <lastmod>2019-06-17T00:00:17-04:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://khabardaarpodcast.com/photograph-corollary/</loc>
     <lastmod>2019-06-09T00:00:17-04:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://khabardaarpodcast.com/photograph/</loc>
     <lastmod>2019-05-29T00:00:17-04:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://khabardaarpodcast.com/bhonsle-iffsa-toronto/</loc>
     <lastmod>2019-05-13T00:00:17-04:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://khabardaarpodcast.com/kalank/</loc>
     <lastmod>2019-05-05T00:00:17-04:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://khabardaarpodcast.com/super-deluxe/</loc>
     <lastmod>2019-04-26T00:00:17-04:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://khabardaarpodcast.com/party/</loc>
     <lastmod>2019-04-19T00:00:17-04:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://khabardaarpodcast.com/mard-ko-dard-nahi-hota/</loc>
     <lastmod>2019-03-22T00:00:17-04:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://khabardaarpodcast.com/made-in-heaven/</loc>
     <lastmod>2019-03-13T00:00:17-04:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://khabardaarpodcast.com/gully-boy/</loc>
     <lastmod>2019-02-26T00:00:17-04:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://khabardaarpodcast.com/ek-ladki-ko-dekha-toh-asia-laga/</loc>
     <lastmod>2019-02-12T00:00:17-04:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://khabardaarpodcast.com/arjun-reddy/</loc>
     <lastmod>2019-02-05T00:00:17-04:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://khabardaarpodcast.com/uri/</loc>
     <lastmod>2019-01-28T00:00:17-04:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://khabardaarpodcast.com/manikarnika/</loc>
     <lastmod>2019-01-23T00:00:17-04:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://khabardaarpodcast.com/simbaa/</loc>
     <lastmod>2019-01-14T00:00:17-04:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://khabardaarpodcast.com/zero/</loc>
     <lastmod>2019-01-07T00:00:17-04:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://khabardaarpodcast.com/vivek/</loc>
     <lastmod>2018-12-24T00:00:17-04:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://khabardaarpodcast.com/stree/</loc>
     <lastmod>2018-12-17T00:00:17-04:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://khabardaarpodcast.com/badhaai-ho/</loc>
     <lastmod>2018-12-10T00:00:17-04:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://khabardaarpodcast.com/andhadhun/</loc>
     <lastmod>2018-12-03T00:00:17-04:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://khabardaarpodcast.com/bollywood-romcom/</loc>
     <lastmod>2018-11-25T00:00:17-04:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://khabardaarpodcast.com/bollywood-metoo-janice/</loc>
     <lastmod>2018-11-04T00:00:17-04:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://khabardaarpodcast.com/tiff-2018-manto/</loc>
     <lastmod>2018-10-07T00:00:17-04:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://khabardaarpodcast.com/tiff-2018-mard-ko-dard/</loc>
     <lastmod>2018-09-26T00:00:17-04:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://khabardaarpodcast.com/tiff-2018-roundtable/</loc>
     <lastmod>2018-09-19T00:00:17-04:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://khabardaarpodcast.com/tiff-2018-teaser/</loc>
     <lastmod>2018-09-11T00:00:17-04:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://khabardaarpodcast.com/bhavesh-joshi/</loc>
     <lastmod>2018-09-05T00:00:17-04:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://khabardaarpodcast.com/karwaan/</loc>
     <lastmod>2018-08-24T00:00:17-04:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://khabardaarpodcast.com/dhadak/</loc>
     <lastmod>2018-08-16T00:00:17-04:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://khabardaarpodcast.com/varun-grover/</loc>
     <lastmod>2018-08-10T00:00:17-04:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://khabardaarpodcast.com/sacred-games/</loc>
     <lastmod>2018-08-01T00:00:17-04:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://khabardaarpodcast.com/neeraj/</loc>
     <lastmod>2018-07-27T00:00:17-04:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://khabardaarpodcast.com/shubhra-aseem/</loc>
     <lastmod>2018-07-18T00:00:17-04:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://khabardaarpodcast.com/sanjay-dutt/</loc>
     <lastmod>2018-07-11T04:10:07-05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://khabardaarpodcast.com/sanju/</loc>
     <lastmod>2018-07-04T04:10:07-05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://khabardaarpodcast.com/lust-stories/</loc>
     <lastmod>2018-06-27T04:10:07-05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://khabardaarpodcast.com/veere-di-wedding/</loc>
     <lastmod>2018-06-20T04:10:07-05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://khabardaarpodcast.com/7din/</loc>
     <lastmod>2018-06-13T04:10:07-05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://khabardaarpodcast.com/raazi/</loc>
     <lastmod>2018-05-23T04:10:07-05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://khabardaarpodcast.com/sktks/</loc>
     <lastmod>2018-05-16T04:10:07-05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://khabardaarpodcast.com/punchnama/</loc>
     <lastmod>2018-05-09T04:10:07-05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://khabardaarpodcast.com/shakespearewallah/</loc>
     <lastmod>2018-05-02T04:10:07-05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://khabardaarpodcast.com/october/</loc>
     <lastmod>2018-04-25T04:10:07-05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://khabardaarpodcast.com/cake/</loc>
     <lastmod>2018-04-18T04:10:07-05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://khabardaarpodcast.com/blackmail/</loc>
     <lastmod>2018-04-11T04:10:07-05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://khabardaarpodcast.com/farooq/</loc>
     <lastmod>2018-04-04T04:10:07-05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://khabardaarpodcast.com/hichki/</loc>
     <lastmod>2018-03-28T04:10:07-05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://khabardaarpodcast.com/pyaasa/</loc>
     <lastmod>2018-03-21T04:10:07-05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://khabardaarpodcast.com/host/broy/</loc>
     <lastmod>2018-03-14T23:44:46-04:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://khabardaarpodcast.com/host/abhandari/</loc>
     <lastmod>2018-03-14T23:41:00-04:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://khabardaarpodcast.com/pari/</loc>
     <lastmod>2018-03-14T04:10:07-05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://khabardaarpodcast.com/sridevi-tribute/</loc>
     <lastmod>2018-03-07T04:10:07-05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://khabardaarpodcast.com/aiyyary/</loc>
     <lastmod>2018-02-28T04:10:07-05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://khabardaarpodcast.com/padman/</loc>
     <lastmod>2018-02-20T04:10:07-05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://khabardaarpodcast.com/teaser/</loc>
     <lastmod>2018-02-19T04:10:04-05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://khabardaarpodcast.com/about/</loc>
     <lastmod>2016-09-25T02:11:48-05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://khabardaarpodcast.com/about/</loc>
     <lastmod>2016-09-25T02:11:48-05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://khabardaarpodcast.com/host/</loc>
     <lastmod>2016-09-25T02:11:48-05:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://khabardaarpodcast.com/soorma-gold-hockey/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://khabardaarpodcast.com/categories/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://khabardaarpodcast.com/tags/</loc>
   </url>
+  
 </urlset>
