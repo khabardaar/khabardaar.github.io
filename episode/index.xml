@@ -14,7 +14,7 @@
     <atom:link href="https://khabardaarpodcast.com/episode/index.xml" rel="self" type="application/rss+xml" />
     <link>https://khabardaarpodcast.com/</link>
     <description>Khabardaar is a Hindi language podcast discussing Bollywood movies. Hosted by lifelong Bollywood fans Aparita Bhandari and Baisakhi Roy, it offers an in-depth look at the Hindi film industry.</description>
-    <lastBuildDate>Sat, 22 Mar 2025 00:00:17 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 29 Mar 2025 00:00:17 -0400</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>hi</language>
@@ -39,6 +39,36 @@
     </image>
     <itunes:category text="TV &amp; Film">
       </itunes:category><generator>Hugo -- gohugo.io</generator>
+        <item>
+          
+            <title>#117 TIFF 2024 Santosh
+          
+          
+          </title>
+          <link>https://khabardaarpodcast.com/tiff-2024-santosh/</link>
+          <pubDate>Sat, 29 Mar 2025 00:00:17 -0400 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>http://static.khabardaarpodcast.com/media/khabardaar-20250329-tiff2024-santosh.mp3</guid>
+          <itunes:author>Khabardaar Podcast</itunes:author>
+          
+          <itunes:episode>117</itunes:episode>
+          
+        
+          <itunes:title>#117 TIFF 2024 Santosh</itunes:title>
+        
+        <itunes:subtitle><![CDATA[
+        
+        Episode 117: TIFF 2024 Santosh
+        
+        ]]></itunes:subtitle>
+        <itunes:summary>Episode 117: TIFF 2024 Santosh</itunes:summary>
+        <description>Episode 117: TIFF 2024 Santosh</description>
+        <googleplay:description>Episode 117: TIFF 2024 Santosh</googleplay:description>
+        <content:encoded><![CDATA[<p>Episode 117: Sandhya Suri&rsquo;s debut film Santosh, which screened at TIFF 2024, is now releasing in theatres around the world to critical acclaim. However, the film is facing significant censor board cuts in India, where it has yet to be released. Aparita and Baisakhi discuss their reactions to the film, and why they think this film is worth watching.</p>
+<p>Music: Wataboi by ItsWatr</p>
+]]></content:encoded><itunes:image href="https://khabardaarpodcast.com/img/episode/ep117.jpg"></itunes:image>
+          <googleplay:image href="https://khabardaarpodcast.com/img/episode/ep117.jpg"></googleplay:image><enclosure url="http://static.khabardaarpodcast.com/media/khabardaar-20250329-tiff2024-santosh.mp3" length="27803648" type="audio/mpeg" /><itunes:duration>0:28:57</itunes:duration><itunes:explicit>false</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit></item>
         <item>
           
             <title>#116 TIFF 2024 Malegaon
