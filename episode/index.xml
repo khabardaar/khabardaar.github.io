@@ -14,7 +14,7 @@
     <atom:link href="https://khabardaarpodcast.com/episode/index.xml" rel="self" type="application/rss+xml" />
     <link>https://khabardaarpodcast.com/</link>
     <description>Khabardaar is a Hindi language podcast discussing Bollywood movies. Hosted by lifelong Bollywood fans Aparita Bhandari and Baisakhi Roy, it offers an in-depth look at the Hindi film industry.</description>
-    <lastBuildDate>Sat, 29 Mar 2025 00:00:17 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 6 Apr 2025 00:00:17 -0400</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>hi</language>
@@ -39,6 +39,36 @@
     </image>
     <itunes:category text="TV &amp; Film">
       </itunes:category><generator>Hugo -- gohugo.io</generator>
+        <item>
+          
+            <title>#118 Daddy
+          
+          
+          </title>
+          <link>https://khabardaarpodcast.com/daddy/</link>
+          <pubDate>Sun, 06 Apr 2025 00:00:17 -0400 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>http://static.khabardaarpodcast.com/media/khabardaar-20250405-daddy.mp3</guid>
+          <itunes:author>Khabardaar Podcast</itunes:author>
+          
+          <itunes:episode>118</itunes:episode>
+          
+        
+          <itunes:title>#118 Daddy</itunes:title>
+        
+        <itunes:subtitle><![CDATA[
+        
+        Episode 118: Daddy
+        
+        ]]></itunes:subtitle>
+        <itunes:summary>Episode 118: Daddy</itunes:summary>
+        <description>Episode 118: Daddy</description>
+        <googleplay:description>Episode 118: Daddy</googleplay:description>
+        <content:encoded><![CDATA[<p>Episode 118: Ashim Ahluwalia&rsquo;s biopic on Mumbai&rsquo;s famed gangster-turned-politician Arun Gawli features Arjun Rampal as the main character. Set in the 80&rsquo;s, the film depicts the period and its politics with gritty realism. Aparita and Baisakhi talk about the central role played by Canadian cinematographer Jessica Lee Gagne in visualizing Daddy, and where else you may have seen her work.</p>
+<p>Music: Wataboi by ItsWatr</p>
+]]></content:encoded><itunes:image href="https://khabardaarpodcast.com/img/episode/ep118.jpg"></itunes:image>
+          <googleplay:image href="https://khabardaarpodcast.com/img/episode/ep118.jpg"></googleplay:image><enclosure url="http://static.khabardaarpodcast.com/media/khabardaar-20250405-daddy.mp3" length="348200968" type="audio/mpeg" /><itunes:duration>0:36:15</itunes:duration><itunes:explicit>false</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit></item>
         <item>
           
             <title>#117 TIFF 2024 Santosh
