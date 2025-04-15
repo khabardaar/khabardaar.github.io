@@ -14,7 +14,7 @@
     <atom:link href="https://khabardaarpodcast.com/episode/index.xml" rel="self" type="application/rss+xml" />
     <link>https://khabardaarpodcast.com/</link>
     <description>Khabardaar is a Hindi language podcast discussing Bollywood movies. Hosted by lifelong Bollywood fans Aparita Bhandari and Baisakhi Roy, it offers an in-depth look at the Hindi film industry.</description>
-    <lastBuildDate>Sun, 6 Apr 2025 00:00:17 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 13 Apr 2025 00:00:17 -0400</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>hi</language>
@@ -39,6 +39,38 @@
     </image>
     <itunes:category text="TV &amp; Film">
       </itunes:category><generator>Hugo -- gohugo.io</generator>
+        <item>
+          
+            <title>#119 a Nice Indian Boy
+          
+          
+          </title>
+          <link>https://khabardaarpodcast.com/anib/</link>
+          <pubDate>Sun, 13 Apr 2025 00:00:17 -0400 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>http://static.khabardaarpodcast.com/media/khabardaar-20250413-ANIB.mp3</guid>
+          <itunes:author>Khabardaar Podcast</itunes:author>
+          
+          <itunes:episode>118</itunes:episode>
+          
+        
+          <itunes:title>#119 a Nice Indian Boy</itunes:title>
+        
+        <itunes:subtitle><![CDATA[
+        
+        Episode 119: A Nice Indian Boy
+        
+        ]]></itunes:subtitle>
+        <itunes:summary>Episode 119: A Nice Indian Boy</itunes:summary>
+        <description>Episode 119: A Nice Indian Boy</description>
+        <googleplay:description>Episode 119: A Nice Indian Boy</googleplay:description>
+        <content:encoded><![CDATA[<p>Episode 119: Directed by Roshan Sethi, A Nice Indian Boy stars Karan Soni as Naveen Gavaskar, an Indian-American doctor looking for love. When he meets Jay Kurundkar (Jonathan Groff), he&rsquo;s hesitant to introduce him to his parents Megha (Zarna Garg) and Archit (Harsh Patel). Then there&rsquo;s also his supposedly perfect sister Arundhati (Sunita Mani).</p>
+<p>A Nice Indian Boy tries to tell a complicated story in a traditional romcom format. While Baisakhi found it funny in parts, Aparita appreciated a fresh take on representing South Asian identity.</p>
+<p>Also check out <a href="https://www.talkhouse.com/as-a-doctor-and-screenwriter-i-found-purpose-with-my-new-film-i-am-finally-myself/">Roshan Sethi&rsquo;s essay</a> in finding purpose through writing, while also working full-time as a doctor.</p>
+<p>Music: Wataboi by ItsWatr</p>
+]]></content:encoded><itunes:image href="https://khabardaarpodcast.com/img/episode/ep119.jpg"></itunes:image>
+          <googleplay:image href="https://khabardaarpodcast.com/img/episode/ep119.jpg"></googleplay:image><enclosure url="http://static.khabardaarpodcast.com/media/khabardaar-20250413-ANIB.mp3" length="34177024" type="audio/mpeg" /><itunes:duration>0:35:35</itunes:duration><itunes:explicit>false</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit></item>
         <item>
           
             <title>#118 Daddy
