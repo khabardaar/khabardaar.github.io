@@ -14,7 +14,7 @@
     <atom:link href="https://khabardaarpodcast.com/episode/index.xml" rel="self" type="application/rss+xml" />
     <link>https://khabardaarpodcast.com/</link>
     <description>Khabardaar is a Hindi language podcast discussing Bollywood movies. Hosted by lifelong Bollywood fans Aparita Bhandari and Baisakhi Roy, it offers an in-depth look at the Hindi film industry.</description>
-    <lastBuildDate>Sun, 13 Apr 2025 00:00:17 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 4 May 2025 00:00:17 -0400</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>hi</language>
@@ -39,6 +39,37 @@
     </image>
     <itunes:category text="TV &amp; Film">
       </itunes:category><generator>Hugo -- gohugo.io</generator>
+        <item>
+          
+            <title>#120 TIFF: Deepa Mehta
+          
+          
+          </title>
+          <link>https://khabardaarpodcast.com/deepa-mehta/</link>
+          <pubDate>Sun, 04 May 2025 00:00:17 -0400 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>http://static.khabardaarpodcast.com/media/khabardaar-20250504-deepa-mehta.mp3</guid>
+          <itunes:author>Khabardaar Podcast</itunes:author>
+          
+          <itunes:episode>120</itunes:episode>
+          
+        
+          <itunes:title>#120 TIFF: Deepa Mehta</itunes:title>
+        
+        <itunes:subtitle><![CDATA[
+        
+        Episode 120: TIFF: Deepa Mehta
+        
+        ]]></itunes:subtitle>
+        <itunes:summary>Episode 120: TIFF: Deepa Mehta</itunes:summary>
+        <description>Episode 120: TIFF: Deepa Mehta</description>
+        <googleplay:description>Episode 120: TIFF: Deepa Mehta</googleplay:description>
+        <content:encoded><![CDATA[<p>Episode 120: As part of its 50 year celebrations, TIFF recently presented a retrospective of iconic Canadian filmmaker Deepa Mehta&rsquo;s films. The retrospective included some of her earlier works such as Sam &amp; Me, the Elemental trilogy Fire, Earth and Water, as well as recent works such as Midnight&rsquo;s Children.</p>
+<p>The event gave Baisakhi and Aparita an opportunity to revisit some of Mehta&rsquo;s earlier works, remember their first impressions of both the filmmaker and her craft, and ruminate on how they now approach Mehta&rsquo;s films in hindsight.</p>
+<p>Music: Wataboi by ItsWatr</p>
+]]></content:encoded><itunes:image href="https://khabardaarpodcast.com/img/episode/ep120.jpg"></itunes:image>
+          <googleplay:image href="https://khabardaarpodcast.com/img/episode/ep120.jpg"></googleplay:image><enclosure url="http://static.khabardaarpodcast.com/media/khabardaar-20250504-deepa-mehta.mp3" length="31711816" type="audio/mpeg" /><itunes:duration>0:33:01</itunes:duration><itunes:explicit>false</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit></item>
         <item>
           
             <title>#119 a Nice Indian Boy
