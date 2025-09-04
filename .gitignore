@@ -4,6 +4,7 @@
 ### Hugo ###
 hugo.exe
 /public/
+.hugo_build.lock
 ### OSX ###
 *.DS_Store
 .AppleDouble
