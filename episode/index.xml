@@ -14,7 +14,7 @@
     <atom:link href="https://khabardaarpodcast.com/episode/index.xml" rel="self" type="application/rss+xml" />
     <link>https://khabardaarpodcast.com/</link>
     <description>Khabardaar is a Hindi language podcast discussing Bollywood movies. Hosted by lifelong Bollywood fans Aparita Bhandari and Baisakhi Roy, it offers an in-depth look at the Hindi film industry.</description>
-    <lastBuildDate>Sun, 4 May 2025 00:00:17 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 2 Sep 2025 00:00:17 -0400</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>hi</language>
@@ -39,6 +39,66 @@
     </image>
     <itunes:category text="TV &amp; Film">
       </itunes:category><generator>Hugo -- gohugo.io</generator>
+        <item>
+          
+            <title>#122 TIFF 2025 Teaser
+          
+          
+          </title>
+          <link>https://khabardaarpodcast.com/tiff-2025-teaser/</link>
+          <pubDate>Tue, 02 Sep 2025 00:00:17 -0400 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>http://static.khabardaarpodcast.com/media/khabardaar-20250902-tiff-2025.mp3</guid>
+          <itunes:author>Khabardaar Podcast</itunes:author>
+          
+          <itunes:episode>122</itunes:episode>
+          
+        
+          <itunes:title>#122 TIFF 2025 Teaser</itunes:title>
+        
+        <itunes:subtitle><![CDATA[
+        
+        Episode 122: TIFF 2025 Teaser
+        
+        ]]></itunes:subtitle>
+        <itunes:summary>Episode 122: TIFF 2025 Teaser</itunes:summary>
+        <description>Episode 122: TIFF 2025 Teaser</description>
+        <googleplay:description>Episode 122: TIFF 2025 Teaser</googleplay:description>
+        <content:encoded><![CDATA[<p>Episode 122 It&rsquo;s that time of the year again. When Baisakhi and Aparita submerge themselves in the filmi world at Toronto International Film Festival. A quick look at films we hope to see in 2024.</p>
+<p>Music: Wataboi by ItsWatr</p>
+]]></content:encoded><itunes:image href="https://khabardaarpodcast.com/img/episode/ep111.jpg"></itunes:image>
+          <googleplay:image href="https://khabardaarpodcast.com/img/episode/ep111.jpg"></googleplay:image><enclosure url="http://static.khabardaarpodcast.com/media/khabardaar-20250902-tiff-2025.mp3" length="29110438" type="audio/mpeg" /><itunes:duration>0:30:19</itunes:duration><itunes:explicit>false</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit></item>
+        <item>
+          
+            <title>#121 Nadaaniyan
+          
+          
+          </title>
+          <link>https://khabardaarpodcast.com/naadaaniyaan/</link>
+          <pubDate>Mon, 14 Jul 2025 00:00:17 -0400 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>http://static.khabardaarpodcast.com/media/khabardaar-20250714_naadaaniyaan.mp3</guid>
+          <itunes:author>Khabardaar Podcast</itunes:author>
+          
+          <itunes:episode>121</itunes:episode>
+          
+        
+          <itunes:title>#121 Nadaaniyan</itunes:title>
+        
+        <itunes:subtitle><![CDATA[
+        
+        Episode 121: Nadaaniyan
+        
+        ]]></itunes:subtitle>
+        <itunes:summary>Episode 121: Nadaaniyan</itunes:summary>
+        <description>Episode 121: Nadaaniyan</description>
+        <googleplay:description>Episode 121: Nadaaniyan</googleplay:description>
+        <content:encoded><![CDATA[<p>Episode 121 Aparita and Baisakhi discuss Naadaaniyaan, Karan Johar&rsquo;s latest film starring Khushi Kapoor and Ibrahim Ali Khan.</p>
+<p>Music: Wataboi by ItsWatr</p>
+]]></content:encoded><itunes:image href="https://khabardaarpodcast.com/img/episode/ep121.jpg"></itunes:image>
+          <googleplay:image href="https://khabardaarpodcast.com/img/episode/ep121.jpg"></googleplay:image><enclosure url="http://static.khabardaarpodcast.com/media/khabardaar-20250714_naadaaniyaan.mp3" length="32681063" type="audio/mpeg" /><itunes:duration>0:34:02</itunes:duration><itunes:explicit>false</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit></item>
         <item>
           
             <title>#120 TIFF: Deepa Mehta
