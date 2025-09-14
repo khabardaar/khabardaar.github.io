@@ -1,3 +1,5 @@
++++
+Description = "Episode 26: A look at hockey as depicted in recent Bollywood films such as Soorma and Gold, which also reminded audiences of the 2007 Shah Rukh Khan starrer Chak De India."
 aliases = ["/26"]
 author = "Aparita"
 categories = []
