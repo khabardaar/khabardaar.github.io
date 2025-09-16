@@ -16,6 +16,6 @@ tags = []
 title = "#122 TIFF 2025 Teaser"
 +++
 
-Episode 122 It's that time of the year again. When Baisakhi and Aparita submerge themselves in the filmi world at Toronto International Film Festival. A quick look at films we hope to see in 2024.
+Episode 122 It's that time of the year again. When Baisakhi and Aparita submerge themselves in the filmi world at Toronto International Film Festival. A quick look at films we hope to see in 2025.
 
 Music: Wataboi by ItsWatr
