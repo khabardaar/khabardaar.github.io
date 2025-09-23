@@ -1,5 +1,5 @@
 +++
-Description = "Episode 124: TIFF 2025 Ghandi"
+Description = "Episode 124: TIFF 2025 Gandhi"
 aliases = ["/124"]
 author = "Aparita"
 categories = []
