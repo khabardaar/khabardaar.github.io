@@ -41,7 +41,7 @@ soundcloud_subscribe = "http://feeds.soundcloud.com/users/soundcloud:users:40388
 #pocketcasts_subscribe = "http://pcasts.in/feed/feeds.soundcloud.com/users/soundcloud:users:203144248/sounds.rss"
 #rss_subscribe = "http://feed.com/myfeed" #only set this if you don't want to use the built-in feed
 description = "Khabardaar is a Hindi language podcast discussing Bollywood movies. Hosted by lifelong Bollywood fans Aparita Bhandari and Baisakhi Roy, it offers an in-depth look at the Hindi film industry."
-media_prefix = "http://static.khabardaarpodcast.com/media/"
+media_prefix = "https://khabardaar.hel1.your-objectstorage.com/"
   [params.feed]
     copyright = "Copyright 2025" #do not use markdown in this field; it is used in the feed
     itunes_subtitle = "Your Bollywood fix" #no markdown or HTML
