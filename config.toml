@@ -1,4 +1,4 @@
-baseURL = "https://khabardaarpodcast.com/"
+baseURL = "https://khabardaar.com/"
 languageCode = "en-us"
 title = "Khabardaar Podcast"
 theme = "castanet"
@@ -49,7 +49,7 @@ media_prefix = "https://khabardaar.hel1.your-objectstorage.com/"
     itunes_summary = "Khabardaar is a Hindi language podcast discussing Bollywood movies. Hosted by lifelong Bollywood fans Aparita Bhandari and Baisakhi Roy, it offers an in-depth look at the Hindi film industry." # Limited to 4000 characters or less, plain text, no HTML
     itunes_owner_name = "Khabardaar Podcast"
     itunes_owner_email = "writeme@aparita.com" #contains the e-mail address that will be used to contact the owner of the Podcast for communication specifically about their Podcast on Apple Podcasts. It will not be publicly displayed on Apple Podcasts.
-    itunes_image = "https://khabardaarpodcast.com/img/kplogoitunes.png" #fqdn to the image art for your podcast
+    itunes_image = "https://khabardaar.com/img/kplogoitunes.png" #fqdn to the image art for your podcast
     itunes_top_category = "TV & Film"
     itunes_first_sub_category = ""
     itunes_second_sub_category = ""
@@ -66,7 +66,7 @@ media_prefix = "https://khabardaar.hel1.your-objectstorage.com/"
     facebook = "khabardaarpodcast"
     facebook_admin = ["aparita"]  # This needs to be a page admin to get domain insights
     twitter = "khabardaarpod"
-    #twitter_domain = "khabardaarpodcast.com" # This domain shows in twitter cards as "View on `twitter_domain`"
+    #twitter_domain = "khabardaar.com" # This domain shows in twitter cards as "View on `twitter_domain`"
     #googleplus = "KhabardaarPodcast"
     #pinterest = "nozzleio"
     instagram = "khabardaarpodcast"
@@ -98,7 +98,7 @@ media_prefix = "https://khabardaar.hel1.your-objectstorage.com/"
     [params.links]
       [params.links.ado]
         name = "Khabardaar Podcast"
-        url = "https://khabardaarpodcast.com"
+        url = "https://khabardaar.com"
 
 [sevices.googleAnalytics]
 id = "UA-114529246-1"
