@@ -2,6 +2,7 @@ baseURL = "https://khabardaar.com/"
 languageCode = "en-us"
 title = "Khabardaar Podcast"
 theme = "castanet"
+pagination.pagerSize = "9"
 
 [permalinks]
 	# page = "/:filename/"
