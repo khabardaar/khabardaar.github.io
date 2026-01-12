@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Abouts on Khabardaar Podcast</title>
-    <link>https://khabardaarpodcast.com/about/</link>
+    <link>https://khabardaar.com/about/</link>
     <description>Recent content in Abouts on Khabardaar Podcast</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 25 Sep 2016 02:11:48 -0500</lastBuildDate>
-    <atom:link href="https://khabardaarpodcast.com/about/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://khabardaar.com/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>about</title>
-      <link>https://khabardaarpodcast.com/about/</link>
+      <link>https://khabardaar.com/about/</link>
       <pubDate>Sun, 25 Sep 2016 02:11:48 -0500</pubDate>
-      <guid>https://khabardaarpodcast.com/about/</guid>
+      <guid>https://khabardaar.com/about/</guid>
       <description>&lt;p&gt;Khabardaar Podcast is a Hindi language show presented by Aparita Bhandari and Baisakhi Roy, two Toronto-based arts/life journalists. Lifelong Bollywood fans, Aparita and Baisakhi talk about what’s going on in the Hindi film industry, and discuss themes explored to Bollywood films. Subscribe for your fix!&lt;/p&gt;</description>
     </item>
   </channel>
