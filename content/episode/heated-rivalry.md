@@ -1,22 +1,21 @@
 +++
-Description = "Episode 132: Heated Rivalry"
-aliases = ["/132"]
+Description = "Episode 133: Heeated Rivalry: India Edit"
+aliases = ["/133"]
 author = "Aparita"
 categories = []
-date = "2026-01-18T00:00:17-04:00"
-episode = "132"
-episode_image = "img/episode/ep132.jpg"
+date = "2026-02-19T00:00:17-04:00"
+episode = "133"
+episode_image = "img/episode/ep133.jpg"
 explicit = "no"
-images = ["img/episode/ep132.jpg"]
+images = ["img/episode/ep133.jpg"]
 news_keywords = []
-podcast_duration = "0:38:16"
-podcast_file = "khabardaar-20260117-heated-rivalry.mp3"
-podcast_bytes = "36749312"
+podcast_duration = "0:48:50"
+podcast_file = "khabardaar-20260219-heated-rivalry-india.mp3"
+podcast_bytes = "46691008"
 tags = []
-title = "#132 Heated Rivalry"
+title = "#133 Heated Rivalry: India Edit"
 +++
 
-Canadian series [Heated Rivalry](https://www.youtube.com/watch?v=lKO26odltss) has taken the world by storm. While Baisakhi has been immune to all the spicy conversations about the show centering on two ice hockey rivals, Aparita got curious about why fans are so steamed up. In this episode, Aparita tells Baisakhi about a quintessentially Canadian story -- and they discuss whether it could translate to an Indian medium.
-
+Heated Rivalry has become a global phenomenon. Aparita found some fans in India, who had watched the show before its debut on an Indian streaming platform by Lionsgate. She spoke to Trupti Marolia, aka The Culinary Expert and Jinal Bhatt, who goes by Imagination Junkie.
 
 Music: Wataboi by ItsWatr
