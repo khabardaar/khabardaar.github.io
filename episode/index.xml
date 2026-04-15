@@ -14,7 +14,7 @@
     <atom:link href="https://khabardaar.com/episode/index.xml" rel="self" type="application/rss+xml" />
     <link>https://khabardaar.com/</link>
     <description>Khabardaar is a Hindi language podcast discussing Bollywood movies. Hosted by lifelong Bollywood fans Aparita Bhandari and Baisakhi Roy, it offers an in-depth look at the Hindi film industry.</description>
-    <lastBuildDate>Thu, 19 Feb 2026 00:00:17 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 04:10:07 -0500</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>hi</language>
@@ -39,6 +39,37 @@
     </image>
     <itunes:category text="TV &amp; Film">
       </itunes:category><generator>Hugo -- gohugo.io</generator>
+        <item>
+          
+            <title>#134 TIFF: Hamlet
+          
+          
+          </title>
+          <link>https://khabardaar.com/tiff-2025-hamlet/</link>
+          <pubDate>Tue, 14 Apr 2026 04:10:07 -0500 </pubDate>
+          <dc:creator></dc:creator>
+          <guid>https://khabardaar.hel1.your-objectstorage.com/khabardaar-20260414-hamlet.mp3</guid>
+          <itunes:author>Khabardaar Podcast</itunes:author>
+          
+          <itunes:episode>134</itunes:episode>
+          
+        
+          <itunes:title>#134 TIFF: Hamlet</itunes:title>
+        
+        <itunes:subtitle><![CDATA[
+        
+        Episode 134: TIFF: Hamlet
+        
+        ]]></itunes:subtitle>
+        <itunes:summary>Episode 134: TIFF: Hamlet</itunes:summary>
+        <description>Episode 134: TIFF: Hamlet</description>
+        <googleplay:description>Episode 134: TIFF: Hamlet</googleplay:description>
+        <content:encoded><![CDATA[<p>One of Shakespeare&rsquo;s most famous plays, <a href="https://www.youtube.com/watch?v=TXTA2CUWmsE">Hamlet</a>, finds a new setting in London within a South Asian real estate mogul household. Directed by Aneil Karia and starring Riz Ahmed, Sheeba Chaddha and Art Malik, the film keeps Shakespeare&rsquo;s language but shortens the play significantly to keep the focus mainly on Ahmed&rsquo;s turn as the melancholic son seeking revenge for his father&rsquo;s death.</p>
+<p>Aparita speaks with Aseem Chhabra, noted critic and film festival programmer, about the film that they both watched at TIFF 2025.</p>
+<p>Music: Bollywood Blades by Professor Kliq/ Material Breakthrough by Peritune</p>
+]]></content:encoded><itunes:image href="https://khabardaar.com/img/episode/ep134.jpg"></itunes:image>
+          <googleplay:image href="https://khabardaar.com/img/episode/ep134.jpg"></googleplay:image><enclosure url="https://khabardaar.hel1.your-objectstorage.com/khabardaar-20260414-hamlet.mp3"  type="audio/mpeg" /><itunes:duration>0:29:37</itunes:duration><itunes:explicit>false</itunes:explicit>
+          <googleplay:explicit>no</googleplay:explicit></item>
         <item>
           
             <title>#133 Heated Rivalry: India Edit
