@@ -1,13 +1,17 @@
 baseURL = "https://khabardaar.com/"
-languageCode = "en-us"
 title = "Khabardaar Podcast"
 theme = "castanet"
 pagination.pagerSize = "9"
 
+[languages]
+  [languages.en]
+    label = 'English'
+    locale = 'en-US'
+
 [permalinks]
-	# page = "/:filename/"
-	about = "/:filename/"
-	episode = "/:filename/"
+	# page = "/:contentbasename/"
+	about = "/:contentbasename/"
+	episode = "/:contentbasename/"
 
 
 # The theme supports menus with up to one submenu per menu item
