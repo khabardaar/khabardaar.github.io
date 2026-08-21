@@ -1,19 +1,19 @@
 +++
-Description = "Episode 134: TIFF: Hamlet"
-aliases = ["/134"]
+Description = "Episode 133: TIFF: Hamlet"
+aliases = ["/133"]
 author = "Aparita"
 categories = []
 date = "2026-04-14T04:10:07-05:00"
-episode = "134"
-episode_image = "img/episode/ep134.jpg"
+episode = "133"
+episode_image = "img/episode/ep133.jpg"
 explicit = "no"
-images = ["img/episode/ep134.jpg"]
+images = ["img/episode/ep133.jpg"]
 news_keywords = []
 podcast_duration = "0:29:37"
 podcast_file = "khabardaar-20260414-hamlet.mp3"
 podcast_bytes = ""
 tags = []
-title = "#134 TIFF: Hamlet"
+title = "#133 TIFF: Hamlet"
 youtube = ""
 
 +++
