@@ -1,5 +1,5 @@
 +++
-Description = "Episode 135: TIFF: Critics Takes"
+Description = "Episode 135: TIFF 2026: Critics' Takes"
 aliases = ["/135"]
 author = "Aparita"
 categories = []
@@ -13,7 +13,7 @@ podcast_duration = "0:45:36"
 podcast_file = "khabardaar-20260918-tiff-2026-critics.mp3"
 podcast_bytes = "43786240"
 tags = []
-title = "#135 TIFF: Critics Takes"
+title = "#135 TIFF 2026: Critics' Takes"
 youtube = ""
 
 +++

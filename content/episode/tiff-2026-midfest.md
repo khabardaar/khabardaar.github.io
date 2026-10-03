@@ -1,5 +1,5 @@
 +++
-Description = "Episode 134: TIFF: Mid-Fest"
+Description = "Episode 134: TIFF 2026: Mid-Fest"
 aliases = ["/134"]
 author = "Aparita"
 categories = []
@@ -13,7 +13,7 @@ podcast_duration = "0:17:28"
 podcast_file = "khabardaar-20260915-tiff-2026-midfest.mp3"
 podcast_bytes = "16785408"
 tags = []
-title = "#134 TIFF: Mid-Fest"
+title = "#134 TIFF 2026: Mid-Fest"
 youtube = ""
 
 +++

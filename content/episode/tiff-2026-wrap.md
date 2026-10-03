@@ -1,5 +1,5 @@
 +++
-Description = "Episode 136: TIFF: Wrap"
+Description = "Episode 136: TIFF 2026: Wrap"
 aliases = ["/136"]
 author = "Aparita"
 categories = []
@@ -13,7 +13,7 @@ podcast_duration = "0:33:57"
 podcast_file = "khabardaar-20260922-tiff-2026-wrap.mp3"
 podcast_bytes = "32608256"
 tags = []
-title = "#136 TIFF: Wrap"
+title = "#136 TIFF 2026: Wrap"
 youtube = ""
 
 +++
